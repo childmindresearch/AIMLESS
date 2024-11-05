@@ -1,0 +1,33 @@
+[
+    {
+        "dimension_name": "Negative Valence Systems",
+        "description": "Negative Valence Systems are primarily responsible for responses to aversive situations or context, such as fear, anxiety, and loss.",
+        "children":[]
+    },
+    {
+        "dimension_name": "Positive Valence Systems",
+        "description": "Positive Valence Systems are primarily responsible for responses to positive motivational situations or contexts, such as reward seeking and consummatory behavior.",
+        "children":[]
+    },
+    {
+        "dimension_name": "Cognitive Systems",
+        "description": "Cognitive Systems are responsible for various cognitive processes.",
+        "children":[]
+    },
+    {
+        "dimension_name": "Social Processes Systems",
+        "description": "Social Processes mediate responses in interpersonal settings of various types, including perception and interpretation of others’ actions",
+        "children":[]
+    },
+    {
+        "dimension_name": "Arousal/Regulatory Systems",
+        "description": "Arousal/Regulatory Systems are responsible for generating activation of neural systems as appropriate for various contexts and providing appropriate homeostatic regulation of such systems as energy balance and sleep.",
+        "children":[]
+    },
+    {
+        "dimension_name": "Sensorimotor Systems",
+        "description": "Sensorimotor Systems are primarily responsible for the control and execution of motor behaviors, and their refinement during learning and development.",
+        "children":[]
+    }
+]
+    

@@ -1,0 +1,62 @@
+level_0,level_1,level_2,level_3,description
+Internalizing,,,,Refers to conditions where emotional and cognitive distress are directed inward.
+Internalizing,Anxiety,,,"Characterized by excessive fear and worry, often leading to physical symptoms such as increased heart rate and sweating."
+Internalizing,Anxiety,Generalized Anxiety,,A state of persistent and excessive worry about various aspects of life.
+Internalizing,Anxiety,Generalized Anxiety,Cognitive Worry,Persistent worry impacting thought processes.
+Internalizing,Anxiety,Generalized Anxiety,Physical Symptoms,Physical manifestations like sweating or increased heart rate.
+Internalizing,Anxiety,Social Anxiety,,Intense fear or anxiety in social situations where the person may be negatively evaluated.
+Internalizing,Anxiety,Social Anxiety,Performance Fear,Anxiety related to performing tasks under observation.
+Internalizing,Anxiety,Social Anxiety,Interpersonal Fear,Fear of one-on-one or group social relations.
+Internalizing,Depression,,,Involves persistent sadness and a lack of interest or pleasure in previously rewarding or enjoyable activities.
+Internalizing,Depression,Major Depression,,A severe form of depression with persistent and intense feelings of sadness.
+Internalizing,Depression,Major Depression,Melancholic Features,Loss of pleasure in all activities and/or lack of mood reactivity to usually pleasurable stimuli.
+Internalizing,Depression,Major Depression,Atypical Features,"Mood reactivity, significant weight gain or increase in appetite, excessive sleepiness, and a leaden (heavy, lead-like) feeling in the arms or legs."
+Internalizing,Depression,Dysthymia,,A chronic form of depression with less severe but longer-lasting symptoms.
+Internalizing,Depression,Dysthymia,Early Onset,Symptoms begin during childhood or teenage years.
+Internalizing,Depression,Dysthymia,Late Onset,Symptoms begin after age 21.
+Internalizing,Somatic Complaints,,,"Physical symptoms that have no organic cause, often a manifestation of emotional distress."
+Internalizing,Somatic Complaints,Pain Disorders,,Persistent pain that is influenced by psychological factors.
+Internalizing,Somatic Complaints,Pain Disorders,Chronic Pain,Long-lasting pain not fully explained by medical conditions.
+Internalizing,Somatic Complaints,Pain Disorders,Acute Pain,Short-term pain episodes associated with stress.
+Internalizing,Somatic Complaints,Hypochondriasis,,Excessive worry about having a serious illness despite medical reassurance.
+Internalizing,Somatic Complaints,Hypochondriasis,Illness Anxiety,Worries about getting illnesses.
+Internalizing,Somatic Complaints,Hypochondriasis,Symptom Preoccupation,Focus on bodily symptoms as indicative of illness.
+Disinhibited Externalizing,,,,"Refers to behaviors that are outwardly directed and often disruptive, reflecting a lack of inhibition."
+Disinhibited Externalizing,Impulsivity,,,"A tendency to act on a whim, without thought or consideration of consequences."
+Disinhibited Externalizing,Impulsivity,Motor Impulsivity,,"Acting quickly on the spur of the moment, often resulting in accidents."
+Disinhibited Externalizing,Impulsivity,Motor Impulsivity,Accidental Harm,Injuries caused by impulsive actions.
+Disinhibited Externalizing,Impulsivity,Motor Impulsivity,Risky Behaviors,Engaging in activities with potential danger.
+Disinhibited Externalizing,Impulsivity,Cognitive Impulsivity,,Decisions made without adequate planning or consideration of the consequences.
+Disinhibited Externalizing,Impulsivity,Cognitive Impulsivity,Decision-Making Errors,Frequent mistakes in judgment and choices due to impulsivity.
+Disinhibited Externalizing,Impulsivity,Cognitive Impulsivity,Thoughtless Reactions,Immediate reactions without much cognitive reflection.
+Disinhibited Externalizing,Hyperactivity,,,"Excessive movement, fidgeting, and an inability to stay still."
+Disinhibited Externalizing,Hyperactivity,Physical Hyperactivity,,Excessive bodily movement and an inability to sit still.
+Disinhibited Externalizing,Hyperactivity,Verbal Hyperactivity,,Excessive talking and difficulty being quiet.
+Antagonistic Externalizing,,,,Refers to behaviors that are hostile and oppositional towards others.
+Antagonistic Externalizing,Aggressiveness,,,Inclination to behave in a hostile or violent way.
+Antagonistic Externalizing,Aggressiveness,Physical Aggression,,Acts of physical violence or harm towards others.
+Antagonistic Externalizing,Aggressiveness,Verbal Aggression,,Use of words to hurt or dominate others.
+Antagonistic Externalizing,Oppositionality,,,"Resistance to authority, defiance, and noncompliance with rules."
+Antagonistic Externalizing,Oppositionality,Defiance,,Open resistance to authority or instructions.
+Antagonistic Externalizing,Oppositionality,Negativism,,Persistent negative attitude and refusal to comply.
+Thought Disorder,,,,"Refers to disruptions in the normal thought processes, which can affect perception, thinking, language, and behavior."
+Thought Disorder,Delusions,,,Strong beliefs that are not grounded in reality and are resistant to contrary evidence.
+Thought Disorder,Delusions,Persecutory Delusions,,Belief that one is being targeted or persecuted by others.
+Thought Disorder,Delusions,Grandiose Delusions,,"Belief in having exceptional abilities, wealth, or fame."
+Thought Disorder,Hallucinations,,,Perceptions in any sensory modality for which there are no external stimuli.
+Thought Disorder,Hallucinations,Auditory Hallucinations,,Hearing voices or sounds without external stimulus.
+Thought Disorder,Hallucinations,Visual Hallucinations,,Seeing things that are not present.
+Detachment,,,,"Refers to withdrawal or disengagement from social, emotional, or cognitive functions."
+Detachment,Anhedonia,,,Inability to feel pleasure in normally pleasurable activities.
+Detachment,Anhedonia,Social Anhedonia,,Lack of interest in social interactions or relationships.
+Detachment,Anhedonia,Physical Anhedonia,,Reduced pleasure in physical sensations or activities.
+Detachment,Emotional Numbing,,,Reduced emotional experience and expression.
+Detachment,Emotional Numbing,Affective Blunting,,Reduction in the intensity of emotional response.
+Detachment,Emotional Numbing,Dissociation,,"Disconnection from thoughts, identity, consciousness, or memory."
+Somatoform,,,,Involves the presence of physical symptoms that suggest a medical condition but are not fully explained by a medical condition.
+Somatoform,Conversion Disorder,,,Neurological symptoms manifest without a neurological diagnosis.
+Somatoform,Conversion Disorder,Motor Symptoms,,Impaired coordination or balance without organic cause.
+Somatoform,Conversion Disorder,Sensory Symptoms,,Altered sensation without a medical explanation.
+Somatoform,Somatization,,,Chronic condition involving unexplained physical symptoms across multiple areas of the body.
+Somatoform,Somatization,Single Symptom Cases,,Focus on one symptom without organic cause.
+Somatoform,Somatization,Multiple Symptom Cases,,Presence of numerous symptoms without adequate medical explanation.

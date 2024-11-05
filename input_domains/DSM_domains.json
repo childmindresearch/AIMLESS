@@ -1,0 +1,84 @@
+
+[
+    {
+        "dimension_name": "Neurodevelopment",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Psychotic",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Bipolar",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Depressive",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Anxiety",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Obsessive-Compulsive",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Trauma and Stressors",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Dissociation",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Somatic",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Feeding and Eating",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Elimination",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Sleep-Wake",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Gender",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Disruption, Impulse Control, and Conduct",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Neurocognition",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Personality",
+        "description": "",
+        "children":[]
+    }
+]
+    

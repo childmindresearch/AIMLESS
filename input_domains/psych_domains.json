@@ -1,0 +1,27 @@
+[
+    {
+        "dimension_name": "Sensation/Perception",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Behavior",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Emotion",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Cognition",
+        "description": "",
+        "children":[]
+    },
+    {
+        "dimension_name": "Physiology",
+        "description": "",
+        "children":[]
+    }
+]

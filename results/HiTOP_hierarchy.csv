@@ -1,0 +1,89 @@
+level_0,level_1,level_2,level_3,level_4,description
+Internalizing,,,,,"Internalizing dimensions involve inward-focused experiences and behaviors, such as anxiety, depression, and withdrawal."
+Internalizing,Anxiety,,,,"A dimension related to excessive fear or worry, often impacting normal functioning."
+Internalizing,Anxiety,Generalized Anxiety,,,"Persistent and excessive worry about various aspects of life such as work, relationships, or health."
+Internalizing,Anxiety,Generalized Anxiety,Health Anxiety,,Excessive worry about having a serious illness despite medical reassurance.
+Internalizing,Anxiety,Generalized Anxiety,Decision-making Anxiety,,Anxiety that particularly arises in situations requiring decisions.
+Internalizing,Anxiety,Social Anxiety,,,"Intense anxiety or fear of being judged, negatively evaluated, or rejected in a social or performance situation."
+Internalizing,Anxiety,Social Anxiety,Performance Anxiety,,"Fear of performing tasks in front of others, affecting performance ability."
+Internalizing,Anxiety,Social Anxiety,Interaction Anxiety,,"Fear of interacting with others, leading to avoidance of social situations."
+Internalizing,Depression,,,,"A dimension involving persistent sadness and loss of interest, affecting daily life."
+Internalizing,Depression,Major Depression,,,"A severe form of depression involving persistent sadness, lack of interest, and other cognitive and physical symptoms affecting daily functioning."
+Internalizing,Depression,Major Depression,Melancholic Features,,A subtype with profound lack of pleasure in all or almost all activities.
+Internalizing,Depression,Major Depression,Atypical Features,,A subtype with mood reactivity and positive affect in response to positive events.
+Internalizing,Depression,Dysthymia,,,"A chronic form of depression with fewer severe symptoms than major depression, but lasting for a longer period."
+Internalizing,Depression,Dysthymia,Early Onset Dysthymia,,Chronic depression symptoms starting before age 21.
+Internalizing,Depression,Dysthymia,Late Onset Dysthymia,,Chronic depression symptoms developing at or after age 21.
+Disinhibited Externalizing,,,,,Disinhibited externalizing dimensions involve outward-directed behaviors characterized by impulsivity and hyperactivity.
+Disinhibited Externalizing,Impulsivity,,,,"A dimension related to acting on a whim, displaying behavior with little or no forethought, reflection, or consideration of the consequences."
+Disinhibited Externalizing,Impulsivity,Motor Impulsivity,,,"The tendency to act without thinking through motor actions, often seen in physical restlessness or fidgeting."
+Disinhibited Externalizing,Impulsivity,Motor Impulsivity,Impulsive Speech,,"Speaking without forethought, regardless of context or consequences."
+Disinhibited Externalizing,Impulsivity,Motor Impulsivity,Impulsive Actions,,Performing unexpected actions abruptly and without consideration.
+Disinhibited Externalizing,Impulsivity,Cognitive Impulsivity,,,Quick thinking or decision-making without detailed processing or understanding of the consequences.
+Disinhibited Externalizing,Impulsivity,Cognitive Impulsivity,Attention Deficits,,Impaired ability to maintain attention on tasks.
+Disinhibited Externalizing,Impulsivity,Cognitive Impulsivity,Poor Risk Assessment,,Tendency to underestimate or overlook potential risks.
+Disinhibited Externalizing,Hyperactivity,,,,"A dimension characterized by excessive movement, fidgeting, and an inability to stay still."
+Disinhibited Externalizing,Hyperactivity,Motor Hyperactivity,,,Excessive physical movement and restlessness.
+Disinhibited Externalizing,Hyperactivity,Motor Hyperactivity,Excessive Fidgeting,,Frequent movements or adjustments out of restlessness.
+Disinhibited Externalizing,Hyperactivity,Motor Hyperactivity,Inability to Stay Seated,,Difficulty in remaining seated when it is expected.
+Disinhibited Externalizing,Hyperactivity,Verbal Hyperactivity,,,Excessive talking and difficulty in staying quiet or listening.
+Disinhibited Externalizing,Hyperactivity,Verbal Hyperactivity,Interruptive Behavior,,Frequently interrupting others.
+Disinhibited Externalizing,Hyperactivity,Verbal Hyperactivity,Excessive Talking in Classrooms,,Talking excessively in inappropriate settings such as classrooms.
+Antagonistic Externalizing,,,,,Antagonistic externalizing dimensions are marked by hostile or oppositional behaviors.
+Antagonistic Externalizing,Aggression,,,,A dimension involving hostile or violent behavior towards others.
+Antagonistic Externalizing,Aggression,Physical Aggression,,,Acts of physical violence toward others.
+Antagonistic Externalizing,Aggression,Physical Aggression,Reactive Physical Aggression,,Aggressive response to perceived threat or frustration.
+Antagonistic Externalizing,Aggression,Physical Aggression,Proactive Physical Aggression,,Aggressive actions intended for gain or dominance.
+Antagonistic Externalizing,Aggression,Verbal Aggression,,,"Using words to harm others, such as insults or threats."
+Antagonistic Externalizing,Aggression,Verbal Aggression,Direct Verbal Aggressiveness,,Blatant verbal insults and profanity.
+Antagonistic Externalizing,Aggression,Verbal Aggression,Indirect Verbal Aggressiveness,,Subtle or passive-aggressive language to harm reputation or feelings.
+Antagonistic Externalizing,Defiance,,,,A dimension characterized by resistance to authority or control.
+Antagonistic Externalizing,Defiance,Passive Defiance,,,"Indirect resistance, such as procrastination or inaction."
+Antagonistic Externalizing,Defiance,Passive Defiance,Avoidance Behavior,,Technique of avoiding tasks or commands rather than direct refusal.
+Antagonistic Externalizing,Defiance,Passive Defiance,Silent Treatment,,Refusal to communicate as a form of resistance.
+Antagonistic Externalizing,Defiance,Active Defiance,,,"Direct and overt resistance, such as arguing or refusing orders."
+Antagonistic Externalizing,Defiance,Active Defiance,Argumentative Behavior,,Habit of arguing against authorities or rules.
+Antagonistic Externalizing,Defiance,Active Defiance,Rule Breaking,,Deliberately breaking rules to show defiance.
+Thought Disorder,,,,,"Thought disorder dimensions encompass disruptions in thinking patterns, such as delusions and hallucinations."
+Thought Disorder,Delusions,,,,A dimension involving strong beliefs that are contradicted by reality or rational argument.
+Thought Disorder,Delusions,Paranoid Delusions,,,"Characterized by strong, irrational feelings of persecution or imaginary conspiracies against oneself."
+Thought Disorder,Delusions,Paranoid Delusions,Bizarre Delusions,,Implausible beliefs that could not occur in real life.
+Thought Disorder,Delusions,Paranoid Delusions,Persecutory Delusions,,Belief that one is being plotted against or oppressed by others.
+Thought Disorder,Delusions,Grandiose Delusions,,,"False beliefs in one's exceptional abilities, wealth, or fame."
+Thought Disorder,Delusions,Grandiose Delusions,Religious Delusions,,Beliefs of having religious powers or being a religious figure.
+Thought Disorder,Delusions,Grandiose Delusions,Religious Delusions,Messianic Delusions,Belief in being a savior or messianic figure.
+Thought Disorder,Delusions,Grandiose Delusions,Religious Delusions,Blasphemous Delusions,Claiming divine abilities or identity contrary to existing doctrine.
+Thought Disorder,Hallucinations,,,,"A dimension that includes perceiving things that are not present in reality, often auditory or visual."
+Thought Disorder,Hallucinations,Auditory Hallucinations,,,Hearing voices or sounds that are not actually present.
+Thought Disorder,Hallucinations,Auditory Hallucinations,Command Hallucinations,,Hearing voices instructing specific actions.
+Thought Disorder,Hallucinations,Auditory Hallucinations,Non-Vocal Sounds,,"Hearing noises without a source, such as footsteps."
+Thought Disorder,Hallucinations,Visual Hallucinations,,,Seeing images or lights that are not actually present.
+Thought Disorder,Hallucinations,Visual Hallucinations,Simple Visual Hallucinations,,Seeing basic shapes or flashes of light.
+Thought Disorder,Hallucinations,Visual Hallucinations,Complex Visual Hallucinations,,"Seeing detailed images of people, animals, or scenes."
+Detachment,,,,,Detachment dimensions reflect disengagement from emotional or social connections.
+Detachment,Emotional Withdrawal,,,,A dimension reflecting the avoidance or disinterest in emotional connections or interactions.
+Detachment,Emotional Withdrawal,Social Withdrawal,,,Avoidance and disengagement from social interactions or environment.
+Detachment,Emotional Withdrawal,Social Withdrawal,Self-isolation,,Deliberate exclusion of oneself from social situations.
+Detachment,Emotional Withdrawal,Emotional Numbness,,,"An inability to feel emotions, often as a protective response to trauma or stress."
+Detachment,Emotional Withdrawal,Emotional Numbness,Trauma-induced Numbness,,Emotional blunting following trauma.
+Detachment,Emotional Withdrawal,Emotional Numbness,Stress-induced Numbness,,Reduced emotional responsiveness due to prolonged stress.
+Detachment,Apathy,,,,"A dimension involving a lack of interest, enthusiasm, or concern."
+Detachment,Apathy,Selective Apathy,,,Lack of concern for specific areas of life while remaining engaged in others.
+Detachment,Apathy,Selective Apathy,Professional Apathy,,Lack of interest in work-related activities.
+Detachment,Apathy,Selective Apathy,Social Apathy,,Disinterest in social engagements despite capability.
+Detachment,Apathy,Global Apathy,,,Widespread lack of interest across most or all aspects of life.
+Detachment,Apathy,Global Apathy,Chronic Apathy,,Persistent and enduring apathy over time.
+Detachment,Apathy,Global Apathy,Acute Apathy,,Sudden but usually short-lived periods of indifference.
+Somatoform,,,,,Somatoform dimensions involve the manifestation of psychological distress through physical symptoms.
+Somatoform,Somatization,,,,A dimension where psychological distress is expressed through physical symptoms.
+Somatoform,Somatization,Functional Neurological Symptom Disorder,,,"Involves physical symptoms affecting voluntary motor or sensory function, resembling a neurological disorder."
+Somatoform,Somatization,Functional Neurological Symptom Disorder,Seizures and Convulsions,,Non-epileptic seizures with psychological triggers.
+Somatoform,Somatization,Pain Disorder,,,Experiencing chronic pain with psychological factors playing a role in the onset or maintenance of the pain.
+Somatoform,Somatization,Pain Disorder,Psychogenic Pain,,Pain predominantly influenced by psychological factors.
+Somatoform,Somatization,Pain Disorder,Chronic Pain Syndrome,,Persistent pain with significant psychological impact.
+Somatoform,Conversion Symptoms,,,,A dimension characterized by a change in or loss of physical functioning that is not explained by any medical condition.
+Somatoform,Conversion Symptoms,Motor Symptoms,,,"Includes symptoms such as paralysis, tremors, gait abnormalities or muscle weakness not explained medically."
+Somatoform,Conversion Symptoms,Motor Symptoms,Paralysis,,Loss of ability to move muscles not due to neurological damage.
+Somatoform,Conversion Symptoms,Sensory Symptoms,,,"Include loss or alteration of senses like vision, speech, or smell without a medical cause."
+Somatoform,Conversion Symptoms,Sensory Symptoms,Blindness,,Loss of vision without organic impairment.
+Somatoform,Conversion Symptoms,Sensory Symptoms,Aphonia,,Loss of voice without laryngeal pathology.

@@ -1,0 +1,35 @@
+f"""We are creating a hierarchical model of neuropsychological concepts. This model will be ultimately used as rating scales to assess function in specific dimensions of neuropsychology. 
+Each dimension of functioning should be neutral and applicable to the general population, not only disorders. Extreme presentations of a dimension may be related to a cognitive or psychological disorder. 
+Each dimension should also relate to an evidence-based scientific concept or construct for the field of neuropsychology and child development.
+Each dimension must have a "parent" dimension (unless they are "root" dimensions) and zero, one or more "child" dimensions, illustrating the notion of sub-components or special cases of dimensions.
+
+The “root” dimensions, or highest level psychological domains, that we are using are the following:
+    1. Cognitive Function
+    2. Emotion Regulation
+    3. Social Interaction
+    4. Communication and Language
+    5. Behavioral Control
+    6. Physical Health and Activity
+    7. Attention and Perception
+    8. Adaptive Functioning and Life Skills
+    9. Motivation and Goal-Directed Behavior
+    10. Self-Concept and Identity
+
+However, right now, we are focusing only on the {domain_name} dimension.
+
+Include the following attributes for each dimension:
+    - "title" is the name of the dimension, related to an established concept or construct.
+    - "description" is a brief description of the dimension.
+    - "children" is a list of dimensions, each following the same format, that fall under the umbrella of this higher level category.
+
+Your job is to subdivide the dimensions of this tree, one level at a time. I will give you the current hierarchical model, and you add children dimensions as relevant. 
+
+We will continue to iterate and split these dimensions until either (a) you determine we have reached the lowest measurable dimensions of neuropsychology, or (b) we complete {max_iterations} iterations of this prompt. When creating your subdivisions, keep in mind this is iteration number {i}.
+
+If a dimension does not have any relevant subcategories, and represents a single measurable dimension, return it as is, keeping the description identical, and leave the "children" attribute empty. Do not add unnecessary dimensions or sublevels.
+
+Do not remove or edit any dimensions or their descriptions. You are only responsible for adding new dimensions. Do not make the dimensions overly specific, especially on the first and second iterations. Increase the specificity of the dimensions as you add more layers to the model. Only add one additional level to the model at a time. Again, keep in mind that this is iteration number {i}.
+
+Here is the current model: {input}.
+
+Return the updated model."""

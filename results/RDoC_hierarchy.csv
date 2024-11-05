@@ -1,0 +1,70 @@
+level_0,level_1,level_2,description
+Negative Valence Systems,"Negative Valence Systems are primarily responsible for responses to aversive situations or context, such as fear, anxiety, and loss.",,
+Negative Valence Systems,Acute Threat,Processes associated with fear and anxiety in response to immediate danger or threat.,
+Negative Valence Systems,Acute Threat,Fear Response,Immediate physiological and behavioral reactions to perceived threats.
+Negative Valence Systems,Acute Threat,Threat Detection,Processes involved in identifying and assessing immediate dangers in the environment.
+Negative Valence Systems,Potential Threat,Processes associated with anxiety and vigilance in response to uncertain or potential future threats.,
+Negative Valence Systems,Potential Threat,Anticipatory Anxiety,Emotional and cognitive processes related to the expectation of future threats or negative outcomes.
+Negative Valence Systems,Potential Threat,Risk Assessment,Evaluation of potential dangers and their likelihood in uncertain situations.
+Negative Valence Systems,Sustained Threat,Processes associated with prolonged exposure to adverse situations or contexts.,
+Negative Valence Systems,Sustained Threat,Chronic Stress Response,Physiological and psychological adaptations to ongoing adverse conditions.
+Negative Valence Systems,Sustained Threat,Allostatic Load,Cumulative wear and tear on the body's systems due to chronic stress.
+Negative Valence Systems,Loss,"Processes associated with depressive states following the loss of a valued object, person, or concept.",
+Negative Valence Systems,Loss,Grief Response,Emotional and cognitive reactions to significant loss.
+Negative Valence Systems,Loss,Adaptation to Loss,Processes involved in adjusting to and coping with loss over time.
+Positive Valence Systems,"Positive Valence Systems are primarily responsible for responses to positive motivational situations or contexts, such as reward seeking and consummatory behavior.",,
+Positive Valence Systems,Reward Seeking,Processes involved in the pursuit and anticipation of rewards.,
+Positive Valence Systems,Reward Seeking,Motivation,Drive and energy directed towards obtaining rewards or positive outcomes.
+Positive Valence Systems,Reward Seeking,Goal-Directed Behavior,Actions and strategies employed to achieve desired rewards or outcomes.
+Positive Valence Systems,Reward Responsiveness,Processes involved in experiencing pleasure or positive emotions in response to rewards.,
+Positive Valence Systems,Reward Responsiveness,Hedonic Response,The experience of pleasure or positive affect in response to rewards.
+Positive Valence Systems,Reward Responsiveness,Reward Valuation,The subjective assessment of the value or importance of different rewards.
+Positive Valence Systems,Habit Formation,Processes involved in the development and maintenance of reward-related habits.,
+Positive Valence Systems,Habit Formation,Reinforcement Learning,The strengthening of behaviors that lead to positive outcomes through repeated experiences.
+Positive Valence Systems,Habit Formation,Behavioral Persistence,The tendency to maintain rewarded behaviors even in the absence of immediate reinforcement.
+Cognitive Systems,Cognitive Systems are responsible for various cognitive processes.,,
+Cognitive Systems,Attention,Processes involved in the selection and modulation of internal and external stimuli.,
+Cognitive Systems,Attention,Selective Attention,The ability to focus on relevant stimuli while ignoring irrelevant ones.
+Cognitive Systems,Attention,Sustained Attention,The ability to maintain focus on a task or stimulus over an extended period.
+Cognitive Systems,Perception,Processes involved in the organization and interpretation of sensory information.,
+Cognitive Systems,Perception,Sensory Processing,The initial reception and processing of sensory input from the environment.
+Cognitive Systems,Perception,Pattern Recognition,The ability to identify and categorize complex sensory stimuli based on prior knowledge and experience.
+Cognitive Systems,Memory,"Processes involved in the encoding, storage, and retrieval of information.",
+Cognitive Systems,Memory,Working Memory,The temporary storage and manipulation of information necessary for complex cognitive tasks.
+Cognitive Systems,Memory,Long-term Memory,The storage and retrieval of information over extended periods.
+Cognitive Systems,Language,Processes involved in the production and comprehension of symbolic communication.,
+Cognitive Systems,Language,Language Comprehension,The ability to understand and interpret spoken and written language.
+Cognitive Systems,Language,Language Production,The ability to generate and articulate spoken and written language.
+Cognitive Systems,Cognitive Control,"Processes involved in goal-directed behavior, decision making, and response inhibition.",
+Cognitive Systems,Cognitive Control,Inhibitory Control,The ability to suppress inappropriate or irrelevant responses or behaviors.
+Cognitive Systems,Cognitive Control,Cognitive Flexibility,The ability to adapt cognitive strategies in response to changing environmental demands.
+Social Processes Systems,"Social Processes mediate responses in interpersonal settings of various types, including perception and interpretation of others' actions",,
+Social Processes Systems,Affiliation and Attachment,Processes involved in the formation and maintenance of social bonds.,
+Social Processes Systems,Affiliation and Attachment,Social Bonding,The development and strengthening of emotional connections with others.
+Social Processes Systems,Affiliation and Attachment,Attachment Styles,Patterns of emotional and behavioral responses in close relationships.
+Social Processes Systems,Social Communication,Processes involved in the exchange of social information through verbal and non-verbal means.,
+Social Processes Systems,Social Communication,Verbal Communication,"The use of language to convey thoughts, feelings, and intentions in social interactions."
+Social Processes Systems,Social Communication,Non-verbal Communication,"The use of facial expressions, gestures, and body language to convey social information."
+Social Processes Systems,Perception of Self and Others,Processes involved in understanding oneself and others in social contexts.,
+Social Processes Systems,Perception of Self and Others,Self-awareness,"The ability to recognize and understand one's own thoughts, feelings, and behaviors."
+Social Processes Systems,Perception of Self and Others,Theory of Mind,"The ability to attribute mental states, beliefs, and intentions to others."
+Arousal/Regulatory Systems,Arousal/Regulatory Systems are responsible for generating activation of neural systems as appropriate for various contexts and providing appropriate homeostatic regulation of such systems as energy balance and sleep.,,
+Arousal/Regulatory Systems,Arousal,Processes involved in the activation and modulation of cognitive and physiological systems.,
+Arousal/Regulatory Systems,Arousal,Physiological Arousal,"Changes in bodily states associated with increased activation, such as heart rate and skin conductance."
+Arousal/Regulatory Systems,Arousal,Cognitive Arousal,Heightened mental alertness and readiness for information processing.
+Arousal/Regulatory Systems,Circadian Rhythms,"Processes involved in the regulation of biological cycles, including sleep-wake patterns.",
+Arousal/Regulatory Systems,Circadian Rhythms,Biological Clock,Internal timing mechanisms that regulate physiological processes over a 24-hour cycle.
+Arousal/Regulatory Systems,Circadian Rhythms,Circadian Entrainment,The alignment of internal biological rhythms with external environmental cues.
+Arousal/Regulatory Systems,Sleep-Wakefulness,Processes involved in the regulation of sleep and wakefulness states.,
+Arousal/Regulatory Systems,Sleep-Wakefulness,Sleep Regulation,"Mechanisms controlling the onset, duration, and quality of sleep."
+Arousal/Regulatory Systems,Sleep-Wakefulness,Wakefulness Maintenance,Processes involved in sustaining alertness and consciousness during waking hours.
+Sensorimotor Systems,"Sensorimotor Systems are primarily responsible for the control and execution of motor behaviors, and their refinement during learning and development.",,
+Sensorimotor Systems,Motor Actions,"Processes involved in the planning, execution, and control of voluntary movements.",
+Sensorimotor Systems,Motor Actions,Motor Planning,The cognitive processes involved in preparing and organizing sequences of movements.
+Sensorimotor Systems,Motor Actions,Motor Execution,The physical implementation of planned movements through muscle activation and coordination.
+Sensorimotor Systems,Agency and Ownership,Processes involved in the sense of control over one's actions and the feeling of ownership of one's body.,
+Sensorimotor Systems,Agency and Ownership,Sense of Agency,The subjective experience of being the initiator and controller of one's actions.
+Sensorimotor Systems,Agency and Ownership,Body Ownership,The feeling that one's body and its parts belong to oneself.
+Sensorimotor Systems,Habit and Skill Learning,Processes involved in the acquisition and refinement of motor skills through practice and experience.,
+Sensorimotor Systems,Habit and Skill Learning,Motor Skill Acquisition,The initial learning and development of new movement patterns or sequences.
+Sensorimotor Systems,Habit and Skill Learning,Skill Refinement,The ongoing improvement and fine-tuning of learned motor skills through practice and feedback.

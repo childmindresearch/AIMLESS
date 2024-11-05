@@ -1,14 +1,20 @@
 [tool.poetry]
-name = "app-name"
+name = "aimless"
 version = "0.1.0"
 description = "A beautiful description."
-authors = ["Reinder Vos de Wael <reinder.vosdewael@childmind.org>"]
+authors = [""]
 license = "LGPL-2.1"
 readme = "README.md"
 packages = [{include = "APP_NAME", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "~3.11"
+anthropic = "^0.39.0"
+jupyter = "^1.1.1"
+pandas = "^2.2.3"
+openai = "^1.54.1"
+instructor = "^1.6.3"
+plotly = "^5.24.1"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.3"

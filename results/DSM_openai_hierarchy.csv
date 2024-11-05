@@ -1,0 +1,140 @@
+level_0,level_1,level_2,level_3,level_4,description
+Neurodevelopment,,,,,Refers to the neurological and psychological growth and development processes in individuals.
+Neurodevelopment,Motor Skills,,,,Coordination and physical movement abilities.
+Neurodevelopment,Motor Skills,Fine Motor Skills,,,"Control of small muscles, enabling activities like writing or buttoning shirts."
+Neurodevelopment,Motor Skills,Fine Motor Skills,Hand-Eye Coordination,,Ability to coordinate hand movements with visual input.
+Neurodevelopment,Motor Skills,Fine Motor Skills,Hand-Eye Coordination,Visual Tracking,The ability to accurately follow moving objects with the eyes.
+Neurodevelopment,Motor Skills,Fine Motor Skills,Hand-Eye Coordination,Grip Strength,The force applied by the hand when gripping an object.
+Neurodevelopment,Motor Skills,Fine Motor Skills,Dexterity,,"Skill and grace in physical movement, specifically of the hands."
+Neurodevelopment,Motor Skills,Fine Motor Skills,Dexterity,Finger Dexterity,The ability to control and manipulate small objects with fingers.
+Neurodevelopment,Motor Skills,Fine Motor Skills,Dexterity,Bimanual Coordination,The coordinated use of both hands to accomplish a task.
+Neurodevelopment,Motor Skills,Gross Motor Skills,,,Use of large muscles for actions such as walking or jumping.
+Neurodevelopment,Motor Skills,Gross Motor Skills,Balance,,Ability to maintain equilibrium while stationary or moving.
+Neurodevelopment,Motor Skills,Gross Motor Skills,Balance,Static Balance,The ability to maintain control of the body's position while standing still.
+Neurodevelopment,Motor Skills,Gross Motor Skills,Balance,Dynamic Balance,The ability to maintain control of the body while moving.
+Neurodevelopment,Motor Skills,Gross Motor Skills,Coordination,,Smooth and efficient movement patterns.
+Neurodevelopment,Motor Skills,Gross Motor Skills,Coordination,Eye-Foot Coordination,The ability to coordinate visual input with movements of the feet.
+Neurodevelopment,Motor Skills,Gross Motor Skills,Coordination,Gross Body Coordination,The integrated use of multiple body parts in overall movement.
+Neurodevelopment,Language Development,,,,"Development of communication abilities, both verbal and non-verbal."
+Neurodevelopment,Language Development,Receptive Language,,,Ability to understand language.
+Neurodevelopment,Language Development,Receptive Language,Vocabulary Comprehension,,Understanding and processing of words and their meanings.
+Neurodevelopment,Language Development,Receptive Language,Vocabulary Comprehension,Semantic Processing,Understanding and processing the meanings of words within context.
+Neurodevelopment,Language Development,Receptive Language,Vocabulary Comprehension,Word Recognition,The ability to recognize and understand words quickly and accurately.
+Neurodevelopment,Language Development,Receptive Language,Grammar Comprehension,,Understanding the rules that govern sentence structure and syntax.
+Neurodevelopment,Language Development,Receptive Language,Grammar Comprehension,Syntax Processing,The ability to comprehend grammatically structured sentences.
+Neurodevelopment,Language Development,Receptive Language,Grammar Comprehension,Morphological Knowledge,Understanding the structure of words including roots and affixes.
+Neurodevelopment,Language Development,Expressive Language,,,Ability to convey or communicate information.
+Neurodevelopment,Language Development,Expressive Language,Vocabulary Usage,,Effective use of words to communicate ideas.
+Neurodevelopment,Language Development,Expressive Language,Vocabulary Usage,Word Production,The ability to produce spoken words clearly and fluently.
+Neurodevelopment,Language Development,Expressive Language,Vocabulary Usage,Lexical Selection,Choosing the right words to convey precise meanings.
+Neurodevelopment,Language Development,Expressive Language,Syntax and Grammar Usage,,Ability to construct sentences with correct syntax and grammar.
+Neurodevelopment,Language Development,Expressive Language,Syntax and Grammar Usage,Sentence Construction,The process of combining words to form coherent sentences.
+Neurodevelopment,Language Development,Expressive Language,Syntax and Grammar Usage,Grammar Appropriacy,Using correct grammatical structures in communication.
+Neurodevelopment,Social Skills,,,,Ability to interact and communicate effectively with others.
+Neurodevelopment,Social Skills,Social Perception,,,Ability to perceive or understand social cues and contexts.
+Neurodevelopment,Social Skills,Social Perception,Emotional Recognition,,Ability to identify and interpret emotions in others.
+Neurodevelopment,Social Skills,Social Perception,Emotional Recognition,Facial Expression Interpretation,Understanding emotions by analyzing facial expressions.
+Neurodevelopment,Social Skills,Social Perception,Emotional Recognition,Emotional Vocal Cues,Recognizing emotions through vocal expressions.
+Neurodevelopment,Social Skills,Social Perception,Social Context Understanding,,Comprehending norms and expectations in various social settings.
+Neurodevelopment,Social Skills,Social Perception,Social Context Understanding,Cultural Norms Awareness,Understanding the unwritten social rules within different cultures.
+Neurodevelopment,Social Skills,Social Perception,Social Context Understanding,Role Expectation,Understanding expected behaviors in different social roles.
+Neurodevelopment,Social Skills,Social Interaction Skills,,,Effective engagement and interaction within social settings.
+Neurodevelopment,Social Skills,Social Interaction Skills,Conversational Skills,,"Ability to initiate, sustain, and end conversations appropriately."
+Neurodevelopment,Social Skills,Social Interaction Skills,Conversational Skills,Turn-Taking,The skill of taking turns while engaging in dialogues.
+Neurodevelopment,Social Skills,Social Interaction Skills,Conversational Skills,Nonverbal Cues Integration,"Using gestures, eye contact, and other nonverbal signals effectively during interactions."
+Neurodevelopment,Social Skills,Social Interaction Skills,Empathy,,Capacity to understand and share the feelings of others.
+Neurodevelopment,Social Skills,Social Interaction Skills,Empathy,Perspective-Taking,The ability to understand different viewpoints.
+Neurodevelopment,Social Skills,Social Interaction Skills,Empathy,Compassion,Sympathetic awareness of others' distress with a desire to alleviate it.
+Psychotic,,,,,"Affects the way one perceives reality, potentially leading to hallucinations or delusions."
+Psychotic,Hallucinations,,,,Perceptions with no basis in reality.
+Psychotic,Hallucinations,Auditory Hallucinations,,,Hearing sounds that are not present.
+Psychotic,Hallucinations,Auditory Hallucinations,Voices,,Hearing voices that are not present.
+Psychotic,Hallucinations,Auditory Hallucinations,Voices,Command Hallucinations,Hearing voices that instruct behavior.
+Psychotic,Hallucinations,Auditory Hallucinations,Voices,Commentary Hallucinations,Hearing voices that provide a narrative or commentary.
+Psychotic,Hallucinations,Auditory Hallucinations,Sounds,,Hearing non-verbal auditory phenomena that are not present.
+Psychotic,Hallucinations,Auditory Hallucinations,Sounds,Nonverbal Sounds,Hearing noises such as buzzing or knocking.
+Psychotic,Hallucinations,Auditory Hallucinations,Sounds,Musical Hallucinations,Hearing music with no external source.
+Psychotic,Hallucinations,Visual Hallucinations,,,Seeing things that are not present.
+Psychotic,Hallucinations,Visual Hallucinations,Complex Visual Hallucinations,,Seeing detailed images or scenes.
+Psychotic,Hallucinations,Visual Hallucinations,Complex Visual Hallucinations,Human Figures,Seeing non-existent human forms or figures.
+Psychotic,Hallucinations,Visual Hallucinations,Complex Visual Hallucinations,Animals or Creatures,Perceiving non-existent animals or fantastical creatures.
+Psychotic,Hallucinations,Visual Hallucinations,Simple Visual Hallucinations,,Seeing simple forms or colors.
+Psychotic,Hallucinations,Visual Hallucinations,Simple Visual Hallucinations,Flashes of Light,"Seeing brief, bright flashes."
+Psychotic,Hallucinations,Visual Hallucinations,Simple Visual Hallucinations,Shapes or Patterns,Perceiving geometric shapes or patterns.
+Psychotic,Delusions,,,,Strong beliefs in things that are not true.
+Psychotic,Delusions,Persecutory Delusions,,,Belief that one is going to be harmed or harassed.
+Psychotic,Delusions,Persecutory Delusions,Paranoia,,Anxiety or fear that others are plotting against oneself.
+Psychotic,Delusions,Persecutory Delusions,Paranoia,Suspicion,The state of mistrust and doubt about others' intentions.
+Psychotic,Delusions,Persecutory Delusions,Paranoia,Hypervigilance about Harm,Intense focus on potential threats and dangers.
+Psychotic,Delusions,Persecutory Delusions,Jealous Delusions,,Belief that one's partner is unfaithful without evidence.
+Psychotic,Delusions,Persecutory Delusions,Jealous Delusions,Infidelity Fixation,Obsessive thoughts about partner's unfaithfulness.
+Psychotic,Delusions,Persecutory Delusions,Jealous Delusions,Comparative Jealousy,Feelings of jealousy based on perceived competition with others.
+Psychotic,Delusions,Grandiose Delusions,,,"Belief of having exceptional abilities, wealth, or fame."
+Psychotic,Delusions,Grandiose Delusions,Religious Grandiosity,,Belief of having special religious status or power.
+Psychotic,Delusions,Grandiose Delusions,Religious Grandiosity,Messianic Beliefs,Belief in being a prophesied or savior figure.
+Psychotic,Delusions,Grandiose Delusions,Religious Grandiosity,Divine Insight,Claim of receiving divine revelations or insights.
+Psychotic,Delusions,Grandiose Delusions,Mystical Delusions,,Belief in having special mystic insights or powers.
+Psychotic,Delusions,Grandiose Delusions,Mystical Delusions,Paranormal Abilities,Belief in having supernatural abilities.
+Psychotic,Delusions,Grandiose Delusions,Mystical Delusions,Cosmic Connections,Belief in special connection with cosmic or universal forces.
+Bipolar,,,,,Characterized by mood swings between mania and depression.
+Bipolar,Mania,,,,Period of extremely elevated mood and energy.
+Bipolar,Mania,Euphoric Mania,,,Extreme feelings of happiness and well-being.
+Bipolar,Mania,Euphoric Mania,Energetic Euphoria,,Heightened energy levels during euphoria.
+Bipolar,Mania,Euphoric Mania,Energetic Euphoria,Sleepless Euphoria,High energy despite reduced need for sleep.
+Bipolar,Mania,Euphoric Mania,Energetic Euphoria,Creative Outburst,Sudden drive for creative activities.
+Bipolar,Mania,Euphoric Mania,Grandiosity in Euphoria,,Belief in one's superiority during manic euphoria.
+Bipolar,Mania,Euphoric Mania,Grandiosity in Euphoria,Inflated Self-Esteem,Unrealistic positive evaluation of abilities or qualities.
+Bipolar,Mania,Euphoric Mania,Grandiosity in Euphoria,Risk-Taking Behavior,Engagement in activities with high potential for negative outcomes.
+Bipolar,Mania,Irritable Mania,,,Episodes of irritability and anger.
+Bipolar,Mania,Irritable Mania,Explosive Irritability,,Sudden and intense irritability.
+Bipolar,Mania,Irritable Mania,Explosive Irritability,Verbal Outbursts,Eruption of anger through aggressive language.
+Bipolar,Mania,Irritable Mania,Explosive Irritability,Physical Agitation,Manifestations of irritability through physical restlessness.
+Bipolar,Mania,Irritable Mania,Persistent Irritability,,Continuous and enduring irritability.
+Bipolar,Mania,Irritable Mania,Persistent Irritability,Underlying Frustration,Constant sense of dissatisfaction or discomfort.
+Bipolar,Mania,Irritable Mania,Persistent Irritability,Reactive Impulsivity,Impulsive reactions exacerbated by irritability.
+Bipolar,Depression,,,,Period of low mood and energy that affects daily functioning.
+Bipolar,Depression,Atypical Depression,,,Depressive episode characterized by mood reactivity and positivity to pleasure.
+Bipolar,Depression,Atypical Depression,Hypersomnia,,Excessive sleep during depressive episodes.
+Bipolar,Depression,Atypical Depression,Hypersomnia,Difficulty Awakening,Challenges in waking up despite sufficient sleep duration.
+Bipolar,Depression,Atypical Depression,Hypersomnia,Extended Sleep Periods,Prolonged durations of sleep beyond typical needs.
+Bipolar,Depression,Atypical Depression,Leaden Paralysis,,Heavy feeling in arms or legs during atypical depression.
+Bipolar,Depression,Atypical Depression,Leaden Paralysis,Muscular Heaviness,Sensation of heaviness or lack of strength in limbs.
+Bipolar,Depression,Atypical Depression,Leaden Paralysis,Lethargic Movement,Reduced speed and energy in physical actions.
+Bipolar,Depression,Melancholic Depression,,,Profound despondency and lack of reactivity to pleasurable stimuli.
+Bipolar,Depression,Melancholic Depression,Anhedonia,,Inability to feel pleasure in normally pleasurable activities.
+Bipolar,Depression,Melancholic Depression,Anhedonia,Loss of Interest,Decreased engagement in previously enjoyed activities.
+Bipolar,Depression,Melancholic Depression,Anhedonia,Emotional Numbness,Feeling emotionally numb or empty.
+Bipolar,Depression,Melancholic Depression,Diurnal Mood Variation,,"Mood fluctuations throughout the day, usually worse in the morning."
+Bipolar,Depression,Melancholic Depression,Diurnal Mood Variation,Morning Mood Slump,Notable low mood at start of the day.
+Bipolar,Depression,Melancholic Depression,Diurnal Mood Variation,Evening Lightening,Slight improvement in mood towards the end of the day.
+Depressive,,,,,Associated with persistent feelings of sadness and loss of interest.
+Depressive,Major Depressive Disorder,,,,Characterized by prolonged periods of depressive moods.
+Depressive,Major Depressive Disorder,Recurrent Major Depression,,,Multiple depressive episodes separated by at least two months of normal mood.
+Depressive,Major Depressive Disorder,Recurrent Major Depression,Seasonal Pattern,,"Depressive episodes occurring seasonally, commonly in winter."
+Depressive,Major Depressive Disorder,Recurrent Major Depression,Seasonal Pattern,Winter-Onset,Depressive symptoms starting in late fall or winter.
+Depressive,Major Depressive Disorder,Recurrent Major Depression,Seasonal Pattern,Spring Remission,Symptoms improve naturally as spring approaches.
+Depressive,Major Depressive Disorder,Recurrent Major Depression,Postpartum Depression,,Depression occurring after childbirth.
+Depressive,Major Depressive Disorder,Recurrent Major Depression,Postpartum Depression,Early Onset Postpartum,Depressive symptoms appearing within first few weeks after delivery.
+Depressive,Major Depressive Disorder,Recurrent Major Depression,Postpartum Depression,Late Onset Postpartum,Symptoms developing several months post childbirth.
+Depressive,Major Depressive Disorder,Single Episode Depression,,,One-time episode that lasts for a period and impacts daily life.
+Depressive,Major Depressive Disorder,Single Episode Depression,Mild Single Episode,,Mild intensity of symptoms during a single depressive episode.
+Depressive,Major Depressive Disorder,Single Episode Depression,Mild Single Episode,Minor Functional Impact,Limited disruption to daily activities.
+Depressive,Major Depressive Disorder,Single Episode Depression,Mild Single Episode,Short Symptom Duration,Brief duration of depressive symptoms.
+Depressive,Major Depressive Disorder,Single Episode Depression,Severe Single Episode,,High intensity of symptoms affecting daily living.
+Depressive,Major Depressive Disorder,Single Episode Depression,Severe Single Episode,Major Functional Impairment,Significant interference with regular life responsibilities.
+Depressive,Major Depressive Disorder,Single Episode Depression,Severe Single Episode,Persistent Symptomatology,Ongoing and resistant depressive symptoms.
+Depressive,Dysthymia,,,,"Chronic, low-level depressive feeling."
+Depressive,Dysthymia,Early Onset Dysthymia,,,Symptom onset occurs before the age of 21.
+Depressive,Dysthymia,Early Onset Dysthymia,Family History Link,,Association with family history of depression.
+Depressive,Dysthymia,Early Onset Dysthymia,Family History Link,Genetic Predisposition,Hereditary factors contributing to early onset depression.
+Depressive,Dysthymia,Early Onset Dysthymia,Family History Link,Learned Behaviors,Cultural or familial learning influencing mood patterns.
+Depressive,Dysthymia,Early Onset Dysthymia,Peer Relationship Impact,,Impact of symptoms on peer relationships.
+Depressive,Dysthymia,Early Onset Dysthymia,Peer Relationship Impact,Social Withdrawal,Tendency to isolate oneself from peers.
+Depressive,Dysthymia,Early Onset Dysthymia,Peer Relationship Impact,Interpersonal Conflicts,Frequent disagreements or problems within relationships.
+Depressive,Dysthymia,Late Onset Dysthymia,,,Symptom onset occurs at age 21 or later.
+Depressive,Dysthymia,Late Onset Dysthymia,Work-Life Impact,,Impact of symptoms on professional life.
+Depressive,Dysthymia,Late Onset Dysthymia,Work-Life Impact,Reduced Job Performance,Decrease in work productivity and efficiency.
+Depressive,Dysthymia,Late Onset Dysthymia,Work-Life Impact,Colleague Relations,Quality of work relationships and collaborations.
+Depressive,Dysthymia,Late Onset Dysthymia,Lifestyle Adjustments,,Adjustments in lifestyle to manage symptoms.
+Depressive,Dysthymia,Late Onset Dysthymia,Lifestyle Adjustments,Routine Establishment,Creating structured daily habits to improve mood.
+Depressive,Dysthymia,Late Onset Dysthymia,Lifestyle Adjustments,Support Networks,Utilizing social and professional support systems.

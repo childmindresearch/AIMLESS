@@ -1,0 +1,660 @@
+level_1,level_2,level_3,level_4,level_5,level_6,description
+Cognitive Function,,,,,,"The capacity to perform various mental activities related to learning, reasoning, problem solving, and intellectual functions."
+Cognitive Function,Memory,,,,,"The ability to encode, store, and retrieve information when needed."
+Cognitive Function,Memory,Short-Term Memory,,,,The capacity for holding a small amount of information in a readily accessible state for a short period.
+Cognitive Function,Memory,Short-Term Memory,Immediate Memory,,,The ability to recall information immediately after it is presented.
+Cognitive Function,Memory,Short-Term Memory,Immediate Memory,Rehearsal,,The process of actively manipulating information to keep it in short-term memory.
+Cognitive Function,Memory,Short-Term Memory,Immediate Memory,Attention Span,,The duration one can focus on a given piece of information without interference.
+Cognitive Function,Memory,Short-Term Memory,Delayed Recall,,,The ability to recall information after a delay without rehearsal.
+Cognitive Function,Memory,Short-Term Memory,Delayed Recall,Temporal Memory,,Memory for the timing of events and actions.
+Cognitive Function,Memory,Long-Term Memory,,,,"The continuous storage of information, potentially over an entire lifespan."
+Cognitive Function,Memory,Long-Term Memory,Semantic Memory,,,The storage of facts and general knowledge about the world.
+Cognitive Function,Memory,Long-Term Memory,Semantic Memory,Lexical Memory,,The ability to store and retrieve words and their meanings.
+Cognitive Function,Memory,Long-Term Memory,Semantic Memory,Implicit Memory,,The unconscious memory of skills and how to do things.
+Cognitive Function,Memory,Long-Term Memory,Episodic Memory,,,The recollection of personal experiences and events with contextual details like time and place.
+Cognitive Function,Memory,Long-Term Memory,Episodic Memory,Event Order Memory,,The ability to recall the sequence of events in episodic memory.
+Cognitive Function,Memory,Working Memory,,,,The ability to temporarily hold and manipulate information for cognitive tasks.
+Cognitive Function,Memory,Working Memory,Verbal Working Memory,,,The ability to manipulate verbal information in one's mind.
+Cognitive Function,Memory,Working Memory,Verbal Working Memory,Phonological Loop,,The component of working memory responsible for auditory information.
+Cognitive Function,Memory,Working Memory,Verbal Working Memory,Verbal Manipulation,,The skill of rearranging or transforming verbal information in memory.
+Cognitive Function,Memory,Working Memory,Visual-Spatial Working Memory,,,The capacity to hold and manipulate spatial and visual information.
+Cognitive Function,Memory,Working Memory,Visual-Spatial Working Memory,Visuo-Spatial Sketchpad,,The part of working memory that deals with visual and spatial information.
+Cognitive Function,Memory,Working Memory,Visual-Spatial Working Memory,Visuo-Spatial Sketchpad,Object Rotation,The ability to mentally rotate objects and spatial layouts in working memory.
+Cognitive Function,Executive Functioning,,,,,"Higher-level cognitive processes used for reasoning, planning, judgment, and managing behavior and emotions."
+Cognitive Function,Executive Functioning,Inhibitory Control,,,,The ability to inhibit or control impulsive responses and distractors.
+Cognitive Function,Executive Functioning,Inhibitory Control,Response Inhibition,,,The ability to suppress actions that are inappropriate or unwanted.
+Cognitive Function,Executive Functioning,Cognitive Flexibility,,,,The capacity to adapt behaviors and thoughts in response to changing goals and environmental stimuli.
+Cognitive Function,Executive Functioning,Cognitive Flexibility,Task Switching,,,The ability to shift attention between tasks with different cognitive demands.
+Cognitive Function,Executive Functioning,Planning and Organization,,,,"The ability to set goals, develop steps, and orchestrate actions in a structured way."
+Cognitive Function,Executive Functioning,Planning and Organization,Strategic Planning,,,The ability to outline long-term objectives and develop methodologies to achieve them.
+Cognitive Function,Executive Functioning,Planning and Organization,Strategic Planning,Goal-Setting,,The ability to establish relevant objectives and steps to achieve them.
+Cognitive Function,Executive Functioning,Planning and Organization,Resource Management,,,"The skill of efficiently allocating time, energy, and attention to meet goals."
+Cognitive Function,Executive Functioning,Planning and Organization,Resource Management,Time Management,,The process of organizing and planning how to divide time between activities.
+Cognitive Function,Attention,,,,,The ability to focus on specific stimuli or information in the environment while ignoring other distractions.
+Cognitive Function,Attention,Sustained Attention,,,,The capacity to maintain focus on a task or stimulus over an extended period.
+Cognitive Function,Attention,Sustained Attention,Vigilance,,,The ability to maintain concentrated attention over prolonged periods of time.
+Cognitive Function,Attention,Selective Attention,,,,"The capability to focus on a particular object for a certain period, while simultaneously ignoring irrelevant information."
+Cognitive Function,Attention,Selective Attention,Auditory Attention,,,The capacity to focus on auditory stimuli while ignoring other inputs.
+Cognitive Function,Attention,Selective Attention,Auditory Attention,Tone Discrimination,,The ability to identify and differentiate between different sounds and tones in a noisy environment.
+Cognitive Function,Attention,Divided Attention,,,,The ability to process different information sources and successfully carry out multiple tasks at a time.
+Cognitive Function,Attention,Divided Attention,Multi-Tasking,,,The skill of handling more than one task at the same time.
+Cognitive Function,Problem Solving and Reasoning,,,,,The process of working through details of a problem to reach a solution and the ability to make inferences and conclusions.
+Cognitive Function,Problem Solving and Reasoning,Deductive Reasoning,,,,The ability to draw specific conclusions from general information.
+Cognitive Function,Problem Solving and Reasoning,Deductive Reasoning,Syllogistic Reasoning,,,The ability to reach conclusions based on logical arguments using given premises.
+Cognitive Function,Problem Solving and Reasoning,Inductive Reasoning,,,,The ability to make broad generalizations from specific observations.
+Cognitive Function,Problem Solving and Reasoning,Inductive Reasoning,Pattern Recognition,,,The ability to identify patterns among data or observations.
+Cognitive Function,Problem Solving and Reasoning,Inductive Reasoning,Pattern Recognition,Anomaly Detection,,The skill of identifying outliers and inconsistencies within patterns.
+Cognitive Function,Problem Solving and Reasoning,Abstract Reasoning,,,,The capacity to understand complex concepts and relationships that are not tied to specific objects or experiences.
+Cognitive Function,Problem Solving and Reasoning,Abstract Reasoning,Conceptual Reasoning,,,The ability to manipulate and apply concepts across different contexts.
+Cognitive Function,Problem Solving and Reasoning,Abstract Reasoning,Complex Problem Solving,,,The ability to solve new and difficult problems without prior experience in the situation.
+Cognitive Function,Processing Speed,,,,,The pace at which one can perceive information and perform simple cognitive tasks.
+Cognitive Function,Processing Speed,Perceptual Speed,,,,The ability to quickly and accurately compare or process visual or auditory information.
+Cognitive Function,Processing Speed,Perceptual Speed,Symbol Search,,,The speed of scanning and identifying symbols or objects.
+Cognitive Function,Processing Speed,Cognitive Speed,,,,The rate at which a person can understand and react to information.
+Cognitive Function,Processing Speed,Cognitive Speed,Reaction Time,,,The amount of time taken to respond to a stimulus.
+Cognitive Function,Processing Speed,Cognitive Speed,Reaction Time,Choice Reaction Time,,The speed of responding to a stimulus when multiple response options are available.
+Emotion Regulation,,,,,,"The ability to monitor, evaluate, and modulate emotional reactions in a manner that promotes adaptive and appropriate functioning."
+Emotion Regulation,Emotional Awareness,,,,,Recognizing and identifying one's own emotions as well as the emotions of others.
+Emotion Regulation,Emotional Awareness,Self-awareness of Emotions,,,,Recognizing and understanding one's own emotional states.
+Emotion Regulation,Emotional Awareness,Self-awareness of Emotions,Emotional Insight,,,The ability to gain a deeper understanding of one's emotional patterns and triggers.
+Emotion Regulation,Emotional Awareness,Self-awareness of Emotions,Emotional Insight,Emotional Pattern Recognition,,Identifying recurring emotional responses to different stimuli or situations.
+Emotion Regulation,Emotional Awareness,Self-awareness of Emotions,Emotional Insight,Emotional Pattern Recognition,Emotional Trigger Mapping,Creating a mental map of emotional triggers based on frequency and impact.
+Emotion Regulation,Emotional Awareness,Self-awareness of Emotions,Emotional Insight,Trigger Identification,,Recognizing specific events or circumstances that initiate emotional reactions.
+Emotion Regulation,Emotional Awareness,Self-awareness of Emotions,Emotional Insight,Trigger Identification,Trigger Response Analysis,Analyzing typical responses to identified triggers to enhance emotional regulation.
+Emotion Regulation,Emotional Awareness,Empathy,,,,Recognizing and understanding the emotional states of others.
+Emotion Regulation,Emotional Awareness,Empathy,Affective Empathy,,,The ability to respond with an appropriate emotion to another's mental state.
+Emotion Regulation,Emotional Awareness,Empathy,Affective Empathy,Empathic Concern,,Feeling compassion and concern for others based on understanding their emotional state.
+Emotion Regulation,Emotional Awareness,Empathy,Affective Empathy,Empathic Concern,Compassionate Action Planning,Developing strategies to act on feelings of empathy to support others.
+Emotion Regulation,Emotional Awareness,Empathy,Affective Empathy,Emotional Resonance,,Experiencing emotions that are in sync with another person's emotional state.
+Emotion Regulation,Emotional Awareness,Empathy,Affective Empathy,Emotional Resonance,Resonance Awareness Training,Exercises to hone the ability to feel with others efficiently and ethically.
+Emotion Regulation,Emotional Awareness,Empathy,Cognitive Empathy,,,The capacity to understand another's perspective or mental state.
+Emotion Regulation,Emotional Awareness,Empathy,Cognitive Empathy,Perspective Taking,,The cognitive ability to consider the world from another individual's viewpoint.
+Emotion Regulation,Emotional Awareness,Empathy,Cognitive Empathy,Perspective Taking,Point-of-View Rehearsal,Practicing adopting varied viewpoints to improve empathic accuracy.
+Emotion Regulation,Emotional Awareness,Empathy,Cognitive Empathy,Theory of Mind,,"The ability to attribute mental states to oneself and others and to understand that others have beliefs, desires, and intentions that are different from one's own."
+Emotion Regulation,Emotional Awareness,Empathy,Cognitive Empathy,Theory of Mind,Mental State Simulation,Engaging in thought experiments to simulate others' mental states.
+Emotion Regulation,Emotional Expression,,,,,The ability to express emotions effectively and appropriately in different contexts.
+Emotion Regulation,Emotional Expression,Verbal Expression,,,,Using words to express feelings and emotions.
+Emotion Regulation,Emotional Expression,Verbal Expression,Emotionally Rich Vocabulary,,,Having a broad range of words to describe different emotions accurately.
+Emotion Regulation,Emotional Expression,Verbal Expression,Emotionally Rich Vocabulary,Emotional Nuance Recognition,,The ability to identify subtle differences and shades of emotion in language.
+Emotion Regulation,Emotional Expression,Verbal Expression,Emotionally Rich Vocabulary,Emotional Nuance Recognition,Subtlety Discrimination Drills,Practices aimed at distinguishing fine variations in emotional language.
+Emotion Regulation,Emotional Expression,Verbal Expression,Emotionally Rich Vocabulary,Emotion-Context Match,,Ensuring that chosen emotional words appropriately fit the context of situation.
+Emotion Regulation,Emotional Expression,Verbal Expression,Emotionally Rich Vocabulary,Emotion-Context Match,Contextual Appropriateness Reflection,Reflective exercises to improve context-based expression accuracy.
+Emotion Regulation,Emotional Expression,Non-verbal Expression,,,,"Using gestures, facial expressions, and body language to express emotions."
+Emotion Regulation,Emotional Expression,Non-verbal Expression,Facial Expressiveness,,,Using facial expressions to convey emotions clearly.
+Emotion Regulation,Emotional Expression,Non-verbal Expression,Facial Expressiveness,Micro-Expression Recognition,,"Identifying and interpreting brief, involuntary facial expressions that reveal genuine emotions."
+Emotion Regulation,Emotional Expression,Non-verbal Expression,Facial Expressiveness,Micro-Expression Recognition,Expression Analysis Training,Structured practices to enhance recognition of fleeting emotional signals.
+Emotion Regulation,Emotional Expression,Non-verbal Expression,Gestural Communication,,,Conveying emotions through gestures and body language.
+Emotion Regulation,Emotional Expression,Non-verbal Expression,Gestural Communication,Body Language Interpretation,,Understanding the emotions conveyed through postures and movements.
+Emotion Regulation,Emotional Expression,Non-verbal Expression,Gestural Communication,Body Language Interpretation,Gesture Effectiveness Appraisal,Analyzing the impact and clarity of gestures used in emotional communication.
+Emotion Regulation,Emotion Modulation,,,,,The ability to effectively manage and regulate emotional responses to different situations.
+Emotion Regulation,Emotion Modulation,Cognitive Reappraisal,,,,Changing one's thoughts about a situation to alter its emotional impact.
+Emotion Regulation,Emotion Modulation,Cognitive Reappraisal,Positive Reinterpretation,,,Finding a positive angle in a seemingly negative situation.
+Emotion Regulation,Emotion Modulation,Cognitive Reappraisal,Positive Reinterpretation,Silver Lining Pursuit,,Actively seeking benefits or positive outcomes in challenging situations.
+Emotion Regulation,Emotion Modulation,Cognitive Reappraisal,Positive Reinterpretation,Silver Lining Pursuit,Benefit Reflection Exercises,Activities designed to promote finding silver linings in adversity.
+Emotion Regulation,Emotion Modulation,Cognitive Reappraisal,Perspective-Taking,,,Looking at a situation from a different point of view to diminish negative emotional impact.
+Emotion Regulation,Emotion Modulation,Cognitive Reappraisal,Perspective-Taking,Role Reversal Analysis,,Evaluating a situation by mentally placing oneself in another's position.
+Emotion Regulation,Emotion Modulation,Cognitive Reappraisal,Perspective-Taking,Role Reversal Analysis,Position Shift Scenarios,Scenarios used to practice shifting perspectives for better emotional outcomes.
+Emotion Regulation,Emotion Modulation,Emotional Suppression,,,,Inhibiting emotional expressions or reactions.
+Emotion Regulation,Emotion Modulation,Emotional Suppression,Internal Inhibition,,,Suppressing emotional responses internally to maintain mental composure.
+Emotion Regulation,Emotion Modulation,Emotional Suppression,Internal Inhibition,Meditative Composure,,Utilizing meditative techniques to maintain inner peace and suppress undesired emotions.
+Emotion Regulation,Emotion Modulation,Emotional Suppression,Internal Inhibition,Meditative Composure,Inner Peace Cultivation,Progressive relaxation and visualization exercises for emotional calmness.
+Emotion Regulation,Emotion Modulation,Emotional Suppression,External Inhibition,,,Controlling outward expressions of emotions in social contexts.
+Emotion Regulation,Emotion Modulation,Emotional Suppression,External Inhibition,Public Persona Management,,Regulating emotional displays to conform to social norms or expectations.
+Emotion Regulation,Emotion Modulation,Emotional Suppression,External Inhibition,Public Persona Management,Social Compliance Drills,Exercises to adjust expressions according to social settings.
+Emotion Regulation,Stress Management,,,,,The ability to handle stress in a way that maintains emotional and mental well-being.
+Emotion Regulation,Stress Management,Coping Strategies,,,,Techniques used to manage stress and handle challenging situations.
+Emotion Regulation,Stress Management,Coping Strategies,Problem-Focused Coping,,,Dealing with the source of stress to eliminate or reduce it.
+Emotion Regulation,Stress Management,Coping Strategies,Problem-Focused Coping,Solution-Oriented Planning,,Developing actionable plans to address stressors.
+Emotion Regulation,Stress Management,Coping Strategies,Problem-Focused Coping,Solution-Oriented Planning,Strategic Problem Solving,Training in systematic approaches to reduce stress through problem resolution.
+Emotion Regulation,Stress Management,Coping Strategies,Emotion-Focused Coping,,,Managing emotions that arise from a stressful situation rather than changing the situation itself.
+Emotion Regulation,Stress Management,Coping Strategies,Emotion-Focused Coping,Emotion Venting,,Expressing emotions in a healthy manner to relieve stress.
+Emotion Regulation,Stress Management,Coping Strategies,Emotion-Focused Coping,Emotion Venting,Controlled Expression Techniques,Methods for appropriately venting emotions to reduce stress.
+Emotion Regulation,Stress Management,Relaxation Techniques,,,,Methods such as meditation and deep breathing to reduce stress.
+Emotion Regulation,Stress Management,Relaxation Techniques,Mindfulness Meditation,,,Practicing mindfulness to achieve a mentally clear and emotionally calm state.
+Emotion Regulation,Stress Management,Relaxation Techniques,Mindfulness Meditation,Focused Attention Training,,Engaging in exercises that improve the capacity to maintain attention on a single object or thought.
+Emotion Regulation,Stress Management,Relaxation Techniques,Mindfulness Meditation,Focused Attention Training,Attention Stability Drills,Practices aiming to solidify focus and maintain attention control.
+Emotion Regulation,Stress Management,Relaxation Techniques,Breathing Exercises,,,Techniques focused on regulating breathing patterns to reduce stress and anxiety.
+Emotion Regulation,Stress Management,Relaxation Techniques,Breathing Exercises,Rhythmic Breathing,,"Developing a consistent, calming breath pattern to alleviate stress."
+Emotion Regulation,Stress Management,Relaxation Techniques,Breathing Exercises,Rhythmic Breathing,Breath Regulation Practices,Exercises to establish a stress-relieving breathing rhythm.
+Emotion Regulation,Impulse Control,,,,,Managing sudden emotional and behavioral impulses in order to act appropriately.
+Emotion Regulation,Impulse Control,Delayed Gratification,,,,The ability to resist an immediate reward in favor of a later reward.
+Emotion Regulation,Impulse Control,Delayed Gratification,Future Reward Evaluation,,,The ability to assess the value of future rewards in decision-making processes.
+Emotion Regulation,Impulse Control,Delayed Gratification,Future Reward Evaluation,Long-Term Outcome Visualization,,Imagining future scenarios resulting from current decisions.
+Emotion Regulation,Impulse Control,Delayed Gratification,Future Reward Evaluation,Long-Term Outcome Visualization,Scenario Analysis Drills,Exercises to evaluate potential outcomes and reinforce decision-making patience.
+Emotion Regulation,Impulse Control,Delayed Gratification,Impulse Delay Training,,,Practices used to improve one's capability to delay immediate impulses.
+Emotion Regulation,Impulse Control,Delayed Gratification,Impulse Delay Training,Self-Control Exercises,,Activities designed to strengthen self-discipline and impulse regulation.
+Emotion Regulation,Impulse Control,Delayed Gratification,Impulse Delay Training,Self-Control Exercises,Patience Building Modules,Structured activities to enhance delay of gratification skills.
+Emotion Regulation,Impulse Control,Behavioral Regulation,,,,The ability to control and regulate one's behavior in accordance with social norms and expectations.
+Emotion Regulation,Impulse Control,Behavioral Regulation,Self-Monitoring,,,Keeping track of one's actions and behaviors to ensure they align with established norms.
+Emotion Regulation,Impulse Control,Behavioral Regulation,Self-Monitoring,Behavior Log Keeping,,Recording behaviors and emotions to enhance self-awareness and control.
+Emotion Regulation,Impulse Control,Behavioral Regulation,Self-Monitoring,Behavior Log Keeping,Reflective Journaling,Journaling activities focused on tracking and understanding behavior patterns.
+Emotion Regulation,Impulse Control,Behavioral Regulation,Goal-Oriented Behavior,,,Engaging in behavior that focuses on achieving specific outcomes or adhering to standards.
+Emotion Regulation,Impulse Control,Behavioral Regulation,Goal-Oriented Behavior,Task Prioritization Skills,,Identifying and focusing on tasks that are most critical to achieve desired goals.
+Emotion Regulation,Impulse Control,Behavioral Regulation,Goal-Oriented Behavior,Task Prioritization Skills,Priority Mapping Exercises,Techniques to effectively identify and rank tasks according to importance.
+Social Interaction,,,,,,"Social Interaction encompasses the ability to engage, communicate, and maintain relationships with others. It involves understanding social cues, empathy, cooperation, and the capacity to form and sustain meaningful social relationships."
+Social Interaction,Social Understanding,,,,,"The ability to comprehend social cues, norms, and rules, crucial for interacting appropriately with others."
+Social Interaction,Social Understanding,Theory of Mind,,,,"The ability to attribute mental states to oneself and others and to understand that others have beliefs, desires, and intentions that are different from one's own."
+Social Interaction,Social Understanding,Theory of Mind,False Belief Task Performance,,,"The capacity to attribute mental states—beliefs, intents, desires, emotions, knowledge—to oneself and others, and to understand that others have beliefs, desires, and intentions that are different from one's own."
+Social Interaction,Social Understanding,Theory of Mind,False Belief Task Performance,Second-Order False Belief Task,,The ability to understand that others can hold beliefs that are false or different from reality.
+Social Interaction,Social Understanding,Theory of Mind,Perspective Taking,,,The cognitive ability to consider the world from another individual's viewpoint.
+Social Interaction,Social Understanding,Theory of Mind,Perspective Taking,Cognitive Perspective Taking,,The ability to understand that people can have beliefs about other people's beliefs that are false or different from reality.
+Social Interaction,Social Understanding,Theory of Mind,Perspective Taking,Cognitive Perspective Taking,Visual Perspective Taking,The ability to see things from another person's point of view.
+Social Interaction,Social Understanding,Theory of Mind,Perspective Taking,Cognitive Perspective Taking,Social Role Perspective Taking,The intellectual capacity to consider the world from another individual's viewpoint.
+Social Interaction,Empathy,,,,,Recognizing and understanding the emotional states of others.
+Social Interaction,Empathy,Affective Empathy,,,,The ability to respond with an appropriate emotion to another's mental state.
+Social Interaction,Empathy,Affective Empathy,Emotional Contagion,,,The ability to understand spatial viewpoints and visualize how an object or scene is observed from different angles.
+Social Interaction,Empathy,Affective Empathy,Emotional Contagion,Emotional Synchrony,,"Understanding perspectives influenced by social roles and contexts, beyond personal interpretation."
+Social Interaction,Empathy,Affective Empathy,Empathic Concern,,,Feeling compassion and concern for others based on understanding their emotional state.
+Social Interaction,Empathy,Affective Empathy,Empathic Concern,Compassionate Action,,"The capacity to understand and resonate with others' emotions and perspectives, fostering compassionate interactions."
+Social Interaction,Empathy,Affective Empathy,Empathic Concern,Compassionate Action,Altruistic Behavior,The ability to respond appropriately to another's mental states and emotions.
+Social Interaction,Cooperation,,,,,The phenomenon of absorbing and reflecting another person's emotional state or mood.
+Social Interaction,Cooperation,Negotiation Skills,,,,Aligned and simultaneous sharing of emotional states across individuals.
+Social Interaction,Cooperation,Negotiation Skills,Conflict Resolution,,,"The motivation to care for others' welfare, driven by an understanding and shared feeling of their emotional state."
+Social Interaction,Cooperation,Negotiation Skills,Conflict Resolution,Collaborative Problem Solving,,Taking supportive actions based on empathic concern for others’ well-being.
+Social Interaction,Cooperation,Negotiation Skills,Conflict Resolution,Collaborative Problem Solving,Consensus Building,"Actions taken to help others without expecting personal gain, driven by compassion and empathy."
+Social Interaction,Cooperation,Negotiation Skills,Conflict Resolution,Collaborative Problem Solving,Mediation Techniques,"The skill to work harmoniously with others towards shared goals, involving negotiation, compromise, and teamwork."
+Social Interaction,Cooperation,Teamwork,,,,The ability to reach agreements or compromises in a constructive manner.
+Social Interaction,Cooperation,Teamwork,Role Allocation,,,The process of resolving disagreements through effective communication and problem-solving.
+Social Interaction,Cooperation,Teamwork,Role Allocation,Role Adaptability,,Resolving conflicts and reaching solutions through cooperative efforts.
+Social Interaction,Cooperation,Teamwork,Role Allocation,Role Adaptability,Dynamic Role Adjustment,The process of working towards achieving general agreement within a group.
+Social Interaction,Relationship Building,,,,,Employing strategies to facilitate resolution between opposing parties with guidance or intervention.
+Social Interaction,Relationship Building,Initiating Interactions,,,,Collaborative effort to achieve a common goal or complete a task in the most effective and efficient way.
+Social Interaction,Relationship Building,Initiating Interactions,Conversation Starters,,,The ability to distribute tasks and responsibilities appropriately within a group.
+Social Interaction,Relationship Building,Initiating Interactions,Conversation Starters,Small Talk Proficiency,,Flexibility in adjusting roles and tasks based on group needs and dynamics.
+Social Interaction,Relationship Building,Initiating Interactions,Conversation Starters,Small Talk Proficiency,Icebreaker Techniques,The capacity to rapidly change roles in response to group dynamics and demands.
+Social Interaction,Relationship Building,Sustaining Friendships,,,,"The process of initiating, developing, and maintaining meaningful social connections and friendships."
+Social Interaction,Relationship Building,Sustaining Friendships,Reciprocity in Relationships,,,The ability to start conversations and engage with others socially.
+Social Interaction,Relationship Building,Sustaining Friendships,Reciprocity in Relationships,Emotional Reciprocity,,Techniques and skills for initiating dialogue with others.
+Social Interaction,Relationship Building,Sustaining Friendships,Reciprocity in Relationships,Emotional Reciprocity,Trust Building,Skill in engaging in casual or light conversations to build rapport.
+Social Interaction,Social Communication,,,,,Methods used to comfortably begin a dialogue and establish communication flow with strangers.
+Social Interaction,Social Communication,Verbal Communication,,,,"The ability to maintain long-term, meaningful relationships through effective communication and mutual support."
+Social Interaction,Social Communication,Verbal Communication,Listening Skills,,,The practice of mutual exchange and balance in social interactions and friendships.
+Social Interaction,Social Communication,Verbal Communication,Listening Skills,Active Listening Techniques,,Balanced exchange of emotions and support between friends.
+Social Interaction,Social Communication,Verbal Communication,Listening Skills,Active Listening Techniques,Reflective Listening,"The process of cultivating mutual trust as a foundation for strong, lasting relationships."
+Social Interaction,Social Communication,Non-Verbal Communication,,,,The use of verbal and non-verbal language in social contexts to exchange information effectively.
+Social Interaction,Social Communication,Non-Verbal Communication,Facial Expressions Recognition,,,The use of words and language to convey messages in social situations.
+Social Interaction,Social Communication,Non-Verbal Communication,Facial Expressions Recognition,Microexpression Interpretation,,Understanding and interpreting spoken language in conversations.
+Social Interaction,Social Communication,Non-Verbal Communication,Facial Expressions Recognition,Microexpression Interpretation,Emotion Recognition Training,Engaged and focused listening that fosters deeper understanding and response.
+Communication and Language,,,,,,Actively listening and providing feedback to confirm understanding of the speaker’s message.
+Communication and Language,Verbal Communication,,,,,"The ability to maintain long-term, meaningful relationships through effective communication and mutual support."
+Communication and Language,Verbal Communication,Speech Clarity,,,,"The use of body language, facial expressions, and gestures to communicate without words."
+Communication and Language,Verbal Communication,Speech Clarity,Articulation Accuracy,,,Understanding emotions and messages conveyed through facial expressions.
+Communication and Language,Verbal Communication,Speech Clarity,Prosody,,,"Detecting and understanding brief, involuntary facial expressions that reveal true emotions."
+Communication and Language,Verbal Communication,Vocabulary Usage,,,,Programs or exercises aimed at improving the ability to detect and accurately interpret emotional expressions.
+Communication and Language,Verbal Communication,Vocabulary Usage,Lexical Diversity,,,"This dimension encompasses the ability to receive, process, understand, and express information, both verbally and non-verbally, and through reading and writing."
+Communication and Language,Verbal Communication,Vocabulary Usage,Word Retrieval,,,The ability to express thoughts and emotions through spoken language.
+Communication and Language,Verbal Communication,Vocabulary Usage,Word Retrieval,Tip-of-the-Tongue States,,The ability to articulate words clearly and understandably to others.
+Communication and Language,Verbal Communication,Vocabulary Usage,Word Retrieval,Cued Retrieval,,The precision and correctness of producing speech sounds.
+Communication and Language,Verbal Communication,Fluency,,,,The patterns of stress and intonation in speech.
+Communication and Language,Verbal Communication,Fluency,Speech Rate,,,The extent to which a person effectively uses a range of words and language structures in spoken communication.
+Communication and Language,Verbal Communication,Fluency,Pause Duration,,,The variety of different words used in speech.
+Communication and Language,Verbal Communication,Fluency,Pause Duration,Filled Pauses,,The ability to recall words from memory for verbal use.
+Communication and Language,Verbal Communication,Fluency,Pause Duration,Unfilled Pauses,,Instances where one temporarily cannot recall a word.
+Communication and Language,Non-Verbal Communication,,,,,The use of verbal and non-verbal language in social contexts to exchange information effectively.
+Communication and Language,Non-Verbal Communication,Facial Expressions,,,,The ability to recall specific words when provided with retrieval cues.
+Communication and Language,Non-Verbal Communication,Facial Expressions,Emotion Recognition,,,"The flow and continuity of speech, including the absence of excessive pauses or fillers."
+Communication and Language,Non-Verbal Communication,Facial Expressions,Emotion Recognition,Micro-Expressions,,The speed at which words are spoken during communication.
+Communication and Language,Non-Verbal Communication,Facial Expressions,Emotion Recognition,Congruence with Context,,The length of pauses taken between words or sentences.
+Communication and Language,Non-Verbal Communication,Facial Expressions,Expressive Consistency,,,Use of fillers like 'um' and 'uh' during speech.
+Communication and Language,Non-Verbal Communication,Gestures,,,,Silent pauses during speech without fillers.
+Communication and Language,Non-Verbal Communication,Gestures,Symbolic Gestures,,,"Understanding and using body language, gestures, and facial expressions."
+Communication and Language,Non-Verbal Communication,Gestures,Regulatory Gestures,,,The ability to interpret and use facial expressions to convey emotions and reactions.
+Communication and Language,Non-Verbal Communication,Body Language,,,,Identifying emotions from facial expressions.
+Communication and Language,Non-Verbal Communication,Body Language,Postural Communication,,,Recognizing very brief facial expressions that reveal true emotions.
+Communication and Language,Non-Verbal Communication,Body Language,Postural Communication,Open vs Closed Postures,,The appropriateness of expression in different situations.
+Communication and Language,Non-Verbal Communication,Body Language,Kinesic Signals,,,The ability to maintain appropriate facial expressions in different contexts.
+Communication and Language,Receptive Language,,,,,The understanding and use of physical movements to communicate messages or emotions.
+Communication and Language,Receptive Language,Listening Comprehension,,,,"Gestures that convey specific meanings, like waving for goodbye."
+Communication and Language,Receptive Language,Listening Comprehension,Inferential Listening,,,"Gestures used to control interaction flow, like hand-raising."
+Communication and Language,Receptive Language,Listening Comprehension,Literal Interpretation,,,The interpretation and use of posture and movements to express ideas and feelings.
+Communication and Language,Receptive Language,Reading Decoding,,,,Using body posture to convey messages.
+Communication and Language,Receptive Language,Reading Decoding,Phonemic Awareness,,,Understanding the signals conveyed by open or closed body positions.
+Communication and Language,Receptive Language,Reading Decoding,Sight Word Recognition,,,"Understanding movement-based signals, like foot tapping."
+Communication and Language,Expressive Language,,,,,The ability to understand and comprehend spoken and written language.
+Communication and Language,Expressive Language,Narrative Skills,,,,The skill of understanding spoken language in conversations and instructions.
+Communication and Language,Expressive Language,Narrative Skills,Story Grammar,,,Drawing conclusions from spoken messages.
+Communication and Language,Expressive Language,Narrative Skills,Cohesion Devices,,,Understanding the explicit content of spoken language.
+Communication and Language,Pragmatic Language,,,,,The ability to recognize and interpret written words and sentences.
+Communication and Language,Pragmatic Language,Conversational Skills,,,,Recognizing distinct phonemes in spoken words.
+Communication and Language,Pragmatic Language,Conversational Skills,Turn-Taking,,,Automatically identifying familiar words without decoding.
+Communication and Language,Pragmatic Language,Conversational Skills,Topic Maintenance,,,The capability to convey thoughts and ideas effectively through speech and writing.
+Communication and Language,Pragmatic Language,Conversational Skills,Topic Maintenance,Tangential Speech,,The ability to construct and convey structured stories or descriptions.
+Communication and Language,Pragmatic Language,Conversational Skills,Topic Maintenance,Clarification Requests,,"Understanding and using story structure elements such as setting, characters, and plot."
+Communication and Language,Pragmatic Language,Social Cues,,,,Using linguistic elements to link ideas and events in spoken or written narratives.
+Communication and Language,Pragmatic Language,Social Cues,Verbal Cues,,,"The skill of using language in social contexts, including understanding tone and engaging in appropriate social exchanges."
+Communication and Language,Pragmatic Language,Social Cues,Non-Verbal Cues,,,The ability to engage in and maintain productive and socially appropriate conversations.
+Communication and Language,Reading Comprehension,,,,,Managing speaking turns in conversation.
+Communication and Language,Reading Comprehension,Text Interpretation,,,,Staying on topic during conversation.
+Communication and Language,Reading Comprehension,Text Interpretation,Context Clues,,,The tendency to veer off-topic in conversation.
+Communication and Language,Reading Comprehension,Text Interpretation,Inferential Reading,,,Asking for clarification when the topic is unclear.
+Communication and Language,Reading Comprehension,Critical Reading,,,,Understanding and appropriately responding to verbal and non-verbal social signals.
+Communication and Language,Reading Comprehension,Critical Reading,Evaluative Thinking,,,"Recognizing hints in spoken language, like tone of voice."
+Communication and Language,Reading Comprehension,Critical Reading,Argument Analysis,,,Decoding body language or facial hints during interactions.
+Communication and Language,Written Expression,,,,,The capacity to understand and process written text.
+Communication and Language,Written Expression,Grammar and Syntax,,,,The ability to infer and derive meaning from various types of written materials.
+Communication and Language,Written Expression,Grammar and Syntax,Sentence Structure,,,Using surrounding text to derive meaning of unknown words or concepts.
+Communication and Language,Written Expression,Grammar and Syntax,Punctuation,,,Drawing inferences from written content beyond the explicit meaning.
+Communication and Language,Written Expression,Content Organization,,,,Analyzing and evaluating written content for deeper understanding and critique.
+Communication and Language,Written Expression,Content Organization,Thematic Coherence,,,Assessing the quality and credibility of content.
+Communication and Language,Written Expression,Content Organization,Logical Sequencing,,,Identifying and critiquing arguments within a text.
+Behavioral Control,,,,,,The ability to effectively communicate thoughts and information through writing.
+Behavioral Control,Impulse Control,,,,,Managing sudden emotional and behavioral impulses in order to act appropriately.
+Behavioral Control,Impulse Control,Emotional Impulse Control,,,,The correct use of language rules in writing.
+Behavioral Control,Impulse Control,Emotional Impulse Control,Emotional Regulation,,,Formulating sentences with correct syntax.
+Behavioral Control,Impulse Control,Emotional Impulse Control,Emotional Awareness,,,Recognizing and identifying one's own emotions as well as the emotions of others.
+Behavioral Control,Impulse Control,Cognitive Impulse Control,,,,Correct use of punctuation marks in writing.
+Behavioral Control,Impulse Control,Cognitive Impulse Control,Thought Suppression,,,The skill of structuring written information in a coherent and logical manner.
+Behavioral Control,Impulse Control,Cognitive Impulse Control,Focus Shift,,,Maintaining a consistent theme across writing.
+Behavioral Control,Delay of Gratification,,,,,Ordering ideas or events logically.
+Behavioral Control,Delay of Gratification,Short-Term Delay,,,,"Behavioral Control involves the regulation and management of behavior to align with societal norms, goals, and internal values. It encompasses the ability to inhibit responses, delay gratification, and manage impulses, all of which are important for adaptive functioning and achieving personal and societal goals."
+Behavioral Control,Delay of Gratification,Short-Term Delay,Waiting Capacity,,,"Impulse Control is the capacity to resist or delay an impulse, drive, or temptation to act."
+Behavioral Control,Delay of Gratification,Short-Term Delay,Immediate Reward Evaluation,,,Emotional Impulse Control involves managing spontaneous emotional responses.
+Behavioral Control,Delay of Gratification,Long-Term Delay,,,,Involves strategies to effectively modulate intense emotional responses.
+Behavioral Control,Delay of Gratification,Long-Term Delay,Goal Setting,,,Recognition and understanding of one's emotional responses.
+Behavioral Control,Delay of Gratification,Long-Term Delay,Persistence,,,"Cognitive Impulse Control involves managing spontaneous cognitive responses, such as thoughts and ideas."
+Behavioral Control,Inhibitory Control,,,,,The ability to inhibit or control impulsive responses and distractors.
+Behavioral Control,Inhibitory Control,Motor Inhibition,,,,Ability to inhibit distracting or unproductive thoughts.
+Behavioral Control,Inhibitory Control,Motor Inhibition,Movement Precision,,,Ability to redirect cognitive focus effectively.
+Behavioral Control,Inhibitory Control,Motor Inhibition,Physical Restraint,,,Delay of Gratification refers to the ability to forgo an immediate pleasure or reward in order to gain a more substantial one later.
+Behavioral Control,Inhibitory Control,Verbal Inhibition,,,,Short-Term Delay involves the ability to wait for a reward for a relatively short duration.
+Behavioral Control,Inhibitory Control,Verbal Inhibition,Speech Filter,,,The ability to endure short waiting periods based on expected outcomes.
+Behavioral Control,Inhibitory Control,Verbal Inhibition,Response Delay,,,Assessing available rewards for immediate benefits versus delayed ones.
+Behavioral Control,Self-Monitoring,,,,,Keeping track of one's actions and behaviors to ensure they align with established norms.
+Behavioral Control,Self-Monitoring,Internal Self-Monitoring,,,,Long-Term Delay involves the ability to wait for a reward over a more extended period.
+Behavioral Control,Self-Monitoring,Internal Self-Monitoring,Self-Reflection,,,Establishing objectives to achieve desirable long-term outcomes.
+Behavioral Control,Self-Monitoring,Internal Self-Monitoring,Emotional Insight,,,The ability to gain a deeper understanding of one's emotional patterns and triggers.
+Behavioral Control,Self-Monitoring,External Self-Monitoring,,,,Sustaining motivation and effort over long periods.
+Behavioral Control,Self-Monitoring,External Self-Monitoring,Behavior Adjustment,,,Inhibitory Control involves the suppression of actions that are inappropriate or no longer required.
+Behavioral Control,Self-Monitoring,External Self-Monitoring,Social Cue Recognition,,,Motor Inhibition involves controlling physical actions or movements.
+Physical Health and Activity,,,,,,The ability to make accurate and goal-directed motor actions.
+Physical Health and Activity,Physical Fitness,,,,,The skill of maintaining rest and preventing unwanted physical actions.
+Physical Health and Activity,Physical Fitness,Cardiovascular Fitness,,,,Verbal Inhibition involves controlling verbal responses.
+Physical Health and Activity,Physical Fitness,Cardiovascular Fitness,VO2 Max,,,Ability to manage spoken content before voicing ideas.
+Physical Health and Activity,Physical Fitness,Cardiovascular Fitness,VO2 Max,Incremental Exercise Test,,Temporary suppression of verbal responses to allow thought processing.
+Physical Health and Activity,Physical Fitness,Cardiovascular Fitness,VO2 Max,Submaximal Exercise Test,,Self-Monitoring is the process of observing and regulating one's own behavior in social contexts.
+Physical Health and Activity,Physical Fitness,Cardiovascular Fitness,Heart Rate Response,,,Internal Self-Monitoring involves reflecting upon and regulating one's thoughts and feelings.
+Physical Health and Activity,Physical Fitness,Cardiovascular Fitness,Heart Rate Response,Resting Heart Rate,,Analyzing and evaluating one's own thoughts and feelings.
+Physical Health and Activity,Physical Fitness,Cardiovascular Fitness,Heart Rate Response,Recovery Heart Rate,,Understanding the source and effect of one's emotions.
+Physical Health and Activity,Physical Fitness,Muscular Strength,,,,External Self-Monitoring involves observing and adjusting one's behavior based on external social cues.
+Physical Health and Activity,Physical Fitness,Muscular Strength,Upper Body Strength,,,Changing actions based on feedback from the environment.
+Physical Health and Activity,Physical Fitness,Muscular Strength,Upper Body Strength,Grip Strength,,Identifying and interpreting social signals and norms.
+Physical Health and Activity,Physical Fitness,Muscular Strength,Upper Body Strength,Shoulder Press Strength,,This dimension encompasses the physical aspects of health and the engagement in physical activities that contribute to overall well-being.
+Physical Health and Activity,Physical Fitness,Muscular Strength,Lower Body Strength,,,"Refers to the overall condition of the body, including strength, flexibility, and endurance."
+Physical Health and Activity,Physical Fitness,Muscular Strength,Lower Body Strength,Leg Press Strength,,The efficiency with which the body delivers oxygen and nutrients needed for muscular activity.
+Physical Health and Activity,Physical Fitness,Muscular Strength,Lower Body Strength,Squat Strength,,"The maximum amount of oxygen the body can utilize during exercise, indicating aerobic endurance."
+Physical Health and Activity,Physical Fitness,Muscular Endurance,,,,Method to measure VO2 Max by gradually increasing exercise intensity until exhaustion.
+Physical Health and Activity,Physical Fitness,Muscular Endurance,Isometric Endurance,,,Estimation of VO2 Max by observing heart rate response to submaximal exercise.
+Physical Health and Activity,Physical Fitness,Muscular Endurance,Isometric Endurance,Plank Duration,,"How the heart rate adjusts to physical activity, indicating cardiovascular efficiency."
+Physical Health and Activity,Physical Fitness,Muscular Endurance,Isometric Endurance,Wall Sit Duration,,Baseline heart rate measurement before engaging in physical activity.
+Physical Health and Activity,Physical Fitness,Muscular Endurance,Dynamic Endurance,,,"Heart rate measurement after exercise, showing cardiovascular recovery speed."
+Physical Health and Activity,Physical Fitness,Muscular Endurance,Dynamic Endurance,Rowing Repetitions,,The amount of force a muscle or group of muscles can exert against a resistance.
+Physical Health and Activity,Physical Fitness,Muscular Endurance,Dynamic Endurance,Cycling Time Trials,,"Strength in the muscles of the upper body, crucial for lifting and carrying."
+Physical Health and Activity,Physical Fitness,Flexibility,,,,Measure of strength in the hand and forearm muscles.
+Physical Health and Activity,Physical Fitness,Flexibility,Static Flexibility,,,"Strength of the shoulder muscles, measured during overhead pressing exercises."
+Physical Health and Activity,Physical Fitness,Flexibility,Static Flexibility,Sit and Reach Test,,"Strength in the muscles of the lower body, important for activities like jumping and running."
+Physical Health and Activity,Physical Fitness,Flexibility,Dynamic Flexibility,,,Strength measurement of the lower body muscles during leg press exercises.
+Physical Health and Activity,Physical Fitness,Flexibility,Dynamic Flexibility,Walking Lunges,,Maximal strength capacity during a squat exercise.
+Physical Health and Activity,Nutrition and Diet,,,,,The ability of a muscle or group of muscles to sustain repeated contractions against a resistance for an extended period.
+Physical Health and Activity,Nutrition and Diet,Macronutrient Balance,,,,The ability to hold a muscle contraction steadily for a period of time without movement.
+Physical Health and Activity,Nutrition and Diet,Macronutrient Balance,Carbohydrate Management,,,Time duration maintaining a plank position as a measure of endurance.
+Physical Health and Activity,Nutrition and Diet,Macronutrient Balance,Carbohydrate Management,Glycemic Index,,Duration of holding a wall sit position to evaluate isometric endurance.
+Physical Health and Activity,Nutrition and Diet,Macronutrient Balance,Protein Utilization,,,"The ability of muscles to perform repeated movements over time, like cycling or rowing."
+Physical Health and Activity,Nutrition and Diet,Macronutrient Balance,Protein Utilization,Amino Acid Profile,,Number of rowing movements sustainable over a period as a dynamic endurance measure.
+Physical Health and Activity,Nutrition and Diet,Macronutrient Balance,Fat Utilization,,,Timed cycling sessions to measure dynamic endurance capability.
+Physical Health and Activity,Nutrition and Diet,Macronutrient Balance,Fat Utilization,Omega-3 Fatty Acids,,The range of motion available at a joint or group of joints.
+Physical Health and Activity,Nutrition and Diet,Micronutrient Sufficiency,,,,The ability to hold a stretch using the body’s own weight or an external force.
+Physical Health and Activity,Nutrition and Diet,Micronutrient Sufficiency,Vitamin Intake,,,Common test to measure flexibility in the lower back and hamstrings.
+Physical Health and Activity,Nutrition and Diet,Micronutrient Sufficiency,Vitamin Intake,Vitamin D Levels,,The ability to perform dynamic movements within the full range of motion in a joint.
+Physical Health and Activity,Nutrition and Diet,Micronutrient Sufficiency,Mineral Intake,,,Dynamic exercise that emphasizes flexibility and movement in the legs and hips.
+Physical Health and Activity,Nutrition and Diet,Micronutrient Sufficiency,Mineral Intake,Calcium Levels,,Pertains to the dietary habits and nutritional intake necessary for maintaining physical health.
+Physical Health and Activity,Nutrition and Diet,Dietary Habits,,,,"The management and balance of carbohydrates, proteins, and fats for optimal body functioning."
+Physical Health and Activity,Nutrition and Diet,Dietary Habits,Meal Regularity,,,Balancing complex and simple carbohydrates for energy needs.
+Physical Health and Activity,Nutrition and Diet,Dietary Habits,Meal Regularity,Intermittent Fasting,,Measure of how quickly foods cause increases in blood sugar levels.
+Physical Health and Activity,Nutrition and Diet,Dietary Habits,Food Variety,,,Efficient use and processing of proteins for body repair and growth.
+Physical Health and Activity,Nutrition and Diet,Dietary Habits,Food Variety,Plant-Based Diversity,,Composition of essential and non-essential amino acids in dietary protein.
+Physical Health and Activity,Nutrition and Diet,Hydration,,,,Effective use of fats for energy and bodily functions.
+Physical Health and Activity,Nutrition and Diet,Hydration,Water Consumption,,,Type of nutrient beneficial for heart health and inflammation reduction.
+Physical Health and Activity,Nutrition and Diet,Hydration,Water Consumption,Daily Water Intake,,Ensuring an adequate intake of vitamins and minerals essential for body processes.
+Physical Health and Activity,Nutrition and Diet,Hydration,Electrolyte Balance,,,"Consuming sufficient vitamins like A, D, E, K, C, and B-complex for health."
+Physical Health and Activity,Nutrition and Diet,Hydration,Electrolyte Balance,Potassium Levels,,"Concentration of Vitamin D in the body, important for bone health."
+Physical Health and Activity,General Health Awareness,,,,,"Adequate consumption of minerals like calcium, magnesium, and zinc essential for body processes."
+Physical Health and Activity,General Health Awareness,Hygiene Practices,,,,"Amount of calcium in the body, crucial for bone and dental health."
+Physical Health and Activity,General Health Awareness,Hygiene Practices,Personal Hygiene,,,Patterns and regularity of food and drink consumption.
+Physical Health and Activity,General Health Awareness,Hygiene Practices,Personal Hygiene,Oral Hygiene,,Consistency in timing and spacing of meals.
+Physical Health and Activity,General Health Awareness,Hygiene Practices,Environmental Hygiene,,,Eating pattern that cycles between periods of fasting and eating.
+Physical Health and Activity,General Health Awareness,Hygiene Practices,Environmental Hygiene,Sanitization Protocols,,Inclusion of different types of foods for a balanced diet.
+Physical Health and Activity,General Health Awareness,Preventive Health Measures,,,,Variety of plant-based foods in diet to ensure nutrient range.
+Physical Health and Activity,General Health Awareness,Preventive Health Measures,Vaccination Awareness,,,The maintenance of body fluid balance through adequate water intake.
+Physical Health and Activity,General Health Awareness,Preventive Health Measures,Vaccination Awareness,Herd Immunity Knowledge,,Regular drinking of water to maintain hydration and bodily functions.
+Physical Health and Activity,General Health Awareness,Regular Screenings,,,,Recommended water consumption per day for optimal hydration.
+Physical Health and Activity,General Health Awareness,Regular Screenings,Blood Pressure Monitoring,,,Maintaining a balance of electrolytes like sodium and potassium for hydration and cellular functions.
+Physical Health and Activity,Health Literacy,,,,,"Concentration of potassium in the body, crucial for cellular function."
+Physical Health and Activity,Health Literacy,Understanding Health Information,,,,"Involves the knowledge and behaviors related to maintaining health, including hygiene and regular medical check-ups."
+Physical Health and Activity,Health Literacy,Understanding Health Information,Reading Medical Charts,,,Activities and routines aimed at maintaining cleanliness and preventing disease.
+Physical Health and Activity,Navigating Healthcare Systems,,,,,Daily practices for personal cleanliness and care.
+Physical Health and Activity,Navigating Healthcare Systems,Insurance Literacy,,,,Practices for maintaining healthy teeth and gums.
+Attention and Perception,,,,,,Practices for maintaining cleanliness in living and work spaces.
+Attention and Perception,Selective Attention,,,,,"The capability to focus on a particular object for a certain period, while simultaneously ignoring irrelevant information."
+Attention and Perception,Selective Attention,Focused Attention,,,,Standardized methods for cleaning and disinfecting surfaces.
+Attention and Perception,Selective Attention,Focused Attention,Stimulus Detection,,,"Actions taken to prevent illness or injury, including vaccinations and regular screenings."
+Attention and Perception,Selective Attention,Focused Attention,Stimulus Detection,Signal Detection,,Understanding the importance and scheduling of vaccines.
+Attention and Perception,Selective Attention,Alternating Attention,,,,Understanding of community immunity achieved through vaccination coverage.
+Attention and Perception,Selective Attention,Alternating Attention,Task Re-engagement,,,Routine health checks for early detection of diseases.
+Attention and Perception,Selective Attention,Alternating Attention,Task Re-engagement,Attention Refocusing,,Regular check of blood pressure to monitor cardiovascular health.
+Attention and Perception,Sustained Attention,,,,,The capacity to maintain focus on a task or stimulus over an extended period.
+Attention and Perception,Sustained Attention,Vigilance,,,,The ability to maintain concentrated attention over prolonged periods of time.
+Attention and Perception,Sustained Attention,Vigilance,Alertness,,,Understanding basic health information and services needed to make appropriate decisions.
+Attention and Perception,Sustained Attention,Vigilance,Alertness,Rapid Response Readiness,,Ability to comprehend health-related materials presented in various formats.
+Attention and Perception,Sustained Attention,Concentration,,,,Skill in interpreting medical data presented in chart form.
+Attention and Perception,Sustained Attention,Concentration,Mental Endurance,,,Skills to effectively access health services and make informed choices.
+Attention and Perception,Sustained Attention,Concentration,Mental Endurance,Cognitive Stamina,,Understanding of health insurance policies and benefits.
+Attention and Perception,Divided Attention,,,,,The ability to process different information sources and successfully carry out multiple tasks at a time.
+Attention and Perception,Divided Attention,Working Memory Involvement,,,,"This root dimension encompasses the processes involved in attending to, perceiving, and processing sensory information from the environment. It involves the selection of relevant information and the regulation of sensory input for effective adaptation and interaction."
+Attention and Perception,Divided Attention,Working Memory Involvement,Memory Updating,,,The ability to focus on a specific task or stimulus while ignoring distractions.
+Attention and Perception,Divided Attention,Working Memory Involvement,Memory Updating,Dynamic Memory Adjustments,,"The ability to respond discretely to specific visual, auditory, or tactile stimuli."
+Attention and Perception,Divided Attention,Time Sharing,,,,Identifying and responding to specific stimuli amidst background noise or competing stimuli.
+Attention and Perception,Divided Attention,Time Sharing,Temporal Resource Allocation,,,"The ability to identify significant stimuli amidst competing backgrounds, crucial for effective vigilance."
+Attention and Perception,Divided Attention,Time Sharing,Temporal Resource Allocation,Priority Management,,The capability to shift attention between tasks or various elements of a task.
+Attention and Perception,Auditory Perception,,,,,The ability to resume the original task after a disruption or shift in attention.
+Attention and Perception,Auditory Perception,Phonemic Awareness,,,,Understanding the signals conveyed by open or closed body positions.
+Attention and Perception,Auditory Perception,Phonemic Awareness,Phonetic Discrimination,,,The speed and efficiency of refocusing attention to a primary task after an interruption.
+Attention and Perception,Auditory Perception,Phonemic Awareness,Phonetic Discrimination,Acoustic Feature Analysis,,The capacity to maintain attention to a task or stimulus over prolonged periods.
+Attention and Perception,Auditory Perception,Auditory Discrimination,,,,The ability to maintain concentrated attention over prolonged periods of repetitive or monotonous tasks.
+Attention and Perception,Auditory Perception,Auditory Discrimination,Sound Localization,,,Maintaining a state of readiness to respond to rare or infrequent stimuli.
+Attention and Perception,Auditory Perception,Auditory Discrimination,Sound Localization,Binaural Hearing Integration,,The ability to quickly react to unexpected critical events.
+Attention and Perception,Visual Perception,,,,,The continuous mental effort needed to maintain attention.
+Attention and Perception,Visual Perception,Visual Discrimination,,,,The ability to sustain effortful mental activities without succumbing to fatigue.
+Attention and Perception,Visual Perception,Visual Discrimination,Pattern Recognition,,,The ability to identify patterns among data or observations.
+Attention and Perception,Visual Perception,Visual Discrimination,Pattern Recognition,Shape Analysis,,The robustness of mental effort sustained over time.
+Attention and Perception,Visual Perception,Spatial Relationships,,,,The skill of attending to multiple tasks or stimuli simultaneously.
+Attention and Perception,Visual Perception,Spatial Relationships,Depth Perception,,,Managing the mental workload when processing and storing information while completing tasks simultaneously.
+Attention and Perception,Visual Perception,Spatial Relationships,Depth Perception,3D Spatial Judgment,,Revising and managing active memory contents for responsive task handling.
+Attention and Perception,Multisensory Integration,,,,,The ability to promptly revise memory content as tasks change.
+Attention and Perception,Multisensory Integration,Cross-Modal Perception,,,,Managing time and cognitive resources efficiently to execute multiple tasks simultaneously.
+Attention and Perception,Multisensory Integration,Cross-Modal Perception,Sensory Substitution,,,Deciding how to allocate time to different tasks based on priority and urgency.
+Attention and Perception,Multisensory Integration,Cross-Modal Perception,Sensory Substitution,Compensatory Sensory Processing,,Organizing tasks based on their importance and time sensitivity for efficient execution.
+Attention and Perception,Multisensory Integration,Temporal Synchrony,,,,"The capacity to identify, organize, and make sense of sounds, including understanding speech and differentiating between different types of auditory stimuli."
+Attention and Perception,Multisensory Integration,Temporal Synchrony,Temporal Binding,,,Recognizing and working with sounds in spoken language.
+Attention and Perception,Multisensory Integration,Temporal Synchrony,Temporal Binding,Event Sequence Coordination,,Differentiating between subtle sound cues in speech for improved language understanding.
+Attention and Perception,Cognitive Flexibility,,,,,The capacity to adapt behaviors and thoughts in response to changing goals and environmental stimuli.
+Attention and Perception,Cognitive Flexibility,Task Switching,,,,The ability to shift attention between tasks with different cognitive demands.
+Attention and Perception,Cognitive Flexibility,Task Switching,Cognitive Shifting,,,Detailed examination of sound properties for precise phonetic identification.
+Attention and Perception,Cognitive Flexibility,Task Switching,Cognitive Shifting,Flexible Mindset Adaptation,,"The ability to notice, compare, and distinguish the distinct and separate sounds in words."
+Attention and Perception,Cognitive Flexibility,Adaptive Thinking,,,,Determining the origin of a sound in space for appropriate decision-making.
+Attention and Perception,Cognitive Flexibility,Adaptive Thinking,Problem Solving Flexibility,,,Integrating sound inputs from both ears to identify source location.
+Attention and Perception,Cognitive Flexibility,Adaptive Thinking,Problem Solving Flexibility,Solution Exploration Diversity,,"The ability to interpret and make sense of visual stimuli, including recognizing patterns, spatial relationships, and visual details."
+Attention and Perception,Environmental Awareness,,,,,"The capability to discern differences and similarities in shapes, patterns, and objects."
+Attention and Perception,Environmental Awareness,Spatial Awareness,,,,Identifying recurring shapes and structures within visual inputs.
+Attention and Perception,Environmental Awareness,Spatial Awareness,Geographical Orientation,,,Examining features and structures of objects to differentiate and identify.
+Attention and Perception,Environmental Awareness,Spatial Awareness,Geographical Orientation,Directional Sense Development,,Understanding how objects or shapes fit into space or relate to one another.
+Attention and Perception,Environmental Awareness,Object Recognition,,,,Judging distances and the three-dimensional relations between objects.
+Attention and Perception,Environmental Awareness,Object Recognition,Feature Matching,,,Evaluating object placement and distance within three-dimensional space.
+Attention and Perception,Environmental Awareness,Object Recognition,Feature Matching,Perceptual Feature Comparison,,"The process of combining information from different sensory modalities, such as sight and sound, to form a coherent understanding of the environment."
+Adaptive Functioning and Life Skills,,,,,,The ability to use information from one sensory modality to assist perception in another modality.
+Adaptive Functioning and Life Skills,Daily Living Skills,,,,,"Utilizing one sense to perform the function of another, enhancing perception through cross-modal aids."
+Adaptive Functioning and Life Skills,Daily Living Skills,Personal Hygiene,,,,Patterns and regularity of food and drink consumption.
+Adaptive Functioning and Life Skills,Daily Living Skills,Personal Hygiene,Oral Hygiene,,,Consistency in timing and spacing of meals.
+Adaptive Functioning and Life Skills,Daily Living Skills,Personal Hygiene,Bathing and Showering,,,Adjusting sensory processing to fill gaps from a missing or impaired sense.
+Adaptive Functioning and Life Skills,Daily Living Skills,Personal Hygiene,Grooming and Personal Cleanliness,,,The ability to recognize and coordinate simultaneous inputs from multiple sensory sources.
+Adaptive Functioning and Life Skills,Daily Living Skills,Dressing Skills,,,,Linking sensory inputs into a unified temporal perception for coherent experience.
+Adaptive Functioning and Life Skills,Daily Living Skills,Dressing Skills,Clothing Selection,,,Aligning multiple sensory events into a sequential understanding.
+Adaptive Functioning and Life Skills,Daily Living Skills,Dressing Skills,Dressing Independently,,,The ability to adapt cognitive processing strategies to face new or unexpected conditions in the environment.
+Adaptive Functioning and Life Skills,Daily Living Skills,Feeding Skills,,,,The ability to unconsciously switch attention between one task and another.
+Adaptive Functioning and Life Skills,Daily Living Skills,Feeding Skills,Meal Preparation,,,Adjusting thoughts or behaviors to adapt to changing tasks or environments.
+Adaptive Functioning and Life Skills,Daily Living Skills,Feeding Skills,Nutritional Awareness,,,Quickly altering mental approaches to accommodate new information.
+Adaptive Functioning and Life Skills,Social Skills,,,,,The capability to integrate past experiences with present conditions and respond appropriately.
+Adaptive Functioning and Life Skills,Social Skills,Interpersonal Communication,,,,Generating multiple solutions to overcome challenges utilizing adaptive strategies.
+Adaptive Functioning and Life Skills,Social Skills,Interpersonal Communication,Verbal Communication,,,"The ability to maintain long-term, meaningful relationships through effective communication and mutual support."
+Adaptive Functioning and Life Skills,Social Skills,Interpersonal Communication,Non-Verbal Communication,,,The use of verbal and non-verbal language in social contexts to exchange information effectively.
+Adaptive Functioning and Life Skills,Social Skills,Conflict Resolution,,,,"The motivation to care for others' welfare, driven by an understanding and shared feeling of their emotional state."
+Adaptive Functioning and Life Skills,Social Skills,Conflict Resolution,Negotiation,,,Exploring a range of solutions for situational demands.
+Adaptive Functioning and Life Skills,Social Skills,Conflict Resolution,Mediation,,,"The understanding and perception of spatial, social, and object-related nuances in one’s environment."
+Adaptive Functioning and Life Skills,Social Skills,Empathy,,,,Recognizing and understanding the emotional states of others.
+Adaptive Functioning and Life Skills,Social Skills,Empathy,Emotional Awareness,,,Recognizing and identifying one's own emotions as well as the emotions of others.
+Adaptive Functioning and Life Skills,Social Skills,Empathy,Perspective Taking,,,The cognitive ability to consider the world from another individual's viewpoint.
+Adaptive Functioning and Life Skills,Community Participation,,,,,Recognizing the position and dimension of objects and bodies in space.
+Adaptive Functioning and Life Skills,Community Participation,Independent Navigation,,,,Navigating and understanding one's location within an environment effectively.
+Adaptive Functioning and Life Skills,Community Participation,Independent Navigation,Public Transportation Use,,,Enhancing ability to determine direction based on environmental cues.
+Adaptive Functioning and Life Skills,Community Participation,Independent Navigation,Map Reading and GPS Use,,,The ability to identify and categorize objects and their properties.
+Adaptive Functioning and Life Skills,Community Participation,Community Resource Utilization,,,,Comparing perceived features to known features to identify objects.
+Adaptive Functioning and Life Skills,Community Participation,Community Resource Utilization,Library Use,,,Analysing and comparing object features to achieve recognition accuracy.
+Adaptive Functioning and Life Skills,Community Participation,Community Resource Utilization,Public Service Access,,,"Adaptive Functioning and Life Skills refer to the practical, everyday skills needed to effectively and independently take care of oneself and to meet the demands of one's environment. They encompass a variety of domains of functioning crucial for daily life and successful participation in community life."
+Adaptive Functioning and Life Skills,Community Participation,Civic Engagement,,,,"Capabilities required for personal self-management and care, such as grooming, dressing, and feeding."
+Adaptive Functioning and Life Skills,Community Participation,Civic Engagement,Volunteering,,,"Skills related to maintaining personal cleanliness, including bathing, brushing teeth, and grooming."
+Adaptive Functioning and Life Skills,Community Participation,Civic Engagement,Voting Knowledge and Participation,,,"Skills related to maintaining cleanliness of teeth and mouth, such as brushing teeth and flossing."
+Motivation and Goal-Directed Behavior,,,,,,Competence in washing the body or taking a shower independently.
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,,,,,"Skills related to grooming activities, such as hair care and nail trimming."
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Curiosity,,,,Abilities required for selecting appropriate clothing and dressing oneself independently.
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Curiosity,Exploration,,,Ability to choose appropriate clothing for various occasions and weather conditions.
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Curiosity,Exploration,Adventurous Exploration,,"Skill of dressing oneself without assistance, including fastening buttons and zippers."
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Curiosity,Inquiry,,,"Competence in feeding oneself, including meal preparation and understanding nutritional needs."
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Curiosity,Inquiry,Reflective Inquiry,,Skills in preparing and cooking meals independently.
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Autonomy,,,,Understanding of nutritional needs and making healthy food choices.
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Autonomy,Self-Determination,,,Skills needed for interacting and communicating effectively with others.
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Autonomy,Self-Determination,Self-Regulation,,Ability to exchange information and convey messages effectively in social settings.
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Autonomy,Self-Determination,Self-Regulation,Metacognitive Strategies,Skill in using spoken language to communicate effectively.
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Mastery,,,,"Use of body language, gestures, and facial expressions in communication."
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Mastery,Skill Development,,,Skills to manage and resolve disagreements or conflicts in a constructive manner.
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Mastery,Skill Development,Skill Diversification,,Ability to discuss and reach mutual agreement in conflicts.
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Mastery,Competence Building,,,Facilitation of conflict resolution between others.
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Mastery,Competence Building,Performance Feedback Utilization,,Capacity to understand and respond to the emotions and perspectives of others.
+Motivation and Goal-Directed Behavior,Intrinsic Motivation,Mastery,Competence Building,Performance Feedback Utilization,Constructive Criticism Integration,Understanding and recognizing one's own emotions and those of others.
+Motivation and Goal-Directed Behavior,Extrinsic Motivation,,,,,Ability to see things from another person's point of view.
+Motivation and Goal-Directed Behavior,Extrinsic Motivation,Social Recognition,,,,Skills required to engage and interact positively within community settings.
+Motivation and Goal-Directed Behavior,Extrinsic Motivation,Social Recognition,Social Status,,,Ability to move through the community safely and independently using various modes of transport.
+Motivation and Goal-Directed Behavior,Extrinsic Motivation,Social Recognition,Social Status,Prestige Seeking,,"Skills in using buses, trains, or other public transportation effectively."
+Motivation and Goal-Directed Behavior,Extrinsic Motivation,Material Rewards,,,,Ability to use maps or GPS for navigation.
+Motivation and Goal-Directed Behavior,Extrinsic Motivation,Material Rewards,Financial Incentives,,,"Skills in effectively finding and using community resources, such as libraries, parks, and support services."
+Motivation and Goal-Directed Behavior,Extrinsic Motivation,Material Rewards,Financial Incentives,Bonus Structures,,Skill in finding and utilizing library services and resources.
+Motivation and Goal-Directed Behavior,Extrinsic Motivation,Material Rewards,Financial Incentives,Bonus Structures,Tiered Bonus Plans,"Ability to access and utilize public services, such as healthcare and legal aid."
+Motivation and Goal-Directed Behavior,Extrinsic Motivation,Material Rewards,Tangible Benefits,,,Participation and involvement in community activities and civic duties.
+Motivation and Goal-Directed Behavior,Extrinsic Motivation,Material Rewards,Tangible Benefits,In-Kind Rewards,,Engagement in unpaid work to support the community or a cause.
+Motivation and Goal-Directed Behavior,Extrinsic Motivation,Material Rewards,Tangible Benefits,In-Kind Rewards,Voucher Systems,Understanding the voting process and actively participating in elections.
+Motivation and Goal-Directed Behavior,Goal Setting,,,,,Recognition and understanding of one's emotional responses.
+Motivation and Goal-Directed Behavior,Goal Setting,Short-term Goals,,,,Refers to the psychological processes that drive individuals to engage in actions aimed at achieving specific objectives or fulfilling personal desires. This dimension underscores the intrinsic and extrinsic factors influencing an individual's determination and persistence in pursuing goals.
+Motivation and Goal-Directed Behavior,Goal Setting,Short-term Goals,Immediate Objectives,,,The internal drive to perform an activity for its inherent satisfaction and personal reward rather than external pressures or rewards.
+Motivation and Goal-Directed Behavior,Goal Setting,Short-term Goals,Immediate Objectives,Crisis Resolution Goals,,The drive to learn and explore out of natural interest or desire for knowledge.
+Motivation and Goal-Directed Behavior,Goal Setting,Short-term Goals,Immediate Objectives,Crisis Resolution Goals,Rapid Response Planning,Driven by the desire to investigate and discover unfamiliar or new informational or experiential territories.
+Motivation and Goal-Directed Behavior,Goal Setting,Long-term Goals,,,,Engaging in activities with an open and adventurous attitude towards unknown areas.
+Motivation and Goal-Directed Behavior,Goal Setting,Long-term Goals,Aspirational Goals,,,Driven by the desire to ask questions and seek explanations or understanding in various domains.
+Motivation and Goal-Directed Behavior,Goal Setting,Long-term Goals,Aspirational Goals,Vision Crafting,,Engaging in thoughtful questioning to derive deeper understanding or insights.
+Motivation and Goal-Directed Behavior,Goal Setting,Long-term Goals,Aspirational Goals,Vision Crafting,Long-term Vision Structure,"The need to feel in control of one's own actions and decisions, fueling self-driven goals."
+Motivation and Goal-Directed Behavior,Self-Discipline,,,,,The ability to govern oneself without external influence in making decisions related to goal achievement.
+Motivation and Goal-Directed Behavior,Self-Discipline,Impulse Control,,,,Managing sudden emotional and behavioral impulses in order to act appropriately.
+Motivation and Goal-Directed Behavior,Self-Discipline,Impulse Control,Delay of Gratification,,,Ordering ideas or events logically.
+Motivation and Goal-Directed Behavior,Self-Discipline,Impulse Control,Delay of Gratification,Reward Postponement Techniques,,"The ability to manage and control one's own behavior, emotions, and thoughts in the pursuit of long-term goals."
+Motivation and Goal-Directed Behavior,Self-Discipline,Emotion Regulation,,,,"The ability to monitor, evaluate, and modulate emotional reactions in a manner that promotes adaptive and appropriate functioning."
+Motivation and Goal-Directed Behavior,Self-Discipline,Emotion Regulation,Emotional Resilience,,,"Techniques that involve planning, monitoring, and evaluating personal cognitive processes for better goal attainment."
+Motivation and Goal-Directed Behavior,Self-Discipline,Emotion Regulation,Emotional Resilience,Stress Management Techniques,,The urge to improve skills and competence in a particular activity or field.
+Motivation and Goal-Directed Behavior,Self-Discipline,Emotion Regulation,Emotional Resilience,Stress Management Techniques,Relaxation Methods,The process of acquiring new abilities or refining existing skills over time.
+Motivation and Goal-Directed Behavior,Persistence,,,,,"Cognitive Impulse Control involves managing spontaneous cognitive responses, such as thoughts and ideas."
+Motivation and Goal-Directed Behavior,Persistence,Resilience,,,,Expanding a range of skills to adapt to various tasks or goals.
+Motivation and Goal-Directed Behavior,Persistence,Resilience,Adaptive Coping,,,Working towards achieving a recognized level of proficiency or excellence.
+Motivation and Goal-Directed Behavior,Persistence,Resilience,Adaptive Coping,Problem Reframing,,Using feedback effectively to enhance skills or achieve higher competence.
+Motivation and Goal-Directed Behavior,Persistence,Resilience,Adaptive Coping,Problem Reframing,Cognitive Flexibility Enhancement,Incorporating critical feedback to improve performance constructively.
+Motivation and Goal-Directed Behavior,Persistence,Tenacity,,,,"The drive to engage in an activity based on external rewards or pressures, such as monetary incentives or approval from others."
+Motivation and Goal-Directed Behavior,Persistence,Tenacity,Grit Development,,,Engaging in tasks to gain acknowledgment or approval from others.
+Motivation and Goal-Directed Behavior,Persistence,Tenacity,Grit Development,Perseverance Tactics,,Undertaking tasks that are intended to enhance one's position or rank within a group or society.
+Motivation and Goal-Directed Behavior,Action Planning,,,,,Seeking recognition and admiration within social circles by enhancing one's social standing.
+Motivation and Goal-Directed Behavior,Action Planning,Problem Solving,,,,"The motivation driven by tangible incentives such as money, gifts, or prizes."
+Motivation and Goal-Directed Behavior,Action Planning,Problem Solving,Analytical Thinking,,,Monetary gain received as a reward for achieving specific tasks or goals.
+Motivation and Goal-Directed Behavior,Action Planning,Problem Solving,Analytical Thinking,Logical Reasoning,,Financial bonuses provided for achieving or exceeding performance benchmarks.
+Motivation and Goal-Directed Behavior,Action Planning,Problem Solving,Analytical Thinking,Logical Reasoning,Inductive Reasoning Skills,Structured reward systems based on levels of achievement or performance indicators.
+Motivation and Goal-Directed Behavior,Action Planning,Resource Management,,,,"The skill of efficiently allocating time, energy, and attention to meet goals."
+Motivation and Goal-Directed Behavior,Action Planning,Resource Management,Time Allocation,,,"Physical rewards obtained, such as gifts or prizes, as motivation for goal achievement."
+Motivation and Goal-Directed Behavior,Action Planning,Resource Management,Time Allocation,Time Optimization,,Non-monetary tangible incentives provided to reward achievements.
+Motivation and Goal-Directed Behavior,Action Planning,Resource Management,Time Allocation,Time Optimization,Efficiency Techniques,Utilizing voucher-based incentives as alternative forms of tangible rewards.
+Motivation and Goal-Directed Behavior,Time Management,,,,,The process of organizing and planning how to divide time between activities.
+Motivation and Goal-Directed Behavior,Time Management,Prioritization,,,,The process of identifying something that you want to accomplish and establishing measurable objectives and timeframes.
+Motivation and Goal-Directed Behavior,Time Management,Prioritization,Urgency Evaluation,,,"Objectives set to be achieved in the near future, providing immediate direction."
+Motivation and Goal-Directed Behavior,Time Management,Prioritization,Urgency Evaluation,Critical Path Analysis,,"Tasks or goals intended to be completed in a very short timeframe, often to address urgent priorities."
+Motivation and Goal-Directed Behavior,Scheduling,,,,,Specific actions taken to address and manage immediate crisis situations effectively.
+Motivation and Goal-Directed Behavior,Scheduling,Routine Development,,,,Designing plans to quickly and effectively manage sudden crisis or urgent situations.
+Motivation and Goal-Directed Behavior,Scheduling,Routine Development,Consistency Building,,,"Objectives with a broader scope and longer timeframe, providing sustained direction."
+Motivation and Goal-Directed Behavior,Scheduling,Routine Development,Consistency Building,Habit Formation Strategies,,Long-term ambitions that drive daily efforts and guide personal growth over extended periods.
+Self-Concept and Identity,,,,,,Developing a clear and inspiring long-term vision that guides goal setting and actions.
+Self-Concept and Identity,Self-Esteem,,,,,Establishing a structured framework for long-term vision to ensure ongoing guidance and inspiration.
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,,,,"The ability to control one's impulses, emotions, and behaviors in pursuit of long-term goals."
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,Temporal Self-Esteem,,,Managing spontaneous desires to stay focused on longer-term objectives.
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,Temporal Self-Esteem,Short-Term Self-Esteem Fluctuations,,The capacity to resist immediate temptations in order to achieve more beneficial long-term outcomes.
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,Temporal Self-Esteem,Long-Term Self-Esteem Stability,,Strategies aimed at deferring immediate rewards to gain better long-term outcomes.
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,Temporal Self-Esteem,Long-Term Self-Esteem Stability,Consistent High Self-Esteem,The capacity to manage one's emotional responses to stay aligned with goals.
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,Temporal Self-Esteem,Long-Term Self-Esteem Stability,Consistent Low Self-Esteem,Maintaining emotional balance when faced with challenges or pressure in goal pursuit.
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,Comparative Self-Esteem,,,Strategies and practices for managing stress to maintain emotional resilience.
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,Comparative Self-Esteem,Peer Comparison Impact,,Practices aimed at reducing stress and increasing emotional stability.
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,Comparative Self-Esteem,Peer Comparison Impact,Positive Peer Influence on Esteem,The continued effort to achieve a particular goal despite obstacles and setbacks.
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,Comparative Self-Esteem,Peer Comparison Impact,Negative Peer Influence on Esteem,The ability to recover quickly from difficulties while maintaining focus on a goal.
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,Comparative Self-Esteem,Societal Standard Impact,,Using flexible strategies to overcome obstacles perceived during goal achievement.
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,Comparative Self-Esteem,Societal Standard Impact,Media Standards Influence,Shifting perspective to view challenges differently as part of adaptive coping.
+Self-Concept and Identity,Self-Esteem,Global Self-Esteem,Comparative Self-Esteem,Societal Standard Impact,Cultural Standards Influence,Practices aimed at enhancing mental adaptability to changes and obstacles.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,,,,Strong determination to stick with goals regardless of the challenges faced.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Academic Self-Esteem,,,Cultivating a sustained and enduring passion and perseverance for long-term goals.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Academic Self-Esteem,Test Performance Esteem,,Specific strategies and tactics to maintain commitment to goals over time.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Academic Self-Esteem,Test Performance Esteem,Pre-Test Esteem,The strategic process of outlining steps and methods to achieve specific goals.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Academic Self-Esteem,Test Performance Esteem,Post-Test Esteem,The process of finding solutions to obstacles encountered in goal pursuit.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Academic Self-Esteem,Classroom Participation Esteem,,The ability to deconstruct problems and conceptualize solutions or explanations in a structured manner.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Academic Self-Esteem,Classroom Participation Esteem,Positive Participation Esteem,Using logic and structured reasoning to resolve problems systematically.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Academic Self-Esteem,Classroom Participation Esteem,Negative Participation Esteem,The ability to make generalizations based on specific evidence.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Social Self-Esteem,,,Identifying and utilizing resources available to aid in achieving goals.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Social Self-Esteem,Friendship Esteem,,Strategically assigning time units to various tasks to enhance progression towards goals.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Social Self-Esteem,Friendship Esteem,New Friendships Esteem,Maximizing efficiency and productivity through effective time use.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Social Self-Esteem,Friendship Esteem,Existing Friendships Esteem,Methods used to enhance output with minimal wasted effort.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Social Self-Esteem,Social Recognition Esteem,,"The ability to use one's time effectively or productively, especially in the pursuit of long-term goals."
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Social Self-Esteem,Social Recognition Esteem,Recognition in Small Groups,The process of arranging tasks in order of importance to effectively allocate time and energy.
+Self-Concept and Identity,Self-Esteem,Domain-Specific Self-Esteem,Social Self-Esteem,Social Recognition Esteem,Recognition in Large Groups,Determining the importance and immediacy of tasks to optimize performance and time allocation.
+Self-Concept and Identity,Self-Image,,,,,Technique used to identify the sequence of essential tasks to minimize project durations.
+Self-Concept and Identity,Self-Image,Actual Self,,,,Creating a timetable for tasks and activities to enhance productivity.
+Self-Concept and Identity,Self-Image,Actual Self,Physical Self-Perception,,,Establishing consistent patterns of behavior or sequences of activities to improve efficiency.
+Self-Concept and Identity,Self-Image,Actual Self,Physical Self-Perception,Body Size Perception,,Developing reliable habits and schedules to support goal achievement.
+Self-Concept and Identity,Self-Image,Actual Self,Physical Self-Perception,Body Size Perception,Body Proportion Perception,Approaches to building and maintaining beneficial habits.
+Self-Concept and Identity,Self-Image,Actual Self,Physical Self-Perception,Facial Feature Perception,,"Self-Concept and Identity involves how individuals perceive themselves including their beliefs, emotions, and attitudes about their own abilities and unique characteristics. It includes self-image, self-esteem, and the understanding of one's role in various contexts."
+Self-Concept and Identity,Self-Image,Actual Self,Physical Self-Perception,Facial Feature Perception,Symmetry Perception,"The evaluation of one's own worth, encompassing feelings of self-respect and self-value."
+Self-Concept and Identity,Self-Image,Actual Self,Physical Self-Perception,Facial Feature Perception,Feature Attractiveness Perception,Overall assessment of one's worth as a person.
+Self-Concept and Identity,Self-Image,Actual Self,Psychological Self-Perception,,,Changes in global self-esteem over time.
+Self-Concept and Identity,Self-Image,Actual Self,Psychological Self-Perception,Emotional Self-Perception,,Day-to-day or moment-to-moment variations in self-esteem.
+Self-Concept and Identity,Self-Image,Actual Self,Psychological Self-Perception,Emotional Self-Perception,Positive Emotional Traits,Consistency or gradual change in self-esteem over extended periods.
+Self-Concept and Identity,Self-Image,Actual Self,Psychological Self-Perception,Emotional Self-Perception,Negative Emotional Traits,Maintaining generally high self-esteem over extended periods.
+Self-Concept and Identity,Self-Image,Actual Self,Psychological Self-Perception,Cognitive Self-Perception,,Maintaining generally low self-esteem over extended periods.
+Self-Concept and Identity,Self-Image,Actual Self,Psychological Self-Perception,Cognitive Self-Perception,Processing Speed Perception,Global self-esteem relative to peers or societal standards.
+Self-Concept and Identity,Self-Image,Actual Self,Psychological Self-Perception,Cognitive Self-Perception,Problem Solving Perception,Effects of comparing oneself to peers on self-esteem.
+Self-Concept and Identity,Self-Image,Ideal Self,,,,Enhancement in self-esteem through positive comparisons with peers.
+Self-Concept and Identity,Self-Image,Ideal Self,Aspirational Self,,,Decline in self-esteem through unfavorable comparisons with peers.
+Self-Concept and Identity,Self-Image,Ideal Self,Aspirational Self,Career Aspiration Self,,Effects of comparing oneself to societal standards on self-esteem.
+Self-Concept and Identity,Self-Image,Ideal Self,Aspirational Self,Career Aspiration Self,Leadership Role Aspiration,Impact of media portrayal and societal ideal standards on self-esteem.
+Self-Concept and Identity,Self-Image,Ideal Self,Aspirational Self,Career Aspiration Self,Expertise Development Aspiration,Impact of cultural norms and standards on self-esteem.
+Self-Concept and Identity,Self-Image,Ideal Self,Aspirational Self,Personal Development Aspiration,,"Self-esteem in specific areas such as academics, appearance, or social acceptance."
+Self-Concept and Identity,Self-Image,Ideal Self,Aspirational Self,Personal Development Aspiration,Lifestyle Transformation Aspiration,Self-worth in the context of academic performance and competence.
+Self-Concept and Identity,Self-Image,Ideal Self,Aspirational Self,Personal Development Aspiration,Skill Acquisition Aspiration,Self-esteem related to the outcome of specific academic tests.
+Self-Concept and Identity,Self-Image,Ideal Self,Normative Self,,,Self-esteem pertaining to anticipated performance before a test.
+Self-Concept and Identity,Self-Image,Ideal Self,Normative Self,Cultural Norms Influence,,Self-esteem related to reflection on performance after a test.
+Self-Concept and Identity,Self-Image,Ideal Self,Normative Self,Cultural Norms Influence,Traditional Norms Influence,Self-worth derived from participation and performance in classroom settings.
+Self-Concept and Identity,Self-Image,Ideal Self,Normative Self,Cultural Norms Influence,Modern Norms Influence,High self-esteem from active and successful class involvement.
+Self-Concept and Identity,Self-Image,Ideal Self,Normative Self,Peer Norms Influence,,Low self-esteem due to inadequate or unsatisfactory class participation.
+Self-Concept and Identity,Self-Image,Ideal Self,Normative Self,Peer Norms Influence,Stable Peer Influence,Self-worth derived from perceived social success and acceptance.
+Self-Concept and Identity,Self-Image,Ideal Self,Normative Self,Peer Norms Influence,Fluctuating Peer Influence,Self-esteem related to the quality and quantity of friendships.
+Self-Concept and Identity,Role Identity,,,,,Esteem derived from forming new friendships.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,,,,Esteem related to maintaining existing friendships.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Career Satisfaction,,,Self-worth related to visibility and popularity within social contexts.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Career Satisfaction,Job Role Satisfaction,,Esteem based on recognition in intimate or small social circles.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Career Satisfaction,Job Role Satisfaction,Task-Specific Satisfaction,Esteem generated from acknowledgment in broad or large social settings.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Career Satisfaction,Work-Life Balance Satisfaction,,"The perception of oneself, including the physical, psychological, and social attributes that define an individual."
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Career Satisfaction,Work-Life Balance Satisfaction,Personal Time Satisfaction,How individuals perceive their actual characteristics and attributes.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Career Satisfaction,Work-Life Balance Satisfaction,Professional Time Satisfaction,How individuals view their own physical attributes.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Professional Development Identity,,,Perception of one's body size and shape.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Professional Development Identity,Skill Development Identity,,Perception of the proportionality of one's physical appearance.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Professional Development Identity,Skill Development Identity,Technical Skills Identity,Perception of one's facial attributes.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Professional Development Identity,Skill Development Identity,Interpersonal Skills Identity,Perceived symmetry or asymmetry in facial features.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Professional Development Identity,Career Growth Identity,,Perception of the attractiveness of individual facial features.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Professional Development Identity,Career Growth Identity,Promotion Aspiration,How individuals view their mental and emotional attributes.
+Self-Concept and Identity,Role Identity,Occupational Role Identity,Professional Development Identity,Career Growth Identity,Horizontal Growth Identity,Awareness of one's own emotional traits and tendencies.
+Self-Concept and Identity,Role Identity,Family Role Identity,,,,"Perception of possessing positive emotional qualities, such as empathy or resilience."
+Self-Concept and Identity,Role Identity,Family Role Identity,Parental Role Identity,,,"Perception of having less favorable emotional attributes, like impatience or anxiety-proneness."
+Self-Concept and Identity,Role Identity,Family Role Identity,Parental Role Identity,Parental Guidance Role,,Perception of one's mental capabilities and cognitive traits.
+Self-Concept and Identity,Role Identity,Family Role Identity,Parental Role Identity,Parental Guidance Role,Educational Guidance Role,How quickly one believes they can process thoughts and information.
+Self-Concept and Identity,Role Identity,Family Role Identity,Parental Role Identity,Parental Support Role,,Perception of one's ability to solve problems effectively.
+Self-Concept and Identity,Role Identity,Family Role Identity,Parental Role Identity,Parental Support Role,Emotional Support Role,"How individuals would like to perceive themselves, representing personal goals and aspirations."
+Self-Concept and Identity,Role Identity,Family Role Identity,Parental Role Identity,Parental Support Role,Physical Care Role,The ideal self in terms of personal aspirations and ambitions.
+Self-Concept and Identity,Role Identity,Family Role Identity,Sibling Role Identity,,,The ideal self within career or professional goals.
+Self-Concept and Identity,Role Identity,Family Role Identity,Sibling Role Identity,Sibling Rivalry Identity,,Aspiration to achieve leadership roles.
+Self-Concept and Identity,Role Identity,Family Role Identity,Sibling Role Identity,Sibling Rivalry Identity,Competitive Dynamics Identity,Aspiration to become an expert in a professional field.
+Self-Concept and Identity,Role Identity,Family Role Identity,Sibling Role Identity,Sibling Bond Identity,,Aspirations related to personal growth and self-improvement.
+Self-Concept and Identity,Role Identity,Family Role Identity,Sibling Role Identity,Sibling Bond Identity,Sibling Support Identity,Desire to significantly change personal lifestyle or habits for improvement.
+Self-Concept and Identity,Role Identity,Social Role Identity,,,,Aspiration to learn new skills or enhance existing competencies.
+Self-Concept and Identity,Role Identity,Social Role Identity,Friendship Role Identity,,,The ideal self as influenced by external norms and expectations.
+Self-Concept and Identity,Role Identity,Social Role Identity,Friendship Role Identity,Supportive Friend Role,,How cultural expectations shape the ideal self.
+Self-Concept and Identity,Role Identity,Social Role Identity,Friendship Role Identity,Supportive Friend Role,Emotional Friend Support Identity,Influence of traditional cultural norms on personal aspirations.
+Self-Concept and Identity,Role Identity,Social Role Identity,Friendship Role Identity,Supportive Friend Role,Practical Friend Support Identity,Impact of contemporary cultural norms on self-perception and ideals.
+Self-Concept and Identity,Role Identity,Social Role Identity,Friendship Role Identity,Leadership in Friend Circle,,Influence of peer expectations on the ideal self.
+Self-Concept and Identity,Role Identity,Social Role Identity,Friendship Role Identity,Leadership in Friend Circle,Organizational Leadership in Friend Circle,Consistent peer influence on self-perception over time.
+Self-Concept and Identity,Role Identity,Social Role Identity,Friendship Role Identity,Leadership in Friend Circle,Guidance Leadership in Friend Circle,Variable impact of peer expectations on self-perception.
+Self-Concept and Identity,Role Identity,Social Role Identity,Voluntary Role Identity,,,"Understanding and identifying with roles and responsibilities in various contexts, such as family, work, and social settings."
+Self-Concept and Identity,Role Identity,Social Role Identity,Voluntary Role Identity,Charity Volunteer Role,,Identification and understanding of one's role and responsibilities within their occupational or professional sphere.
+Self-Concept and Identity,Role Identity,Social Role Identity,Voluntary Role Identity,Charity Volunteer Role,Benefactor Role Identity,Contentment with one's professional role and achievements.
+Self-Concept and Identity,Personal Values and Beliefs,,,,,Satisfaction with specific job roles and tasks.
+Self-Concept and Identity,Personal Values and Beliefs,Moral Values,,,,Satisfaction with specific duties or tasks within the job role.
+Self-Concept and Identity,Personal Values and Beliefs,Moral Values,Altruistic Values,,,Contentment with the balance between work responsibilities and personal life.
+Self-Concept and Identity,Personal Values and Beliefs,Moral Values,Altruistic Values,Empathy Values,,Satisfaction with the amount and quality of personal time outside of work.
+Self-Concept and Identity,Personal Values and Beliefs,Moral Values,Altruistic Values,Compassion Values,,Contentment with the scheduling and demands of work time within life.
+Self-Concept and Identity,Personal Values and Beliefs,Moral Values,Altruistic Values,Compassion Values,Altruistic Action Values,Identity related to growth and progression in one's career.
+Self-Concept and Identity,Personal Values and Beliefs,Moral Values,Justice Values,,,Identity centered around professional skills enhancement.
+Self-Concept and Identity,Personal Values and Beliefs,Moral Values,Justice Values,Equality Values,,Self-perception centered on the growth and application of technical skills.
+Self-Concept and Identity,Personal Values and Beliefs,Moral Values,Justice Values,Equality Values,Equal Opportunity Values,Identity shaped by the development and use of interpersonal skills.
+Self-Concept and Identity,Personal Values and Beliefs,Moral Values,Justice Values,Fairness Values,,Identity focused on advancement within one's career path.
+Self-Concept and Identity,Personal Values and Beliefs,Moral Values,Justice Values,Fairness Values,Reciprocity Values,Desire and planning towards career promotions and hierarchical advancement.
+Self-Concept and Identity,Personal Values and Beliefs,Moral Values,Justice Values,Fairness Values,Impartiality Values,Focus on broadening skills and roles within the same career level.
+Self-Concept and Identity,Personal Values and Beliefs,Religious or Spiritual Beliefs,,,,Recognition and involvement in roles and duties within the family setting.
+Self-Concept and Identity,Personal Values and Beliefs,Religious or Spiritual Beliefs,Spiritual Growth Identity,,,Understanding and acceptance of the parent role and responsibilities.
+Self-Concept and Identity,Personal Values and Beliefs,Religious or Spiritual Beliefs,Spiritual Growth Identity,Meditative Growth Identity,,Identity related to providing direction and support to children.
+Self-Concept and Identity,Personal Values and Beliefs,Religious or Spiritual Beliefs,Spiritual Growth Identity,Meditative Growth Identity,Mindfulness Meditation Identity,Focus on guiding children from an educational perspective.
+Self-Concept and Identity,Personal Values and Beliefs,Religious or Spiritual Beliefs,Spiritual Growth Identity,Pilgrimage Growth Identity,,Identity centered around emotional and physical support in parenting.
+Self-Concept and Identity,Personal Values and Beliefs,Religious or Spiritual Beliefs,Spiritual Growth Identity,Pilgrimage Growth Identity,Cultural Pilgrimage Identity,Emphasis on providing emotional comfort and strength to children.
+Self-Concept and Identity,Personal Values and Beliefs,Religious or Spiritual Beliefs,Religious Practice Identity,,,Role of providing physical care and assistance to children.
+Self-Concept and Identity,Personal Values and Beliefs,Religious or Spiritual Beliefs,Religious Practice Identity,Ritual Practice Identity,,Understanding and acceptance of the sibling role and relationships.
+Self-Concept and Identity,Personal Values and Beliefs,Religious or Spiritual Beliefs,Religious Practice Identity,Ritual Practice Identity,Daily Ritual Practices,Identity aspects related to competition and rivalry among siblings.
+Self-Concept and Identity,Personal Values and Beliefs,Religious or Spiritual Beliefs,Religious Practice Identity,Congregational Identity,,Identity aspects centered around competitive interactions with siblings.
+Self-Concept and Identity,Personal Values and Beliefs,Religious or Spiritual Beliefs,Religious Practice Identity,Congregational Identity,Communal Worship Identity,Identity aspects related to building and maintaining sibling relationships.
+Self-Concept and Identity,Personal Values and Beliefs,Cultural Values,,,,Focus on providing support and maintaining positive sibling relationships.
+Self-Concept and Identity,Personal Values and Beliefs,Cultural Values,Tradition Commitment,,,Understanding and integration of roles one holds in social settings outside family and work environments.
+Self-Concept and Identity,Personal Values and Beliefs,Cultural Values,Tradition Commitment,Festive Tradition Commitment,,Understanding one's role in friendships and social circles.
+Self-Concept and Identity,Personal Values and Beliefs,Cultural Values,Tradition Commitment,Festive Tradition Commitment,Annual Festival Commitment,Identity based on being a supportive and reliable friend.
+Self-Concept and Identity,Personal Values and Beliefs,Cultural Values,Tradition Commitment,Ritual Tradition Commitment,,Identity focused on providing emotional support within friendships.
+Self-Concept and Identity,Personal Values and Beliefs,Cultural Values,Tradition Commitment,Ritual Tradition Commitment,Lifecycle Ritual Commitment,Identity associated with offering practical aid within friendships.
+Self-Concept and Identity,Personal Values and Beliefs,Cultural Values,Cultural Adaptability,,,Identity related to taking leadership roles within friend groups.
+Self-Concept and Identity,Personal Values and Beliefs,Cultural Values,Cultural Adaptability,Acculturation Adaptability,,Leadership identity based on organizing activities within friend groups.
+Self-Concept and Identity,Personal Values and Beliefs,Cultural Values,Cultural Adaptability,Acculturation Adaptability,Cultural Versatility Adaptability,Leadership role based on providing guidance and direction within friendships.
+Self-Concept and Identity,Personal Values and Beliefs,Cultural Values,Cultural Adaptability,Cross-Cultural Cooperation,,"Recognition of roles taken on voluntarily, such as community service."
+Self-Concept and Identity,Personal Values and Beliefs,Cultural Values,Cultural Adaptability,Cross-Cultural Cooperation,Cultural Synergy Values,Identity in voluntary roles related to charity and philanthropy.
+Self-Concept and Identity,Body Image,,,,,Identity as a sponsor or supporter of charitable initiatives.
+Self-Concept and Identity,Body Image,Body Satisfaction,,,,The framework of beliefs and values that guide an individual's behavior and decision-making processes.
+Self-Concept and Identity,Body Image,Body Satisfaction,Body Pride,,,Principles concerning the distinction between right and wrong or good and bad behavior.
+Self-Concept and Identity,Body Image,Body Satisfaction,Body Pride,Athletic Body Pride,,Moral values emphasizing selflessness and concern for others.
+Self-Concept and Identity,Body Image,Body Satisfaction,Body Pride,Artistic Body Pride,,Values centered around understanding and sharing others' feelings.
+Self-Concept and Identity,Body Image,Body Satisfaction,Body Discontent,,,Values focused on motivation to help others and relieve suffering.
+Self-Concept and Identity,Body Image,Body Satisfaction,Body Discontent,Weight Discontent,,Values promoting actions aimed at helping others selflessly.
+Self-Concept and Identity,Body Image,Body Satisfaction,Body Discontent,Feature Discontent,,Moral values related to fairness and justice.
+Self-Concept and Identity,Body Image,Body Functionality Esteem,,,,Values highlighting equal rights and opportunities for all.
+Self-Concept and Identity,Body Image,Body Functionality Esteem,Physical Capability Pride,,,Emphasis on promoting equal opportunities across diverse domains.
+Self-Concept and Identity,Body Image,Body Functionality Esteem,Physical Capability Pride,Endurance Pride,,Values emphasizing fairness in interactions and decisions.
+Self-Concept and Identity,Body Image,Body Functionality Esteem,Physical Capability Pride,Strength Pride,,Values stressing fair trade and mutual benefit in exchanges.
+Self-Concept and Identity,Body Image,Body Functionality Esteem,Physical Health Dissatisfaction,,,Principles of remaining unbiased and neutral in decision-making.
+Self-Concept and Identity,Body Image,Body Functionality Esteem,Physical Health Dissatisfaction,Chronic Health Dissatisfaction,,"Beliefs relating to faith, spirituality, and religious practices."
+Self-Concept and Identity,Body Image,Body Functionality Esteem,Physical Health Dissatisfaction,Acute Health Dissatisfaction,,Identity related to the pursuit of spiritual understanding and growth.
+Self-Concept and Identity,Cultural and Social Identity,,,,,Identity in spiritual growth through meditation practices.
+Self-Concept and Identity,Cultural and Social Identity,Ethnic Identity,,,,Self-identification with meditation practices focused on mindfulness.
+Self-Concept and Identity,Cultural and Social Identity,Ethnic Identity,Bicultural Identity,,,Identity focused on spiritual growth through pilgrimage activities.
+Self-Concept and Identity,Cultural and Social Identity,Ethnic Identity,Bicultural Identity,Dual Tradition Integration,,Engagement in pilgrimages connected to one's cultural heritage.
+Self-Concept and Identity,Cultural and Social Identity,Ethnic Identity,Bicultural Identity,Cross-Cultural Identity,,Identity associated with regular engagement in religious practices.
+Self-Concept and Identity,Cultural and Social Identity,Ethnic Tradition Integration,,,,Identity in participating in religious or spiritual rituals.
+Self-Concept and Identity,Cultural and Social Identity,Ethnic Tradition Integration,Ancestral Tradition Engagement,,,Commitment to engaging in religious rituals on a daily basis.
+Self-Concept and Identity,Cultural and Social Identity,Ethnic Tradition Integration,Cultural Ritual Integration,,,Identity based on community worship or religious congregation.
+Self-Concept and Identity,Location-based Community Membership,,,,,Identity based on participating in communal worship activities.
+Self-Concept and Identity,Location-based Community Membership,Local Community Involvement,,,,"Values that relate to the practices, norms, and expectations derived from an individual's culture."
+Self-Concept and Identity,Location-based Community Membership,Local Community Involvement,Neighborhood Engagement,,,Value placed on upholding cultural traditions and practices.
+Self-Concept and Identity,Location-based Community Membership,Local Community Involvement,Municipal Participation,,,Commitment to celebrating cultural festivals and events.
+Self-Concept and Identity,Virtual Community Membership,,,,,Dedication to participating in yearly cultural festivals.
+Self-Concept and Identity,Virtual Community Membership,Virtual Community Involvement,,,,Commitment to maintaining cultural rituals and ceremonies.
+Self-Concept and Identity,Virtual Community Membership,Virtual Community Involvement,Online Support Groups,,,Dedication to rituals related to significant life events.
+Self-Concept and Identity,Virtual Community Membership,Virtual Community Involvement,Gaming Community Identity,,,Value placed on adapting to and integrating with different cultures.
+Self-Concept and Identity,Social Media Influencer Identity,,,,,Adaptability in merging different cultural norms into one's life.
+Self-Concept and Identity,Social Media Influencer Identity,Content Creation Identity,,,,Ability to switch between cultural norms smoothly.
+Self-Concept and Identity,Social Media Influencer Identity,Influence Economy Identity,,,,Value in fostering collaboration across different cultures.
