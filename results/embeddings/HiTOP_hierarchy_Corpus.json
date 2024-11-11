@@ -1,0 +1,466 @@
+{
+    "Internalizing": [
+        "A severe form of depression involving persistent sadness, lack of interest, and other cognitive and physical symptoms affecting daily functioning.",
+        "A dimension involving persistent sadness and loss of interest, affecting daily life.",
+        "A subtype with profound lack of pleasure in all or almost all activities.",
+        "Intense anxiety or fear of being judged, negatively evaluated, or rejected in a social or performance situation.",
+        "Chronic depression symptoms starting before age 21.",
+        "A dimension related to excessive fear or worry, often impacting normal functioning.",
+        "Fear of performing tasks in front of others, affecting performance ability.",
+        "A subtype with mood reactivity and positive affect in response to positive events.",
+        "Anxiety that particularly arises in situations requiring decisions.",
+        "Excessive worry about having a serious illness despite medical reassurance.",
+        "Persistent and excessive worry about various aspects of life such as work, relationships, or health.",
+        "Fear of interacting with others, leading to avoidance of social situations.",
+        "Chronic depression symptoms developing at or after age 21.",
+        "A chronic form of depression with fewer severe symptoms than major depression, but lasting for a longer period.",
+        "Internalizing dimensions involve inward-focused experiences and behaviors, such as anxiety, depression, and withdrawal."
+    ],
+    "Disinhibited Externalizing": [
+        "Quick thinking or decision-making without detailed processing or understanding of the consequences.",
+        "Disinhibited externalizing dimensions involve outward-directed behaviors characterized by impulsivity and hyperactivity.",
+        "Speaking without forethought, regardless of context or consequences.",
+        "Excessive physical movement and restlessness.",
+        "Frequent movements or adjustments out of restlessness.",
+        "Difficulty in remaining seated when it is expected.",
+        "Frequently interrupting others.",
+        "Excessive talking and difficulty in staying quiet or listening.",
+        "Performing unexpected actions abruptly and without consideration.",
+        "Impaired ability to maintain attention on tasks.",
+        "Talking excessively in inappropriate settings such as classrooms.",
+        "The tendency to act without thinking through motor actions, often seen in physical restlessness or fidgeting.",
+        "Tendency to underestimate or overlook potential risks.",
+        "A dimension related to acting on a whim, displaying behavior with little or no forethought, reflection, or consideration of the consequences.",
+        "A dimension characterized by excessive movement, fidgeting, and an inability to stay still."
+    ],
+    "Antagonistic Externalizing": [
+        "Subtle or passive-aggressive language to harm reputation or feelings.",
+        "Refusal to communicate as a form of resistance.",
+        "A dimension characterized by resistance to authority or control.",
+        "Technique of avoiding tasks or commands rather than direct refusal.",
+        "Aggressive actions intended for gain or dominance.",
+        "Habit of arguing against authorities or rules.",
+        "Indirect resistance, such as procrastination or inaction.",
+        "A dimension involving hostile or violent behavior towards others.",
+        "Blatant verbal insults and profanity.",
+        "Acts of physical violence toward others.",
+        "Direct and overt resistance, such as arguing or refusing orders.",
+        "Deliberately breaking rules to show defiance.",
+        "Using words to harm others, such as insults or threats.",
+        "Aggressive response to perceived threat or frustration.",
+        "Antagonistic externalizing dimensions are marked by hostile or oppositional behaviors."
+    ],
+    "Thought Disorder": [
+        "False beliefs in one's exceptional abilities, wealth, or fame.",
+        "Beliefs of having religious powers or being a religious figure.",
+        "Belief that one is being plotted against or oppressed by others.",
+        "Thought disorder dimensions encompass disruptions in thinking patterns, such as delusions and hallucinations.",
+        "Characterized by strong, irrational feelings of persecution or imaginary conspiracies against oneself.",
+        "A dimension that includes perceiving things that are not present in reality, often auditory or visual.",
+        "Seeing detailed images of people, animals, or scenes.",
+        "A dimension involving strong beliefs that are contradicted by reality or rational argument.",
+        "Hearing voices instructing specific actions.",
+        "Seeing basic shapes or flashes of light.",
+        "Implausible beliefs that could not occur in real life.",
+        "Hearing noises without a source, such as footsteps.",
+        "Claiming divine abilities or identity contrary to existing doctrine.",
+        "Hearing voices or sounds that are not actually present.",
+        "Belief in being a savior or messianic figure.",
+        "Seeing images or lights that are not actually present."
+    ],
+    "Detachment": [
+        "An inability to feel emotions, often as a protective response to trauma or stress.",
+        "Lack of interest in work-related activities.",
+        "Widespread lack of interest across most or all aspects of life.",
+        "A dimension reflecting the avoidance or disinterest in emotional connections or interactions.",
+        "Reduced emotional responsiveness due to prolonged stress.",
+        "Disinterest in social engagements despite capability.",
+        "Persistent and enduring apathy over time.",
+        "Avoidance and disengagement from social interactions or environment.",
+        "A dimension involving a lack of interest, enthusiasm, or concern.",
+        "Lack of concern for specific areas of life while remaining engaged in others.",
+        "Sudden but usually short-lived periods of indifference.",
+        "Deliberate exclusion of oneself from social situations.",
+        "Emotional blunting following trauma.",
+        "Detachment dimensions reflect disengagement from emotional or social connections."
+    ],
+    "Somatoform": [
+        "A dimension characterized by a change in or loss of physical functioning that is not explained by any medical condition.",
+        "Pain predominantly influenced by psychological factors.",
+        "Includes symptoms such as paralysis, tremors, gait abnormalities or muscle weakness not explained medically.",
+        "Involves physical symptoms affecting voluntary motor or sensory function, resembling a neurological disorder.",
+        "A dimension where psychological distress is expressed through physical symptoms.",
+        "Loss of vision without organic impairment.",
+        "Experiencing chronic pain with psychological factors playing a role in the onset or maintenance of the pain.",
+        "Somatoform dimensions involve the manifestation of psychological distress through physical symptoms.",
+        "Non-epileptic seizures with psychological triggers.",
+        "Persistent pain with significant psychological impact.",
+        "Include loss or alteration of senses like vision, speech, or smell without a medical cause.",
+        "Loss of ability to move muscles not due to neurological damage.",
+        "Loss of voice without laryngeal pathology."
+    ],
+    "Internalizing|Anxiety": [
+        "Intense anxiety or fear of being judged, negatively evaluated, or rejected in a social or performance situation.",
+        "A dimension related to excessive fear or worry, often impacting normal functioning.",
+        "Fear of performing tasks in front of others, affecting performance ability.",
+        "Anxiety that particularly arises in situations requiring decisions.",
+        "Excessive worry about having a serious illness despite medical reassurance.",
+        "Persistent and excessive worry about various aspects of life such as work, relationships, or health.",
+        "Fear of interacting with others, leading to avoidance of social situations."
+    ],
+    "Internalizing|Depression": [
+        "A severe form of depression involving persistent sadness, lack of interest, and other cognitive and physical symptoms affecting daily functioning.",
+        "A dimension involving persistent sadness and loss of interest, affecting daily life.",
+        "A subtype with profound lack of pleasure in all or almost all activities.",
+        "Chronic depression symptoms starting before age 21.",
+        "A subtype with mood reactivity and positive affect in response to positive events.",
+        "A chronic form of depression with fewer severe symptoms than major depression, but lasting for a longer period.",
+        "Chronic depression symptoms developing at or after age 21."
+    ],
+    "Disinhibited Externalizing|Impulsivity": [
+        "Quick thinking or decision-making without detailed processing or understanding of the consequences.",
+        "Speaking without forethought, regardless of context or consequences.",
+        "Performing unexpected actions abruptly and without consideration.",
+        "Impaired ability to maintain attention on tasks.",
+        "The tendency to act without thinking through motor actions, often seen in physical restlessness or fidgeting.",
+        "Tendency to underestimate or overlook potential risks.",
+        "A dimension related to acting on a whim, displaying behavior with little or no forethought, reflection, or consideration of the consequences."
+    ],
+    "Disinhibited Externalizing|Hyperactivity": [
+        "Excessive physical movement and restlessness.",
+        "Difficulty in remaining seated when it is expected.",
+        "Frequent movements or adjustments out of restlessness.",
+        "Frequently interrupting others.",
+        "Talking excessively in inappropriate settings such as classrooms.",
+        "Excessive talking and difficulty in staying quiet or listening.",
+        "A dimension characterized by excessive movement, fidgeting, and an inability to stay still."
+    ],
+    "Antagonistic Externalizing|Aggression": [
+        "Subtle or passive-aggressive language to harm reputation or feelings.",
+        "Aggressive actions intended for gain or dominance.",
+        "A dimension involving hostile or violent behavior towards others.",
+        "Blatant verbal insults and profanity.",
+        "Acts of physical violence toward others.",
+        "Using words to harm others, such as insults or threats.",
+        "Aggressive response to perceived threat or frustration."
+    ],
+    "Antagonistic Externalizing|Defiance": [
+        "Refusal to communicate as a form of resistance.",
+        "Habit of arguing against authorities or rules.",
+        "A dimension characterized by resistance to authority or control.",
+        "Technique of avoiding tasks or commands rather than direct refusal.",
+        "Indirect resistance, such as procrastination or inaction.",
+        "Direct and overt resistance, such as arguing or refusing orders.",
+        "Deliberately breaking rules to show defiance."
+    ],
+    "Thought Disorder|Delusions": [
+        "False beliefs in one's exceptional abilities, wealth, or fame.",
+        "Beliefs of having religious powers or being a religious figure.",
+        "Characterized by strong, irrational feelings of persecution or imaginary conspiracies against oneself.",
+        "A dimension involving strong beliefs that are contradicted by reality or rational argument.",
+        "Implausible beliefs that could not occur in real life.",
+        "Belief that one is being plotted against or oppressed by others.",
+        "Claiming divine abilities or identity contrary to existing doctrine.",
+        "Belief in being a savior or messianic figure."
+    ],
+    "Thought Disorder|Hallucinations": [
+        "Seeing detailed images of people, animals, or scenes.",
+        "A dimension that includes perceiving things that are not present in reality, often auditory or visual.",
+        "Hearing voices instructing specific actions.",
+        "Seeing basic shapes or flashes of light.",
+        "Hearing noises without a source, such as footsteps.",
+        "Hearing voices or sounds that are not actually present.",
+        "Seeing images or lights that are not actually present."
+    ],
+    "Detachment|Emotional Withdrawal": [
+        "An inability to feel emotions, often as a protective response to trauma or stress.",
+        "A dimension reflecting the avoidance or disinterest in emotional connections or interactions.",
+        "Reduced emotional responsiveness due to prolonged stress.",
+        "Avoidance and disengagement from social interactions or environment.",
+        "Deliberate exclusion of oneself from social situations.",
+        "Emotional blunting following trauma."
+    ],
+    "Detachment|Apathy": [
+        "Widespread lack of interest across most or all aspects of life.",
+        "Disinterest in social engagements despite capability.",
+        "Persistent and enduring apathy over time.",
+        "Lack of concern for specific areas of life while remaining engaged in others.",
+        "A dimension involving a lack of interest, enthusiasm, or concern.",
+        "Sudden but usually short-lived periods of indifference.",
+        "Lack of interest in work-related activities."
+    ],
+    "Somatoform|Somatization": [
+        "Pain predominantly influenced by psychological factors.",
+        "A dimension where psychological distress is expressed through physical symptoms.",
+        "Experiencing chronic pain with psychological factors playing a role in the onset or maintenance of the pain.",
+        "Non-epileptic seizures with psychological triggers.",
+        "Persistent pain with significant psychological impact.",
+        "Involves physical symptoms affecting voluntary motor or sensory function, resembling a neurological disorder."
+    ],
+    "Somatoform|Conversion Symptoms": [
+        "A dimension characterized by a change in or loss of physical functioning that is not explained by any medical condition.",
+        "Includes symptoms such as paralysis, tremors, gait abnormalities or muscle weakness not explained medically.",
+        "Loss of vision without organic impairment.",
+        "Include loss or alteration of senses like vision, speech, or smell without a medical cause.",
+        "Loss of ability to move muscles not due to neurological damage.",
+        "Loss of voice without laryngeal pathology."
+    ],
+    "Internalizing|Anxiety|Generalized Anxiety": [
+        "Anxiety that particularly arises in situations requiring decisions.",
+        "Excessive worry about having a serious illness despite medical reassurance.",
+        "Persistent and excessive worry about various aspects of life such as work, relationships, or health."
+    ],
+    "Internalizing|Anxiety|Social Anxiety": [
+        "Intense anxiety or fear of being judged, negatively evaluated, or rejected in a social or performance situation.",
+        "Fear of interacting with others, leading to avoidance of social situations.",
+        "Fear of performing tasks in front of others, affecting performance ability."
+    ],
+    "Internalizing|Depression|Major Depression": [
+        "A severe form of depression involving persistent sadness, lack of interest, and other cognitive and physical symptoms affecting daily functioning.",
+        "A subtype with profound lack of pleasure in all or almost all activities.",
+        "A subtype with mood reactivity and positive affect in response to positive events."
+    ],
+    "Internalizing|Depression|Dysthymia": [
+        "Chronic depression symptoms starting before age 21.",
+        "A chronic form of depression with fewer severe symptoms than major depression, but lasting for a longer period.",
+        "Chronic depression symptoms developing at or after age 21."
+    ],
+    "Disinhibited Externalizing|Impulsivity|Motor Impulsivity": [
+        "Performing unexpected actions abruptly and without consideration.",
+        "The tendency to act without thinking through motor actions, often seen in physical restlessness or fidgeting.",
+        "Speaking without forethought, regardless of context or consequences."
+    ],
+    "Disinhibited Externalizing|Impulsivity|Cognitive Impulsivity": [
+        "Quick thinking or decision-making without detailed processing or understanding of the consequences.",
+        "Impaired ability to maintain attention on tasks.",
+        "Tendency to underestimate or overlook potential risks."
+    ],
+    "Disinhibited Externalizing|Hyperactivity|Motor Hyperactivity": [
+        "Excessive physical movement and restlessness.",
+        "Difficulty in remaining seated when it is expected.",
+        "Frequent movements or adjustments out of restlessness."
+    ],
+    "Disinhibited Externalizing|Hyperactivity|Verbal Hyperactivity": [
+        "Frequently interrupting others.",
+        "Talking excessively in inappropriate settings such as classrooms.",
+        "Excessive talking and difficulty in staying quiet or listening."
+    ],
+    "Antagonistic Externalizing|Aggression|Physical Aggression": [
+        "Aggressive actions intended for gain or dominance.",
+        "Aggressive response to perceived threat or frustration.",
+        "Acts of physical violence toward others."
+    ],
+    "Antagonistic Externalizing|Aggression|Verbal Aggression": [
+        "Subtle or passive-aggressive language to harm reputation or feelings.",
+        "Using words to harm others, such as insults or threats.",
+        "Blatant verbal insults and profanity."
+    ],
+    "Antagonistic Externalizing|Defiance|Passive Defiance": [
+        "Refusal to communicate as a form of resistance.",
+        "Technique of avoiding tasks or commands rather than direct refusal.",
+        "Indirect resistance, such as procrastination or inaction."
+    ],
+    "Antagonistic Externalizing|Defiance|Active Defiance": [
+        "Direct and overt resistance, such as arguing or refusing orders.",
+        "Habit of arguing against authorities or rules.",
+        "Deliberately breaking rules to show defiance."
+    ],
+    "Thought Disorder|Delusions|Paranoid Delusions": [
+        "Characterized by strong, irrational feelings of persecution or imaginary conspiracies against oneself.",
+        "Belief that one is being plotted against or oppressed by others.",
+        "Implausible beliefs that could not occur in real life."
+    ],
+    "Thought Disorder|Delusions|Grandiose Delusions": [
+        "False beliefs in one's exceptional abilities, wealth, or fame.",
+        "Beliefs of having religious powers or being a religious figure.",
+        "Belief in being a savior or messianic figure.",
+        "Claiming divine abilities or identity contrary to existing doctrine."
+    ],
+    "Thought Disorder|Hallucinations|Auditory Hallucinations": [
+        "Hearing noises without a source, such as footsteps.",
+        "Hearing voices or sounds that are not actually present.",
+        "Hearing voices instructing specific actions."
+    ],
+    "Thought Disorder|Hallucinations|Visual Hallucinations": [
+        "Seeing detailed images of people, animals, or scenes.",
+        "Seeing images or lights that are not actually present.",
+        "Seeing basic shapes or flashes of light."
+    ],
+    "Detachment|Emotional Withdrawal|Social Withdrawal": [
+        "Avoidance and disengagement from social interactions or environment.",
+        "Deliberate exclusion of oneself from social situations."
+    ],
+    "Detachment|Emotional Withdrawal|Emotional Numbness": [
+        "An inability to feel emotions, often as a protective response to trauma or stress.",
+        "Emotional blunting following trauma.",
+        "Reduced emotional responsiveness due to prolonged stress."
+    ],
+    "Detachment|Apathy|Selective Apathy": [
+        "Disinterest in social engagements despite capability.",
+        "Lack of interest in work-related activities.",
+        "Lack of concern for specific areas of life while remaining engaged in others."
+    ],
+    "Detachment|Apathy|Global Apathy": [
+        "Sudden but usually short-lived periods of indifference.",
+        "Persistent and enduring apathy over time.",
+        "Widespread lack of interest across most or all aspects of life."
+    ],
+    "Somatoform|Somatization|Functional Neurological Symptom Disorder": [
+        "Non-epileptic seizures with psychological triggers.",
+        "Involves physical symptoms affecting voluntary motor or sensory function, resembling a neurological disorder."
+    ],
+    "Somatoform|Somatization|Pain Disorder": [
+        "Experiencing chronic pain with psychological factors playing a role in the onset or maintenance of the pain.",
+        "Pain predominantly influenced by psychological factors.",
+        "Persistent pain with significant psychological impact."
+    ],
+    "Somatoform|Conversion Symptoms|Motor Symptoms": [
+        "Includes symptoms such as paralysis, tremors, gait abnormalities or muscle weakness not explained medically.",
+        "Loss of ability to move muscles not due to neurological damage."
+    ],
+    "Somatoform|Conversion Symptoms|Sensory Symptoms": [
+        "Loss of voice without laryngeal pathology.",
+        "Include loss or alteration of senses like vision, speech, or smell without a medical cause.",
+        "Loss of vision without organic impairment."
+    ],
+    "Internalizing|Anxiety|Generalized Anxiety|Health Anxiety": [
+        "Excessive worry about having a serious illness despite medical reassurance."
+    ],
+    "Internalizing|Anxiety|Generalized Anxiety|Decision-making Anxiety": [
+        "Anxiety that particularly arises in situations requiring decisions."
+    ],
+    "Internalizing|Anxiety|Social Anxiety|Performance Anxiety": [
+        "Fear of performing tasks in front of others, affecting performance ability."
+    ],
+    "Internalizing|Anxiety|Social Anxiety|Interaction Anxiety": [
+        "Fear of interacting with others, leading to avoidance of social situations."
+    ],
+    "Internalizing|Depression|Major Depression|Melancholic Features": [
+        "A subtype with profound lack of pleasure in all or almost all activities."
+    ],
+    "Internalizing|Depression|Major Depression|Atypical Features": [
+        "A subtype with mood reactivity and positive affect in response to positive events."
+    ],
+    "Internalizing|Depression|Dysthymia|Early Onset Dysthymia": [
+        "Chronic depression symptoms starting before age 21."
+    ],
+    "Internalizing|Depression|Dysthymia|Late Onset Dysthymia": [
+        "Chronic depression symptoms developing at or after age 21."
+    ],
+    "Disinhibited Externalizing|Impulsivity|Motor Impulsivity|Impulsive Speech": [
+        "Speaking without forethought, regardless of context or consequences."
+    ],
+    "Disinhibited Externalizing|Impulsivity|Motor Impulsivity|Impulsive Actions": [
+        "Performing unexpected actions abruptly and without consideration."
+    ],
+    "Disinhibited Externalizing|Impulsivity|Cognitive Impulsivity|Attention Deficits": [
+        "Impaired ability to maintain attention on tasks."
+    ],
+    "Disinhibited Externalizing|Impulsivity|Cognitive Impulsivity|Poor Risk Assessment": [
+        "Tendency to underestimate or overlook potential risks."
+    ],
+    "Disinhibited Externalizing|Hyperactivity|Motor Hyperactivity|Excessive Fidgeting": [
+        "Frequent movements or adjustments out of restlessness."
+    ],
+    "Disinhibited Externalizing|Hyperactivity|Motor Hyperactivity|Inability to Stay Seated": [
+        "Difficulty in remaining seated when it is expected."
+    ],
+    "Disinhibited Externalizing|Hyperactivity|Verbal Hyperactivity|Interruptive Behavior": [
+        "Frequently interrupting others."
+    ],
+    "Disinhibited Externalizing|Hyperactivity|Verbal Hyperactivity|Excessive Talking in Classrooms": [
+        "Talking excessively in inappropriate settings such as classrooms."
+    ],
+    "Antagonistic Externalizing|Aggression|Physical Aggression|Reactive Physical Aggression": [
+        "Aggressive response to perceived threat or frustration."
+    ],
+    "Antagonistic Externalizing|Aggression|Physical Aggression|Proactive Physical Aggression": [
+        "Aggressive actions intended for gain or dominance."
+    ],
+    "Antagonistic Externalizing|Aggression|Verbal Aggression|Direct Verbal Aggressiveness": [
+        "Blatant verbal insults and profanity."
+    ],
+    "Antagonistic Externalizing|Aggression|Verbal Aggression|Indirect Verbal Aggressiveness": [
+        "Subtle or passive-aggressive language to harm reputation or feelings."
+    ],
+    "Antagonistic Externalizing|Defiance|Passive Defiance|Avoidance Behavior": [
+        "Technique of avoiding tasks or commands rather than direct refusal."
+    ],
+    "Antagonistic Externalizing|Defiance|Passive Defiance|Silent Treatment": [
+        "Refusal to communicate as a form of resistance."
+    ],
+    "Antagonistic Externalizing|Defiance|Active Defiance|Argumentative Behavior": [
+        "Habit of arguing against authorities or rules."
+    ],
+    "Antagonistic Externalizing|Defiance|Active Defiance|Rule Breaking": [
+        "Deliberately breaking rules to show defiance."
+    ],
+    "Thought Disorder|Delusions|Paranoid Delusions|Bizarre Delusions": [
+        "Implausible beliefs that could not occur in real life."
+    ],
+    "Thought Disorder|Delusions|Paranoid Delusions|Persecutory Delusions": [
+        "Belief that one is being plotted against or oppressed by others."
+    ],
+    "Thought Disorder|Delusions|Grandiose Delusions|Religious Delusions": [
+        "Claiming divine abilities or identity contrary to existing doctrine.",
+        "Beliefs of having religious powers or being a religious figure.",
+        "Belief in being a savior or messianic figure."
+    ],
+    "Thought Disorder|Hallucinations|Auditory Hallucinations|Command Hallucinations": [
+        "Hearing voices instructing specific actions."
+    ],
+    "Thought Disorder|Hallucinations|Auditory Hallucinations|Non-Vocal Sounds": [
+        "Hearing noises without a source, such as footsteps."
+    ],
+    "Thought Disorder|Hallucinations|Visual Hallucinations|Simple Visual Hallucinations": [
+        "Seeing basic shapes or flashes of light."
+    ],
+    "Thought Disorder|Hallucinations|Visual Hallucinations|Complex Visual Hallucinations": [
+        "Seeing detailed images of people, animals, or scenes."
+    ],
+    "Detachment|Emotional Withdrawal|Social Withdrawal|Self-isolation": [
+        "Deliberate exclusion of oneself from social situations."
+    ],
+    "Detachment|Emotional Withdrawal|Emotional Numbness|Trauma-induced Numbness": [
+        "Emotional blunting following trauma."
+    ],
+    "Detachment|Emotional Withdrawal|Emotional Numbness|Stress-induced Numbness": [
+        "Reduced emotional responsiveness due to prolonged stress."
+    ],
+    "Detachment|Apathy|Selective Apathy|Professional Apathy": [
+        "Lack of interest in work-related activities."
+    ],
+    "Detachment|Apathy|Selective Apathy|Social Apathy": [
+        "Disinterest in social engagements despite capability."
+    ],
+    "Detachment|Apathy|Global Apathy|Chronic Apathy": [
+        "Persistent and enduring apathy over time."
+    ],
+    "Detachment|Apathy|Global Apathy|Acute Apathy": [
+        "Sudden but usually short-lived periods of indifference."
+    ],
+    "Somatoform|Somatization|Functional Neurological Symptom Disorder|Seizures and Convulsions": [
+        "Non-epileptic seizures with psychological triggers."
+    ],
+    "Somatoform|Somatization|Pain Disorder|Psychogenic Pain": [
+        "Pain predominantly influenced by psychological factors."
+    ],
+    "Somatoform|Somatization|Pain Disorder|Chronic Pain Syndrome": [
+        "Persistent pain with significant psychological impact."
+    ],
+    "Somatoform|Conversion Symptoms|Motor Symptoms|Paralysis": [
+        "Loss of ability to move muscles not due to neurological damage."
+    ],
+    "Somatoform|Conversion Symptoms|Sensory Symptoms|Blindness": [
+        "Loss of vision without organic impairment."
+    ],
+    "Somatoform|Conversion Symptoms|Sensory Symptoms|Aphonia": [
+        "Loss of voice without laryngeal pathology."
+    ],
+    "Thought Disorder|Delusions|Grandiose Delusions|Religious Delusions|Messianic Delusions": [
+        "Belief in being a savior or messianic figure."
+    ],
+    "Thought Disorder|Delusions|Grandiose Delusions|Religious Delusions|Blasphemous Delusions": [
+        "Claiming divine abilities or identity contrary to existing doctrine."
+    ]
+}

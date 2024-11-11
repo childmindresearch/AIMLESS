@@ -1,0 +1,860 @@
+{
+    "Neurodevelopment": [
+        "Effective use of words to communicate ideas.",
+        "The integrated use of multiple body parts in overall movement.",
+        "The ability to maintain control of the body while moving.",
+        "Understanding the rules that govern sentence structure and syntax.",
+        "Using gestures, eye contact, and other nonverbal signals effectively during interactions.",
+        "Understanding expected behaviors in different social roles.",
+        "Understanding the unwritten social rules within different cultures.",
+        "Understanding and processing the meanings of words within context.",
+        "Ability to interact and communicate effectively with others.",
+        "The ability to produce spoken words clearly and fluently.",
+        "Understanding and processing of words and their meanings.",
+        "Skill and grace in physical movement, specifically of the hands.",
+        "Capacity to understand and share the feelings of others.",
+        "Development of communication abilities, both verbal and non-verbal.",
+        "Recognizing emotions through vocal expressions.",
+        "The ability to accurately follow moving objects with the eyes.",
+        "Understanding emotions by analyzing facial expressions.",
+        "Control of small muscles, enabling activities like writing or buttoning shirts.",
+        "The ability to coordinate visual input with movements of the feet.",
+        "Sympathetic awareness of others' distress with a desire to alleviate it.",
+        "Ability to maintain equilibrium while stationary or moving.",
+        "The skill of taking turns while engaging in dialogues.",
+        "The ability to maintain control of the body's position while standing still.",
+        "The ability to comprehend grammatically structured sentences.",
+        "The force applied by the hand when gripping an object.",
+        "The coordinated use of both hands to accomplish a task.",
+        "Ability to coordinate hand movements with visual input.",
+        "The ability to recognize and understand words quickly and accurately.",
+        "Understanding the structure of words including roots and affixes.",
+        "Ability to construct sentences with correct syntax and grammar.",
+        "Refers to the neurological and psychological growth and development processes in individuals.",
+        "Effective engagement and interaction within social settings.",
+        "Comprehending norms and expectations in various social settings.",
+        "Using correct grammatical structures in communication.",
+        "The process of combining words to form coherent sentences.",
+        "Ability to perceive or understand social cues and contexts.",
+        "The ability to control and manipulate small objects with fingers.",
+        "Coordination and physical movement abilities.",
+        "Ability to initiate, sustain, and end conversations appropriately.",
+        "Use of large muscles for actions such as walking or jumping.",
+        "The ability to understand different viewpoints.",
+        "Ability to understand language.",
+        "Smooth and efficient movement patterns.",
+        "Choosing the right words to convey precise meanings.",
+        "Ability to identify and interpret emotions in others.",
+        "Ability to convey or communicate information."
+    ],
+    "Psychotic": [
+        "Intense focus on potential threats and dangers.",
+        "Belief that one is going to be harmed or harassed.",
+        "Affects the way one perceives reality, potentially leading to hallucinations or delusions.",
+        "Seeing non-existent human forms or figures.",
+        "Hearing voices that are not present.",
+        "Belief that one's partner is unfaithful without evidence.",
+        "Obsessive thoughts about partner's unfaithfulness.",
+        "Perceiving non-existent animals or fantastical creatures.",
+        "Hearing voices that provide a narrative or commentary.",
+        "Seeing simple forms or colors.",
+        "Hearing music with no external source.",
+        "Belief of having special religious status or power.",
+        "Hearing sounds that are not present.",
+        "Hearing noises such as buzzing or knocking.",
+        "The state of mistrust and doubt about others' intentions.",
+        "Belief in having special mystic insights or powers.",
+        "Belief in special connection with cosmic or universal forces.",
+        "Hearing non-verbal auditory phenomena that are not present.",
+        "Anxiety or fear that others are plotting against oneself.",
+        "Feelings of jealousy based on perceived competition with others.",
+        "Belief in having supernatural abilities.",
+        "Belief in being a prophesied or savior figure.",
+        "Strong beliefs in things that are not true.",
+        "Belief of having exceptional abilities, wealth, or fame.",
+        "Seeing detailed images or scenes.",
+        "Perceiving geometric shapes or patterns.",
+        "Claim of receiving divine revelations or insights.",
+        "Seeing things that are not present.",
+        "Seeing brief, bright flashes.",
+        "Perceptions with no basis in reality.",
+        "Hearing voices that instruct behavior."
+    ],
+    "Bipolar": [
+        "Reduced speed and energy in physical actions.",
+        "Period of extremely elevated mood and energy.",
+        "Constant sense of dissatisfaction or discomfort.",
+        "Heavy feeling in arms or legs during atypical depression.",
+        "Depressive episode characterized by mood reactivity and positivity to pleasure.",
+        "Excessive sleep during depressive episodes.",
+        "Challenges in waking up despite sufficient sleep duration.",
+        "Extreme feelings of happiness and well-being.",
+        "Prolonged durations of sleep beyond typical needs.",
+        "Decreased engagement in previously enjoyed activities.",
+        "Sensation of heaviness or lack of strength in limbs.",
+        "Sudden drive for creative activities.",
+        "Continuous and enduring irritability.",
+        "Eruption of anger through aggressive language.",
+        "Episodes of irritability and anger.",
+        "High energy despite reduced need for sleep.",
+        "Mood fluctuations throughout the day, usually worse in the morning.",
+        "Notable low mood at start of the day.",
+        "Period of low mood and energy that affects daily functioning.",
+        "Sudden and intense irritability.",
+        "Inability to feel pleasure in normally pleasurable activities.",
+        "Belief in one's superiority during manic euphoria.",
+        "Engagement in activities with high potential for negative outcomes.",
+        "Heightened energy levels during euphoria.",
+        "Profound despondency and lack of reactivity to pleasurable stimuli.",
+        "Impulsive reactions exacerbated by irritability.",
+        "Unrealistic positive evaluation of abilities or qualities.",
+        "Manifestations of irritability through physical restlessness.",
+        "Feeling emotionally numb or empty.",
+        "Characterized by mood swings between mania and depression.",
+        "Slight improvement in mood towards the end of the day."
+    ],
+    "Depressive": [
+        "Limited disruption to daily activities.",
+        "Significant interference with regular life responsibilities.",
+        "Frequent disagreements or problems within relationships.",
+        "Cultural or familial learning influencing mood patterns.",
+        "High intensity of symptoms affecting daily living.",
+        "Associated with persistent feelings of sadness and loss of interest.",
+        "Symptom onset occurs before the age of 21.",
+        "Depressive symptoms starting in late fall or winter.",
+        "Symptoms improve naturally as spring approaches.",
+        "One-time episode that lasts for a period and impacts daily life.",
+        "Depression occurring after childbirth.",
+        "Multiple depressive episodes separated by at least two months of normal mood.",
+        "Chronic, low-level depressive feeling.",
+        "Tendency to isolate oneself from peers.",
+        "Impact of symptoms on professional life.",
+        "Depressive symptoms appearing within first few weeks after delivery.",
+        "Depressive episodes occurring seasonally, commonly in winter.",
+        "Impact of symptoms on peer relationships.",
+        "Utilizing social and professional support systems.",
+        "Symptom onset occurs at age 21 or later.",
+        "Hereditary factors contributing to early onset depression.",
+        "Mild intensity of symptoms during a single depressive episode.",
+        "Characterized by prolonged periods of depressive moods.",
+        "Association with family history of depression.",
+        "Quality of work relationships and collaborations.",
+        "Decrease in work productivity and efficiency.",
+        "Brief duration of depressive symptoms.",
+        "Ongoing and resistant depressive symptoms.",
+        "Creating structured daily habits to improve mood.",
+        "Symptoms developing several months post childbirth.",
+        "Adjustments in lifestyle to manage symptoms."
+    ],
+    "Neurodevelopment|Motor Skills": [
+        "The force applied by the hand when gripping an object.",
+        "The ability to control and manipulate small objects with fingers.",
+        "The coordinated use of both hands to accomplish a task.",
+        "Coordination and physical movement abilities.",
+        "The ability to accurately follow moving objects with the eyes.",
+        "Ability to coordinate hand movements with visual input.",
+        "Control of small muscles, enabling activities like writing or buttoning shirts.",
+        "Use of large muscles for actions such as walking or jumping.",
+        "The ability to maintain control of the body while moving.",
+        "The integrated use of multiple body parts in overall movement.",
+        "The ability to coordinate visual input with movements of the feet.",
+        "Smooth and efficient movement patterns.",
+        "Ability to maintain equilibrium while stationary or moving.",
+        "The ability to maintain control of the body's position while standing still.",
+        "Skill and grace in physical movement, specifically of the hands."
+    ],
+    "Neurodevelopment|Language Development": [
+        "Effective use of words to communicate ideas.",
+        "The ability to recognize and understand words quickly and accurately.",
+        "Ability to construct sentences with correct syntax and grammar.",
+        "Understanding the structure of words including roots and affixes.",
+        "Understanding and processing of words and their meanings.",
+        "Development of communication abilities, both verbal and non-verbal.",
+        "Understanding the rules that govern sentence structure and syntax.",
+        "Ability to understand language.",
+        "Using correct grammatical structures in communication.",
+        "Understanding and processing the meanings of words within context.",
+        "The process of combining words to form coherent sentences.",
+        "Choosing the right words to convey precise meanings.",
+        "The ability to produce spoken words clearly and fluently.",
+        "The ability to comprehend grammatically structured sentences.",
+        "Ability to convey or communicate information."
+    ],
+    "Neurodevelopment|Social Skills": [
+        "Ability to identify and interpret emotions in others.",
+        "Ability to initiate, sustain, and end conversations appropriately.",
+        "Recognizing emotions through vocal expressions.",
+        "Understanding emotions by analyzing facial expressions.",
+        "The ability to understand different viewpoints.",
+        "Using gestures, eye contact, and other nonverbal signals effectively during interactions.",
+        "Effective engagement and interaction within social settings.",
+        "Comprehending norms and expectations in various social settings.",
+        "Understanding expected behaviors in different social roles.",
+        "The skill of taking turns while engaging in dialogues.",
+        "Understanding the unwritten social rules within different cultures.",
+        "Sympathetic awareness of others' distress with a desire to alleviate it.",
+        "Ability to perceive or understand social cues and contexts.",
+        "Ability to interact and communicate effectively with others.",
+        "Capacity to understand and share the feelings of others."
+    ],
+    "Psychotic|Hallucinations": [
+        "Hearing non-verbal auditory phenomena that are not present.",
+        "Hearing music with no external source.",
+        "Perceiving non-existent animals or fantastical creatures.",
+        "Seeing non-existent human forms or figures.",
+        "Hearing sounds that are not present.",
+        "Hearing voices that instruct behavior.",
+        "Seeing detailed images or scenes.",
+        "Hearing noises such as buzzing or knocking.",
+        "Perceiving geometric shapes or patterns.",
+        "Hearing voices that are not present.",
+        "Seeing things that are not present.",
+        "Seeing brief, bright flashes.",
+        "Perceptions with no basis in reality.",
+        "Hearing voices that provide a narrative or commentary.",
+        "Seeing simple forms or colors."
+    ],
+    "Psychotic|Delusions": [
+        "Intense focus on potential threats and dangers.",
+        "Belief that one is going to be harmed or harassed.",
+        "Anxiety or fear that others are plotting against oneself.",
+        "Feelings of jealousy based on perceived competition with others.",
+        "Strong beliefs in things that are not true.",
+        "Belief of having special religious status or power.",
+        "Belief in having supernatural abilities.",
+        "Belief of having exceptional abilities, wealth, or fame.",
+        "Belief in being a prophesied or savior figure.",
+        "Claim of receiving divine revelations or insights.",
+        "Belief that one's partner is unfaithful without evidence.",
+        "Obsessive thoughts about partner's unfaithfulness.",
+        "The state of mistrust and doubt about others' intentions.",
+        "Belief in having special mystic insights or powers.",
+        "Belief in special connection with cosmic or universal forces."
+    ],
+    "Bipolar|Mania": [
+        "Impulsive reactions exacerbated by irritability.",
+        "Period of extremely elevated mood and energy.",
+        "Belief in one's superiority during manic euphoria.",
+        "Constant sense of dissatisfaction or discomfort.",
+        "Unrealistic positive evaluation of abilities or qualities.",
+        "Sudden drive for creative activities.",
+        "Manifestations of irritability through physical restlessness.",
+        "Continuous and enduring irritability.",
+        "Eruption of anger through aggressive language.",
+        "Episodes of irritability and anger.",
+        "High energy despite reduced need for sleep.",
+        "Extreme feelings of happiness and well-being.",
+        "Engagement in activities with high potential for negative outcomes.",
+        "Heightened energy levels during euphoria.",
+        "Sudden and intense irritability."
+    ],
+    "Bipolar|Depression": [
+        "Sensation of heaviness or lack of strength in limbs.",
+        "Reduced speed and energy in physical actions.",
+        "Inability to feel pleasure in normally pleasurable activities.",
+        "Depressive episode characterized by mood reactivity and positivity to pleasure.",
+        "Heavy feeling in arms or legs during atypical depression.",
+        "Excessive sleep during depressive episodes.",
+        "Feeling emotionally numb or empty.",
+        "Challenges in waking up despite sufficient sleep duration.",
+        "Profound despondency and lack of reactivity to pleasurable stimuli.",
+        "Prolonged durations of sleep beyond typical needs.",
+        "Mood fluctuations throughout the day, usually worse in the morning.",
+        "Notable low mood at start of the day.",
+        "Period of low mood and energy that affects daily functioning.",
+        "Slight improvement in mood towards the end of the day.",
+        "Decreased engagement in previously enjoyed activities."
+    ],
+    "Depressive|Major Depressive Disorder": [
+        "Multiple depressive episodes separated by at least two months of normal mood.",
+        "Limited disruption to daily activities.",
+        "Significant interference with regular life responsibilities.",
+        "High intensity of symptoms affecting daily living.",
+        "Brief duration of depressive symptoms.",
+        "Ongoing and resistant depressive symptoms.",
+        "Mild intensity of symptoms during a single depressive episode.",
+        "Characterized by prolonged periods of depressive moods.",
+        "Depressive episodes occurring seasonally, commonly in winter.",
+        "Depressive symptoms appearing within first few weeks after delivery.",
+        "Symptoms developing several months post childbirth.",
+        "Depressive symptoms starting in late fall or winter.",
+        "Symptoms improve naturally as spring approaches.",
+        "One-time episode that lasts for a period and impacts daily life.",
+        "Depression occurring after childbirth."
+    ],
+    "Depressive|Dysthymia": [
+        "Chronic, low-level depressive feeling.",
+        "Utilizing social and professional support systems.",
+        "Frequent disagreements or problems within relationships.",
+        "Cultural or familial learning influencing mood patterns.",
+        "Tendency to isolate oneself from peers.",
+        "Symptom onset occurs at age 21 or later.",
+        "Impact of symptoms on professional life.",
+        "Hereditary factors contributing to early onset depression.",
+        "Creating structured daily habits to improve mood.",
+        "Association with family history of depression.",
+        "Symptom onset occurs before the age of 21.",
+        "Quality of work relationships and collaborations.",
+        "Adjustments in lifestyle to manage symptoms.",
+        "Impact of symptoms on peer relationships.",
+        "Decrease in work productivity and efficiency."
+    ],
+    "Neurodevelopment|Motor Skills|Fine Motor Skills": [
+        "The force applied by the hand when gripping an object.",
+        "The ability to control and manipulate small objects with fingers.",
+        "The coordinated use of both hands to accomplish a task.",
+        "The ability to accurately follow moving objects with the eyes.",
+        "Ability to coordinate hand movements with visual input.",
+        "Control of small muscles, enabling activities like writing or buttoning shirts.",
+        "Skill and grace in physical movement, specifically of the hands."
+    ],
+    "Neurodevelopment|Motor Skills|Gross Motor Skills": [
+        "Use of large muscles for actions such as walking or jumping.",
+        "The integrated use of multiple body parts in overall movement.",
+        "The ability to maintain control of the body while moving.",
+        "The ability to coordinate visual input with movements of the feet.",
+        "Smooth and efficient movement patterns.",
+        "Ability to maintain equilibrium while stationary or moving.",
+        "The ability to maintain control of the body's position while standing still."
+    ],
+    "Neurodevelopment|Language Development|Receptive Language": [
+        "The ability to recognize and understand words quickly and accurately.",
+        "Understanding the structure of words including roots and affixes.",
+        "Understanding the rules that govern sentence structure and syntax.",
+        "Ability to understand language.",
+        "Understanding and processing the meanings of words within context.",
+        "Understanding and processing of words and their meanings.",
+        "The ability to comprehend grammatically structured sentences."
+    ],
+    "Neurodevelopment|Language Development|Expressive Language": [
+        "Effective use of words to communicate ideas.",
+        "Ability to construct sentences with correct syntax and grammar.",
+        "Using correct grammatical structures in communication.",
+        "The process of combining words to form coherent sentences.",
+        "Choosing the right words to convey precise meanings.",
+        "The ability to produce spoken words clearly and fluently.",
+        "Ability to convey or communicate information."
+    ],
+    "Neurodevelopment|Social Skills|Social Perception": [
+        "Ability to identify and interpret emotions in others.",
+        "Recognizing emotions through vocal expressions.",
+        "Understanding emotions by analyzing facial expressions.",
+        "Comprehending norms and expectations in various social settings.",
+        "Understanding expected behaviors in different social roles.",
+        "Understanding the unwritten social rules within different cultures.",
+        "Ability to perceive or understand social cues and contexts."
+    ],
+    "Neurodevelopment|Social Skills|Social Interaction Skills": [
+        "Ability to initiate, sustain, and end conversations appropriately.",
+        "The ability to understand different viewpoints.",
+        "Using gestures, eye contact, and other nonverbal signals effectively during interactions.",
+        "Effective engagement and interaction within social settings.",
+        "Sympathetic awareness of others' distress with a desire to alleviate it.",
+        "The skill of taking turns while engaging in dialogues.",
+        "Capacity to understand and share the feelings of others."
+    ],
+    "Psychotic|Hallucinations|Auditory Hallucinations": [
+        "Hearing non-verbal auditory phenomena that are not present.",
+        "Hearing music with no external source.",
+        "Hearing sounds that are not present.",
+        "Hearing noises such as buzzing or knocking.",
+        "Hearing voices that are not present.",
+        "Hearing voices that provide a narrative or commentary.",
+        "Hearing voices that instruct behavior."
+    ],
+    "Psychotic|Hallucinations|Visual Hallucinations": [
+        "Seeing non-existent human forms or figures.",
+        "Seeing detailed images or scenes.",
+        "Perceiving geometric shapes or patterns.",
+        "Seeing things that are not present.",
+        "Seeing brief, bright flashes.",
+        "Perceiving non-existent animals or fantastical creatures.",
+        "Seeing simple forms or colors."
+    ],
+    "Psychotic|Delusions|Persecutory Delusions": [
+        "Intense focus on potential threats and dangers.",
+        "Belief that one is going to be harmed or harassed.",
+        "Anxiety or fear that others are plotting against oneself.",
+        "Feelings of jealousy based on perceived competition with others.",
+        "Belief that one's partner is unfaithful without evidence.",
+        "Obsessive thoughts about partner's unfaithfulness.",
+        "The state of mistrust and doubt about others' intentions."
+    ],
+    "Psychotic|Delusions|Grandiose Delusions": [
+        "Belief of having special religious status or power.",
+        "Belief in having supernatural abilities.",
+        "Belief of having exceptional abilities, wealth, or fame.",
+        "Belief in being a prophesied or savior figure.",
+        "Claim of receiving divine revelations or insights.",
+        "Belief in having special mystic insights or powers.",
+        "Belief in special connection with cosmic or universal forces."
+    ],
+    "Bipolar|Mania|Euphoric Mania": [
+        "Belief in one's superiority during manic euphoria.",
+        "Unrealistic positive evaluation of abilities or qualities.",
+        "Sudden drive for creative activities.",
+        "High energy despite reduced need for sleep.",
+        "Extreme feelings of happiness and well-being.",
+        "Engagement in activities with high potential for negative outcomes.",
+        "Heightened energy levels during euphoria."
+    ],
+    "Bipolar|Mania|Irritable Mania": [
+        "Impulsive reactions exacerbated by irritability.",
+        "Constant sense of dissatisfaction or discomfort.",
+        "Manifestations of irritability through physical restlessness.",
+        "Continuous and enduring irritability.",
+        "Eruption of anger through aggressive language.",
+        "Episodes of irritability and anger.",
+        "Sudden and intense irritability."
+    ],
+    "Bipolar|Depression|Atypical Depression": [
+        "Sensation of heaviness or lack of strength in limbs.",
+        "Reduced speed and energy in physical actions.",
+        "Depressive episode characterized by mood reactivity and positivity to pleasure.",
+        "Heavy feeling in arms or legs during atypical depression.",
+        "Excessive sleep during depressive episodes.",
+        "Challenges in waking up despite sufficient sleep duration.",
+        "Prolonged durations of sleep beyond typical needs."
+    ],
+    "Bipolar|Depression|Melancholic Depression": [
+        "Inability to feel pleasure in normally pleasurable activities.",
+        "Decreased engagement in previously enjoyed activities.",
+        "Feeling emotionally numb or empty.",
+        "Mood fluctuations throughout the day, usually worse in the morning.",
+        "Notable low mood at start of the day.",
+        "Slight improvement in mood towards the end of the day.",
+        "Profound despondency and lack of reactivity to pleasurable stimuli."
+    ],
+    "Depressive|Major Depressive Disorder|Recurrent Major Depression": [
+        "Multiple depressive episodes separated by at least two months of normal mood.",
+        "Depressive symptoms appearing within first few weeks after delivery.",
+        "Depressive episodes occurring seasonally, commonly in winter.",
+        "Symptoms developing several months post childbirth.",
+        "Depressive symptoms starting in late fall or winter.",
+        "Symptoms improve naturally as spring approaches.",
+        "Depression occurring after childbirth."
+    ],
+    "Depressive|Major Depressive Disorder|Single Episode Depression": [
+        "Limited disruption to daily activities.",
+        "Significant interference with regular life responsibilities.",
+        "High intensity of symptoms affecting daily living.",
+        "Ongoing and resistant depressive symptoms.",
+        "Brief duration of depressive symptoms.",
+        "Mild intensity of symptoms during a single depressive episode.",
+        "One-time episode that lasts for a period and impacts daily life."
+    ],
+    "Depressive|Dysthymia|Early Onset Dysthymia": [
+        "Frequent disagreements or problems within relationships.",
+        "Cultural or familial learning influencing mood patterns.",
+        "Tendency to isolate oneself from peers.",
+        "Hereditary factors contributing to early onset depression.",
+        "Association with family history of depression.",
+        "Symptom onset occurs before the age of 21.",
+        "Impact of symptoms on peer relationships."
+    ],
+    "Depressive|Dysthymia|Late Onset Dysthymia": [
+        "Utilizing social and professional support systems.",
+        "Symptom onset occurs at age 21 or later.",
+        "Impact of symptoms on professional life.",
+        "Creating structured daily habits to improve mood.",
+        "Quality of work relationships and collaborations.",
+        "Adjustments in lifestyle to manage symptoms.",
+        "Decrease in work productivity and efficiency."
+    ],
+    "Neurodevelopment|Motor Skills|Fine Motor Skills|Hand-Eye Coordination": [
+        "The force applied by the hand when gripping an object.",
+        "The ability to accurately follow moving objects with the eyes.",
+        "Ability to coordinate hand movements with visual input."
+    ],
+    "Neurodevelopment|Motor Skills|Fine Motor Skills|Dexterity": [
+        "The ability to control and manipulate small objects with fingers.",
+        "Skill and grace in physical movement, specifically of the hands.",
+        "The coordinated use of both hands to accomplish a task."
+    ],
+    "Neurodevelopment|Motor Skills|Gross Motor Skills|Balance": [
+        "Ability to maintain equilibrium while stationary or moving.",
+        "The ability to maintain control of the body's position while standing still.",
+        "The ability to maintain control of the body while moving."
+    ],
+    "Neurodevelopment|Motor Skills|Gross Motor Skills|Coordination": [
+        "Smooth and efficient movement patterns.",
+        "The integrated use of multiple body parts in overall movement.",
+        "The ability to coordinate visual input with movements of the feet."
+    ],
+    "Neurodevelopment|Language Development|Receptive Language|Vocabulary Comprehension": [
+        "Understanding and processing of words and their meanings.",
+        "Understanding and processing the meanings of words within context.",
+        "The ability to recognize and understand words quickly and accurately."
+    ],
+    "Neurodevelopment|Language Development|Receptive Language|Grammar Comprehension": [
+        "The ability to comprehend grammatically structured sentences.",
+        "Understanding the rules that govern sentence structure and syntax.",
+        "Understanding the structure of words including roots and affixes."
+    ],
+    "Neurodevelopment|Language Development|Expressive Language|Vocabulary Usage": [
+        "Choosing the right words to convey precise meanings.",
+        "The ability to produce spoken words clearly and fluently.",
+        "Effective use of words to communicate ideas."
+    ],
+    "Neurodevelopment|Language Development|Expressive Language|Syntax and Grammar Usage": [
+        "Ability to construct sentences with correct syntax and grammar.",
+        "Using correct grammatical structures in communication.",
+        "The process of combining words to form coherent sentences."
+    ],
+    "Neurodevelopment|Social Skills|Social Perception|Emotional Recognition": [
+        "Ability to identify and interpret emotions in others.",
+        "Recognizing emotions through vocal expressions.",
+        "Understanding emotions by analyzing facial expressions."
+    ],
+    "Neurodevelopment|Social Skills|Social Perception|Social Context Understanding": [
+        "Comprehending norms and expectations in various social settings.",
+        "Understanding expected behaviors in different social roles.",
+        "Understanding the unwritten social rules within different cultures."
+    ],
+    "Neurodevelopment|Social Skills|Social Interaction Skills|Conversational Skills": [
+        "The skill of taking turns while engaging in dialogues.",
+        "Ability to initiate, sustain, and end conversations appropriately.",
+        "Using gestures, eye contact, and other nonverbal signals effectively during interactions."
+    ],
+    "Neurodevelopment|Social Skills|Social Interaction Skills|Empathy": [
+        "The ability to understand different viewpoints.",
+        "Capacity to understand and share the feelings of others.",
+        "Sympathetic awareness of others' distress with a desire to alleviate it."
+    ],
+    "Psychotic|Hallucinations|Auditory Hallucinations|Voices": [
+        "Hearing voices that are not present.",
+        "Hearing voices that provide a narrative or commentary.",
+        "Hearing voices that instruct behavior."
+    ],
+    "Psychotic|Hallucinations|Auditory Hallucinations|Sounds": [
+        "Hearing noises such as buzzing or knocking.",
+        "Hearing non-verbal auditory phenomena that are not present.",
+        "Hearing music with no external source."
+    ],
+    "Psychotic|Hallucinations|Visual Hallucinations|Complex Visual Hallucinations": [
+        "Seeing non-existent human forms or figures.",
+        "Perceiving non-existent animals or fantastical creatures.",
+        "Seeing detailed images or scenes."
+    ],
+    "Psychotic|Hallucinations|Visual Hallucinations|Simple Visual Hallucinations": [
+        "Perceiving geometric shapes or patterns.",
+        "Seeing brief, bright flashes.",
+        "Seeing simple forms or colors."
+    ],
+    "Psychotic|Delusions|Persecutory Delusions|Paranoia": [
+        "The state of mistrust and doubt about others' intentions.",
+        "Anxiety or fear that others are plotting against oneself.",
+        "Intense focus on potential threats and dangers."
+    ],
+    "Psychotic|Delusions|Persecutory Delusions|Jealous Delusions": [
+        "Feelings of jealousy based on perceived competition with others.",
+        "Belief that one's partner is unfaithful without evidence.",
+        "Obsessive thoughts about partner's unfaithfulness."
+    ],
+    "Psychotic|Delusions|Grandiose Delusions|Religious Grandiosity": [
+        "Belief of having special religious status or power.",
+        "Claim of receiving divine revelations or insights.",
+        "Belief in being a prophesied or savior figure."
+    ],
+    "Psychotic|Delusions|Grandiose Delusions|Mystical Delusions": [
+        "Belief in having special mystic insights or powers.",
+        "Belief in special connection with cosmic or universal forces.",
+        "Belief in having supernatural abilities."
+    ],
+    "Bipolar|Mania|Euphoric Mania|Energetic Euphoria": [
+        "High energy despite reduced need for sleep.",
+        "Sudden drive for creative activities.",
+        "Heightened energy levels during euphoria."
+    ],
+    "Bipolar|Mania|Euphoric Mania|Grandiosity in Euphoria": [
+        "Unrealistic positive evaluation of abilities or qualities.",
+        "Engagement in activities with high potential for negative outcomes.",
+        "Belief in one's superiority during manic euphoria."
+    ],
+    "Bipolar|Mania|Irritable Mania|Explosive Irritability": [
+        "Manifestations of irritability through physical restlessness.",
+        "Eruption of anger through aggressive language.",
+        "Sudden and intense irritability."
+    ],
+    "Bipolar|Mania|Irritable Mania|Persistent Irritability": [
+        "Constant sense of dissatisfaction or discomfort.",
+        "Impulsive reactions exacerbated by irritability.",
+        "Continuous and enduring irritability."
+    ],
+    "Bipolar|Depression|Atypical Depression|Hypersomnia": [
+        "Challenges in waking up despite sufficient sleep duration.",
+        "Excessive sleep during depressive episodes.",
+        "Prolonged durations of sleep beyond typical needs."
+    ],
+    "Bipolar|Depression|Atypical Depression|Leaden Paralysis": [
+        "Sensation of heaviness or lack of strength in limbs.",
+        "Heavy feeling in arms or legs during atypical depression.",
+        "Reduced speed and energy in physical actions."
+    ],
+    "Bipolar|Depression|Melancholic Depression|Anhedonia": [
+        "Decreased engagement in previously enjoyed activities.",
+        "Inability to feel pleasure in normally pleasurable activities.",
+        "Feeling emotionally numb or empty."
+    ],
+    "Bipolar|Depression|Melancholic Depression|Diurnal Mood Variation": [
+        "Notable low mood at start of the day.",
+        "Slight improvement in mood towards the end of the day.",
+        "Mood fluctuations throughout the day, usually worse in the morning."
+    ],
+    "Depressive|Major Depressive Disorder|Recurrent Major Depression|Seasonal Pattern": [
+        "Symptoms improve naturally as spring approaches.",
+        "Depressive episodes occurring seasonally, commonly in winter.",
+        "Depressive symptoms starting in late fall or winter."
+    ],
+    "Depressive|Major Depressive Disorder|Recurrent Major Depression|Postpartum Depression": [
+        "Depressive symptoms appearing within first few weeks after delivery.",
+        "Depression occurring after childbirth.",
+        "Symptoms developing several months post childbirth."
+    ],
+    "Depressive|Major Depressive Disorder|Single Episode Depression|Mild Single Episode": [
+        "Limited disruption to daily activities.",
+        "Brief duration of depressive symptoms.",
+        "Mild intensity of symptoms during a single depressive episode."
+    ],
+    "Depressive|Major Depressive Disorder|Single Episode Depression|Severe Single Episode": [
+        "High intensity of symptoms affecting daily living.",
+        "Ongoing and resistant depressive symptoms.",
+        "Significant interference with regular life responsibilities."
+    ],
+    "Depressive|Dysthymia|Early Onset Dysthymia|Family History Link": [
+        "Association with family history of depression.",
+        "Hereditary factors contributing to early onset depression.",
+        "Cultural or familial learning influencing mood patterns."
+    ],
+    "Depressive|Dysthymia|Early Onset Dysthymia|Peer Relationship Impact": [
+        "Tendency to isolate oneself from peers.",
+        "Impact of symptoms on peer relationships.",
+        "Frequent disagreements or problems within relationships."
+    ],
+    "Depressive|Dysthymia|Late Onset Dysthymia|Work-Life Impact": [
+        "Impact of symptoms on professional life.",
+        "Quality of work relationships and collaborations.",
+        "Decrease in work productivity and efficiency."
+    ],
+    "Depressive|Dysthymia|Late Onset Dysthymia|Lifestyle Adjustments": [
+        "Utilizing social and professional support systems.",
+        "Creating structured daily habits to improve mood.",
+        "Adjustments in lifestyle to manage symptoms."
+    ],
+    "Neurodevelopment|Motor Skills|Fine Motor Skills|Hand-Eye Coordination|Visual Tracking": [
+        "The ability to accurately follow moving objects with the eyes."
+    ],
+    "Neurodevelopment|Motor Skills|Fine Motor Skills|Hand-Eye Coordination|Grip Strength": [
+        "The force applied by the hand when gripping an object."
+    ],
+    "Neurodevelopment|Motor Skills|Fine Motor Skills|Dexterity|Finger Dexterity": [
+        "The ability to control and manipulate small objects with fingers."
+    ],
+    "Neurodevelopment|Motor Skills|Fine Motor Skills|Dexterity|Bimanual Coordination": [
+        "The coordinated use of both hands to accomplish a task."
+    ],
+    "Neurodevelopment|Motor Skills|Gross Motor Skills|Balance|Static Balance": [
+        "The ability to maintain control of the body's position while standing still."
+    ],
+    "Neurodevelopment|Motor Skills|Gross Motor Skills|Balance|Dynamic Balance": [
+        "The ability to maintain control of the body while moving."
+    ],
+    "Neurodevelopment|Motor Skills|Gross Motor Skills|Coordination|Eye-Foot Coordination": [
+        "The ability to coordinate visual input with movements of the feet."
+    ],
+    "Neurodevelopment|Motor Skills|Gross Motor Skills|Coordination|Gross Body Coordination": [
+        "The integrated use of multiple body parts in overall movement."
+    ],
+    "Neurodevelopment|Language Development|Receptive Language|Vocabulary Comprehension|Semantic Processing": [
+        "Understanding and processing the meanings of words within context."
+    ],
+    "Neurodevelopment|Language Development|Receptive Language|Vocabulary Comprehension|Word Recognition": [
+        "The ability to recognize and understand words quickly and accurately."
+    ],
+    "Neurodevelopment|Language Development|Receptive Language|Grammar Comprehension|Syntax Processing": [
+        "The ability to comprehend grammatically structured sentences."
+    ],
+    "Neurodevelopment|Language Development|Receptive Language|Grammar Comprehension|Morphological Knowledge": [
+        "Understanding the structure of words including roots and affixes."
+    ],
+    "Neurodevelopment|Language Development|Expressive Language|Vocabulary Usage|Word Production": [
+        "The ability to produce spoken words clearly and fluently."
+    ],
+    "Neurodevelopment|Language Development|Expressive Language|Vocabulary Usage|Lexical Selection": [
+        "Choosing the right words to convey precise meanings."
+    ],
+    "Neurodevelopment|Language Development|Expressive Language|Syntax and Grammar Usage|Sentence Construction": [
+        "The process of combining words to form coherent sentences."
+    ],
+    "Neurodevelopment|Language Development|Expressive Language|Syntax and Grammar Usage|Grammar Appropriacy": [
+        "Using correct grammatical structures in communication."
+    ],
+    "Neurodevelopment|Social Skills|Social Perception|Emotional Recognition|Facial Expression Interpretation": [
+        "Understanding emotions by analyzing facial expressions."
+    ],
+    "Neurodevelopment|Social Skills|Social Perception|Emotional Recognition|Emotional Vocal Cues": [
+        "Recognizing emotions through vocal expressions."
+    ],
+    "Neurodevelopment|Social Skills|Social Perception|Social Context Understanding|Cultural Norms Awareness": [
+        "Understanding the unwritten social rules within different cultures."
+    ],
+    "Neurodevelopment|Social Skills|Social Perception|Social Context Understanding|Role Expectation": [
+        "Understanding expected behaviors in different social roles."
+    ],
+    "Neurodevelopment|Social Skills|Social Interaction Skills|Conversational Skills|Turn-Taking": [
+        "The skill of taking turns while engaging in dialogues."
+    ],
+    "Neurodevelopment|Social Skills|Social Interaction Skills|Conversational Skills|Nonverbal Cues Integration": [
+        "Using gestures, eye contact, and other nonverbal signals effectively during interactions."
+    ],
+    "Neurodevelopment|Social Skills|Social Interaction Skills|Empathy|Perspective-Taking": [
+        "The ability to understand different viewpoints."
+    ],
+    "Neurodevelopment|Social Skills|Social Interaction Skills|Empathy|Compassion": [
+        "Sympathetic awareness of others' distress with a desire to alleviate it."
+    ],
+    "Psychotic|Hallucinations|Auditory Hallucinations|Voices|Command Hallucinations": [
+        "Hearing voices that instruct behavior."
+    ],
+    "Psychotic|Hallucinations|Auditory Hallucinations|Voices|Commentary Hallucinations": [
+        "Hearing voices that provide a narrative or commentary."
+    ],
+    "Psychotic|Hallucinations|Auditory Hallucinations|Sounds|Nonverbal Sounds": [
+        "Hearing noises such as buzzing or knocking."
+    ],
+    "Psychotic|Hallucinations|Auditory Hallucinations|Sounds|Musical Hallucinations": [
+        "Hearing music with no external source."
+    ],
+    "Psychotic|Hallucinations|Visual Hallucinations|Complex Visual Hallucinations|Human Figures": [
+        "Seeing non-existent human forms or figures."
+    ],
+    "Psychotic|Hallucinations|Visual Hallucinations|Complex Visual Hallucinations|Animals or Creatures": [
+        "Perceiving non-existent animals or fantastical creatures."
+    ],
+    "Psychotic|Hallucinations|Visual Hallucinations|Simple Visual Hallucinations|Flashes of Light": [
+        "Seeing brief, bright flashes."
+    ],
+    "Psychotic|Hallucinations|Visual Hallucinations|Simple Visual Hallucinations|Shapes or Patterns": [
+        "Perceiving geometric shapes or patterns."
+    ],
+    "Psychotic|Delusions|Persecutory Delusions|Paranoia|Suspicion": [
+        "The state of mistrust and doubt about others' intentions."
+    ],
+    "Psychotic|Delusions|Persecutory Delusions|Paranoia|Hypervigilance about Harm": [
+        "Intense focus on potential threats and dangers."
+    ],
+    "Psychotic|Delusions|Persecutory Delusions|Jealous Delusions|Infidelity Fixation": [
+        "Obsessive thoughts about partner's unfaithfulness."
+    ],
+    "Psychotic|Delusions|Persecutory Delusions|Jealous Delusions|Comparative Jealousy": [
+        "Feelings of jealousy based on perceived competition with others."
+    ],
+    "Psychotic|Delusions|Grandiose Delusions|Religious Grandiosity|Messianic Beliefs": [
+        "Belief in being a prophesied or savior figure."
+    ],
+    "Psychotic|Delusions|Grandiose Delusions|Religious Grandiosity|Divine Insight": [
+        "Claim of receiving divine revelations or insights."
+    ],
+    "Psychotic|Delusions|Grandiose Delusions|Mystical Delusions|Paranormal Abilities": [
+        "Belief in having supernatural abilities."
+    ],
+    "Psychotic|Delusions|Grandiose Delusions|Mystical Delusions|Cosmic Connections": [
+        "Belief in special connection with cosmic or universal forces."
+    ],
+    "Bipolar|Mania|Euphoric Mania|Energetic Euphoria|Sleepless Euphoria": [
+        "High energy despite reduced need for sleep."
+    ],
+    "Bipolar|Mania|Euphoric Mania|Energetic Euphoria|Creative Outburst": [
+        "Sudden drive for creative activities."
+    ],
+    "Bipolar|Mania|Euphoric Mania|Grandiosity in Euphoria|Inflated Self-Esteem": [
+        "Unrealistic positive evaluation of abilities or qualities."
+    ],
+    "Bipolar|Mania|Euphoric Mania|Grandiosity in Euphoria|Risk-Taking Behavior": [
+        "Engagement in activities with high potential for negative outcomes."
+    ],
+    "Bipolar|Mania|Irritable Mania|Explosive Irritability|Verbal Outbursts": [
+        "Eruption of anger through aggressive language."
+    ],
+    "Bipolar|Mania|Irritable Mania|Explosive Irritability|Physical Agitation": [
+        "Manifestations of irritability through physical restlessness."
+    ],
+    "Bipolar|Mania|Irritable Mania|Persistent Irritability|Underlying Frustration": [
+        "Constant sense of dissatisfaction or discomfort."
+    ],
+    "Bipolar|Mania|Irritable Mania|Persistent Irritability|Reactive Impulsivity": [
+        "Impulsive reactions exacerbated by irritability."
+    ],
+    "Bipolar|Depression|Atypical Depression|Hypersomnia|Difficulty Awakening": [
+        "Challenges in waking up despite sufficient sleep duration."
+    ],
+    "Bipolar|Depression|Atypical Depression|Hypersomnia|Extended Sleep Periods": [
+        "Prolonged durations of sleep beyond typical needs."
+    ],
+    "Bipolar|Depression|Atypical Depression|Leaden Paralysis|Muscular Heaviness": [
+        "Sensation of heaviness or lack of strength in limbs."
+    ],
+    "Bipolar|Depression|Atypical Depression|Leaden Paralysis|Lethargic Movement": [
+        "Reduced speed and energy in physical actions."
+    ],
+    "Bipolar|Depression|Melancholic Depression|Anhedonia|Loss of Interest": [
+        "Decreased engagement in previously enjoyed activities."
+    ],
+    "Bipolar|Depression|Melancholic Depression|Anhedonia|Emotional Numbness": [
+        "Feeling emotionally numb or empty."
+    ],
+    "Bipolar|Depression|Melancholic Depression|Diurnal Mood Variation|Morning Mood Slump": [
+        "Notable low mood at start of the day."
+    ],
+    "Bipolar|Depression|Melancholic Depression|Diurnal Mood Variation|Evening Lightening": [
+        "Slight improvement in mood towards the end of the day."
+    ],
+    "Depressive|Major Depressive Disorder|Recurrent Major Depression|Seasonal Pattern|Winter-Onset": [
+        "Depressive symptoms starting in late fall or winter."
+    ],
+    "Depressive|Major Depressive Disorder|Recurrent Major Depression|Seasonal Pattern|Spring Remission": [
+        "Symptoms improve naturally as spring approaches."
+    ],
+    "Depressive|Major Depressive Disorder|Recurrent Major Depression|Postpartum Depression|Early Onset Postpartum": [
+        "Depressive symptoms appearing within first few weeks after delivery."
+    ],
+    "Depressive|Major Depressive Disorder|Recurrent Major Depression|Postpartum Depression|Late Onset Postpartum": [
+        "Symptoms developing several months post childbirth."
+    ],
+    "Depressive|Major Depressive Disorder|Single Episode Depression|Mild Single Episode|Minor Functional Impact": [
+        "Limited disruption to daily activities."
+    ],
+    "Depressive|Major Depressive Disorder|Single Episode Depression|Mild Single Episode|Short Symptom Duration": [
+        "Brief duration of depressive symptoms."
+    ],
+    "Depressive|Major Depressive Disorder|Single Episode Depression|Severe Single Episode|Major Functional Impairment": [
+        "Significant interference with regular life responsibilities."
+    ],
+    "Depressive|Major Depressive Disorder|Single Episode Depression|Severe Single Episode|Persistent Symptomatology": [
+        "Ongoing and resistant depressive symptoms."
+    ],
+    "Depressive|Dysthymia|Early Onset Dysthymia|Family History Link|Genetic Predisposition": [
+        "Hereditary factors contributing to early onset depression."
+    ],
+    "Depressive|Dysthymia|Early Onset Dysthymia|Family History Link|Learned Behaviors": [
+        "Cultural or familial learning influencing mood patterns."
+    ],
+    "Depressive|Dysthymia|Early Onset Dysthymia|Peer Relationship Impact|Social Withdrawal": [
+        "Tendency to isolate oneself from peers."
+    ],
+    "Depressive|Dysthymia|Early Onset Dysthymia|Peer Relationship Impact|Interpersonal Conflicts": [
+        "Frequent disagreements or problems within relationships."
+    ],
+    "Depressive|Dysthymia|Late Onset Dysthymia|Work-Life Impact|Reduced Job Performance": [
+        "Decrease in work productivity and efficiency."
+    ],
+    "Depressive|Dysthymia|Late Onset Dysthymia|Work-Life Impact|Colleague Relations": [
+        "Quality of work relationships and collaborations."
+    ],
+    "Depressive|Dysthymia|Late Onset Dysthymia|Lifestyle Adjustments|Routine Establishment": [
+        "Creating structured daily habits to improve mood."
+    ],
+    "Depressive|Dysthymia|Late Onset Dysthymia|Lifestyle Adjustments|Support Networks": [
+        "Utilizing social and professional support systems."
+    ]
+}

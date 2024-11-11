@@ -1,0 +1,406 @@
+{
+    "Negative Valence Systems": [
+        "Observable actions or reactions to acute threat, such as fight, flight, or freeze responses.",
+        "Persistent thoughts about potential negative outcomes or future threats.",
+        "Long-term activation of the body's stress response systems due to ongoing threat or adversity.",
+        "Increased alertness and scanning of the environment for potential threats.",
+        "The process of adjusting to and coping with the absence of the lost entity over time.",
+        "The body's immediate physical reactions to acute threat, such as increased heart rate, sweating, and muscle tension.",
+        "The cumulative wear and tear on the body's systems due to chronic exposure to stress.",
+        "The emotional and behavioral reactions to the loss of a significant person, object, or situation.",
+        "nan"
+    ],
+    "Positive Valence Systems": [
+        "The experience of pleasure or positive affect in response to rewards.",
+        "The process of estimating the likelihood of obtaining a reward based on available information.",
+        "The assessment of the cost-benefit ratio of expending effort to obtain a reward.",
+        "Learning through the consequences of actions, where positive outcomes strengthen future behavior.",
+        "The drive to pursue and obtain rewards.",
+        "nan",
+        "The process of forming associations between stimuli or behaviors and rewards."
+    ],
+    "Cognitive Systems": [
+        "The ability to maintain focus on a specific stimulus or task over an extended period.",
+        "The capacity to focus on relevant stimuli while ignoring irrelevant ones.",
+        "The system for temporarily holding and manipulating information.",
+        "The ability to generate and articulate spoken and written language.",
+        "The ability to adapt cognitive strategies and behaviors in response to changing environmental demands.",
+        "The ability to understand and process spoken and written language.",
+        "The processing and interpretation of auditory stimuli.",
+        "The ability to suppress inappropriate or irrelevant responses or behaviors.",
+        "The system for storing and retrieving information over extended periods.",
+        "The processing and interpretation of visual stimuli.",
+        "nan"
+    ],
+    "Social Processes Systems": [
+        "Patterns of behavior and emotional responses in close relationships.",
+        "The use of spoken or written language to convey information in social contexts.",
+        "The overall view and beliefs one has about oneself.",
+        "The process of forming and maintaining close relationships with others.",
+        "The ability to attribute mental states, beliefs, intentions, and emotions to others.",
+        "The use of gestures, facial expressions, and body language to convey information in social contexts.",
+        "The capacity to understand and share the feelings of another.",
+        "The ability to recognize and understand one's own thoughts, feelings, and behaviors.",
+        "nan"
+    ],
+    "Arousal/Regulatory Systems": [
+        "The overall effectiveness and restorative nature of sleep.",
+        "The state of being awake and responsive to stimuli in the environment.",
+        "nan",
+        "Activation of the autonomic nervous system in response to environmental demands.",
+        "The daily pattern of alternating between sleep and wakefulness.",
+        "The cyclic production and release of hormones throughout the day.",
+        "The structure and organization of sleep stages throughout the night."
+    ],
+    "Sensorimotor Systems": [
+        "The feeling of being in control of one's own actions and their consequences.",
+        "The organization and interpretation of sensory input from various modalities.",
+        "The ability to combine information from multiple sensory modalities into a coherent percept.",
+        "The process of preparing and organizing sequences of movements.",
+        "The implementation of planned movements through muscle activation.",
+        "The performance of learned, automatic behaviors in response to specific cues.",
+        "The process of developing automatic behaviors through repetition.",
+        "nan",
+        "The perception that one's body belongs to oneself."
+    ],
+    "Negative Valence Systems|Negative Valence Systems are primarily responsible for responses to aversive situations or context, such as fear, anxiety, and loss.": [
+        "nan"
+    ],
+    "Negative Valence Systems|Acute Threat (Fear)": [
+        "The body's immediate physical reactions to acute threat, such as increased heart rate, sweating, and muscle tension.",
+        "Observable actions or reactions to acute threat, such as fight, flight, or freeze responses.",
+        "nan"
+    ],
+    "Negative Valence Systems|Potential Threat (Anxiety)": [
+        "Persistent thoughts about potential negative outcomes or future threats.",
+        "nan",
+        "Increased alertness and scanning of the environment for potential threats."
+    ],
+    "Negative Valence Systems|Sustained Threat": [
+        "The cumulative wear and tear on the body's systems due to chronic exposure to stress.",
+        "Long-term activation of the body's stress response systems due to ongoing threat or adversity.",
+        "nan"
+    ],
+    "Negative Valence Systems|Loss": [
+        "The emotional and behavioral reactions to the loss of a significant person, object, or situation.",
+        "nan",
+        "The process of adjusting to and coping with the absence of the lost entity over time."
+    ],
+    "Positive Valence Systems|Positive Valence Systems are primarily responsible for responses to positive motivational situations or contexts, such as reward seeking and consummatory behavior.": [
+        "nan"
+    ],
+    "Positive Valence Systems|Reward Responsiveness": [
+        "nan",
+        "The experience of pleasure or positive affect in response to rewards.",
+        "The drive to pursue and obtain rewards."
+    ],
+    "Positive Valence Systems|Reward Learning": [
+        "nan",
+        "The process of forming associations between stimuli or behaviors and rewards.",
+        "Learning through the consequences of actions, where positive outcomes strengthen future behavior."
+    ],
+    "Positive Valence Systems|Reward Valuation": [
+        "The process of estimating the likelihood of obtaining a reward based on available information.",
+        "nan",
+        "The assessment of the cost-benefit ratio of expending effort to obtain a reward."
+    ],
+    "Cognitive Systems|Cognitive Systems are responsible for various cognitive processes.": [
+        "nan"
+    ],
+    "Cognitive Systems|Attention": [
+        "The ability to maintain focus on a specific stimulus or task over an extended period.",
+        "The capacity to focus on relevant stimuli while ignoring irrelevant ones.",
+        "nan"
+    ],
+    "Cognitive Systems|Perception": [
+        "The processing and interpretation of auditory stimuli.",
+        "The processing and interpretation of visual stimuli.",
+        "nan"
+    ],
+    "Cognitive Systems|Memory": [
+        "The system for storing and retrieving information over extended periods.",
+        "The system for temporarily holding and manipulating information.",
+        "nan"
+    ],
+    "Cognitive Systems|Language": [
+        "The ability to understand and process spoken and written language.",
+        "nan",
+        "The ability to generate and articulate spoken and written language."
+    ],
+    "Cognitive Systems|Executive Function": [
+        "The ability to suppress inappropriate or irrelevant responses or behaviors.",
+        "nan",
+        "The ability to adapt cognitive strategies and behaviors in response to changing environmental demands."
+    ],
+    "Social Processes Systems|Social Processes mediate responses in interpersonal settings of various types, including perception and interpretation of others' actions": [
+        "nan"
+    ],
+    "Social Processes Systems|Affiliation and Attachment": [
+        "The process of forming and maintaining close relationships with others.",
+        "Patterns of behavior and emotional responses in close relationships.",
+        "nan"
+    ],
+    "Social Processes Systems|Social Communication": [
+        "nan",
+        "The use of gestures, facial expressions, and body language to convey information in social contexts.",
+        "The use of spoken or written language to convey information in social contexts."
+    ],
+    "Social Processes Systems|Perception and Understanding of Self": [
+        "The overall view and beliefs one has about oneself.",
+        "The ability to recognize and understand one's own thoughts, feelings, and behaviors.",
+        "nan"
+    ],
+    "Social Processes Systems|Perception and Understanding of Others": [
+        "The capacity to understand and share the feelings of another.",
+        "The ability to attribute mental states, beliefs, intentions, and emotions to others.",
+        "nan"
+    ],
+    "Arousal/Regulatory Systems|Arousal/Regulatory Systems are responsible for generating activation of neural systems as appropriate for various contexts and providing appropriate homeostatic regulation of such systems as energy balance and sleep.": [
+        "nan"
+    ],
+    "Arousal/Regulatory Systems|Arousal": [
+        "Activation of the autonomic nervous system in response to environmental demands.",
+        "nan",
+        "The state of being awake and responsive to stimuli in the environment."
+    ],
+    "Arousal/Regulatory Systems|Circadian Rhythms": [
+        "The cyclic production and release of hormones throughout the day.",
+        "The daily pattern of alternating between sleep and wakefulness.",
+        "nan"
+    ],
+    "Arousal/Regulatory Systems|Sleep-Wakefulness": [
+        "The overall effectiveness and restorative nature of sleep.",
+        "nan",
+        "The structure and organization of sleep stages throughout the night."
+    ],
+    "Sensorimotor Systems|Sensorimotor Systems are primarily responsible for the control and execution of motor behaviors, and their refinement during learning and development.": [
+        "nan"
+    ],
+    "Sensorimotor Systems|Motor Actions": [
+        "The implementation of planned movements through muscle activation.",
+        "The process of preparing and organizing sequences of movements.",
+        "nan"
+    ],
+    "Sensorimotor Systems|Agency and Ownership": [
+        "The feeling of being in control of one's own actions and their consequences.",
+        "nan",
+        "The perception that one's body belongs to oneself."
+    ],
+    "Sensorimotor Systems|Habit": [
+        "The process of developing automatic behaviors through repetition.",
+        "The performance of learned, automatic behaviors in response to specific cues.",
+        "nan"
+    ],
+    "Sensorimotor Systems|Sensory Perception": [
+        "The ability to combine information from multiple sensory modalities into a coherent percept.",
+        "The organization and interpretation of sensory input from various modalities.",
+        "nan"
+    ],
+    "Negative Valence Systems|Acute Threat (Fear)|Activation of the fear system in response to present or imminent threat.": [
+        "nan"
+    ],
+    "Negative Valence Systems|Acute Threat (Fear)|Physiological Response": [
+        "The body's immediate physical reactions to acute threat, such as increased heart rate, sweating, and muscle tension."
+    ],
+    "Negative Valence Systems|Acute Threat (Fear)|Behavioral Response": [
+        "Observable actions or reactions to acute threat, such as fight, flight, or freeze responses."
+    ],
+    "Negative Valence Systems|Potential Threat (Anxiety)|Activation of a system of responses to potential harm or threat.": [
+        "nan"
+    ],
+    "Negative Valence Systems|Potential Threat (Anxiety)|Worry": [
+        "Persistent thoughts about potential negative outcomes or future threats."
+    ],
+    "Negative Valence Systems|Potential Threat (Anxiety)|Hypervigilance": [
+        "Increased alertness and scanning of the environment for potential threats."
+    ],
+    "Negative Valence Systems|Sustained Threat|An aversive emotional state caused by prolonged (i.e., weeks to months) exposure to internal and/or external condition(s), state(s), or stimuli that are adaptive to escape or avoid.": [
+        "nan"
+    ],
+    "Negative Valence Systems|Sustained Threat|Chronic Stress Response": [
+        "Long-term activation of the body's stress response systems due to ongoing threat or adversity."
+    ],
+    "Negative Valence Systems|Sustained Threat|Allostatic Load": [
+        "The cumulative wear and tear on the body's systems due to chronic exposure to stress."
+    ],
+    "Negative Valence Systems|Loss|A state of deprivation of a motivationally significant con-specific, object, or situation.": [
+        "nan"
+    ],
+    "Negative Valence Systems|Loss|Grief Response": [
+        "The emotional and behavioral reactions to the loss of a significant person, object, or situation."
+    ],
+    "Negative Valence Systems|Loss|Adaptation to Loss": [
+        "The process of adjusting to and coping with the absence of the lost entity over time."
+    ],
+    "Positive Valence Systems|Reward Responsiveness|Processes by which organisms respond to occurrences of reward.": [
+        "nan"
+    ],
+    "Positive Valence Systems|Reward Responsiveness|Hedonic Response": [
+        "The experience of pleasure or positive affect in response to rewards."
+    ],
+    "Positive Valence Systems|Reward Responsiveness|Reward Motivation": [
+        "The drive to pursue and obtain rewards."
+    ],
+    "Positive Valence Systems|Reward Learning|A process by which organisms acquire information about stimuli, actions, and contexts that predict positive outcomes.": [
+        "nan"
+    ],
+    "Positive Valence Systems|Reward Learning|Associative Learning": [
+        "The process of forming associations between stimuli or behaviors and rewards."
+    ],
+    "Positive Valence Systems|Reward Learning|Reinforcement Learning": [
+        "Learning through the consequences of actions, where positive outcomes strengthen future behavior."
+    ],
+    "Positive Valence Systems|Reward Valuation|Processes by which the probability and benefits of a prospective outcome are computed and calibrated by reference to external information, social context, and/or prior experience.": [
+        "nan"
+    ],
+    "Positive Valence Systems|Reward Valuation|Effort Valuation": [
+        "The assessment of the cost-benefit ratio of expending effort to obtain a reward."
+    ],
+    "Positive Valence Systems|Reward Valuation|Probability Estimation": [
+        "The process of estimating the likelihood of obtaining a reward based on available information."
+    ],
+    "Cognitive Systems|Attention|Cognitive processes that regulate the focus and allocation of cognitive resources to specific stimuli or tasks.": [
+        "nan"
+    ],
+    "Cognitive Systems|Attention|Sustained Attention": [
+        "The ability to maintain focus on a specific stimulus or task over an extended period."
+    ],
+    "Cognitive Systems|Attention|Selective Attention": [
+        "The capacity to focus on relevant stimuli while ignoring irrelevant ones."
+    ],
+    "Cognitive Systems|Perception|Processes that interpret sensory information to create a coherent experience of the environment.": [
+        "nan"
+    ],
+    "Cognitive Systems|Perception|Visual Perception": [
+        "The processing and interpretation of visual stimuli."
+    ],
+    "Cognitive Systems|Perception|Auditory Perception": [
+        "The processing and interpretation of auditory stimuli."
+    ],
+    "Cognitive Systems|Memory|Processes involved in the encoding, storage, and retrieval of information.": [
+        "nan"
+    ],
+    "Cognitive Systems|Memory|Working Memory": [
+        "The system for temporarily holding and manipulating information."
+    ],
+    "Cognitive Systems|Memory|Long-term Memory": [
+        "The system for storing and retrieving information over extended periods."
+    ],
+    "Cognitive Systems|Language|System of communication that includes comprehension and production of words, sentences, and discourse.": [
+        "nan"
+    ],
+    "Cognitive Systems|Language|Language Comprehension": [
+        "The ability to understand and process spoken and written language."
+    ],
+    "Cognitive Systems|Language|Language Production": [
+        "The ability to generate and articulate spoken and written language."
+    ],
+    "Cognitive Systems|Executive Function|A set of cognitive processes that are necessary for the cognitive control of behavior.": [
+        "nan"
+    ],
+    "Cognitive Systems|Executive Function|Cognitive Flexibility": [
+        "The ability to adapt cognitive strategies and behaviors in response to changing environmental demands."
+    ],
+    "Cognitive Systems|Executive Function|Inhibitory Control": [
+        "The ability to suppress inappropriate or irrelevant responses or behaviors."
+    ],
+    "Social Processes Systems|Affiliation and Attachment|Engagement in positive social interactions with other individuals.": [
+        "nan"
+    ],
+    "Social Processes Systems|Affiliation and Attachment|Social Bonding": [
+        "The process of forming and maintaining close relationships with others."
+    ],
+    "Social Processes Systems|Affiliation and Attachment|Attachment Styles": [
+        "Patterns of behavior and emotional responses in close relationships."
+    ],
+    "Social Processes Systems|Social Communication|A dynamic process that includes both receptive and productive aspects used in social interaction.": [
+        "nan"
+    ],
+    "Social Processes Systems|Social Communication|Verbal Communication": [
+        "The use of spoken or written language to convey information in social contexts."
+    ],
+    "Social Processes Systems|Social Communication|Non-verbal Communication": [
+        "The use of gestures, facial expressions, and body language to convey information in social contexts."
+    ],
+    "Social Processes Systems|Perception and Understanding of Self|The processes and representations involved in being aware of, accessing knowledge about, and making judgments about the self.": [
+        "nan"
+    ],
+    "Social Processes Systems|Perception and Understanding of Self|Self-awareness": [
+        "The ability to recognize and understand one's own thoughts, feelings, and behaviors."
+    ],
+    "Social Processes Systems|Perception and Understanding of Self|Self-concept": [
+        "The overall view and beliefs one has about oneself."
+    ],
+    "Social Processes Systems|Perception and Understanding of Others|The processes and representations involved in being aware of, accessing knowledge about, reasoning about, and making judgments about other animate entities.": [
+        "nan"
+    ],
+    "Social Processes Systems|Perception and Understanding of Others|Theory of Mind": [
+        "The ability to attribute mental states, beliefs, intentions, and emotions to others."
+    ],
+    "Social Processes Systems|Perception and Understanding of Others|Empathy": [
+        "The capacity to understand and share the feelings of another."
+    ],
+    "Arousal/Regulatory Systems|Arousal|Neural systems responsible for generating activation of neural systems as appropriate for various contexts.": [
+        "nan"
+    ],
+    "Arousal/Regulatory Systems|Arousal|Alertness": [
+        "The state of being awake and responsive to stimuli in the environment."
+    ],
+    "Arousal/Regulatory Systems|Arousal|Autonomic Arousal": [
+        "Activation of the autonomic nervous system in response to environmental demands."
+    ],
+    "Arousal/Regulatory Systems|Circadian Rhythms|Endogenous self-sustaining oscillations that organize the timing of biological systems to optimize physiology and behavior.": [
+        "nan"
+    ],
+    "Arousal/Regulatory Systems|Circadian Rhythms|Sleep-Wake Cycle": [
+        "The daily pattern of alternating between sleep and wakefulness."
+    ],
+    "Arousal/Regulatory Systems|Circadian Rhythms|Hormone Regulation": [
+        "The cyclic production and release of hormones throughout the day."
+    ],
+    "Arousal/Regulatory Systems|Sleep-Wakefulness|Cyclic alternation of the global states of sleep and wakefulness.": [
+        "nan"
+    ],
+    "Arousal/Regulatory Systems|Sleep-Wakefulness|Sleep Architecture": [
+        "The structure and organization of sleep stages throughout the night."
+    ],
+    "Arousal/Regulatory Systems|Sleep-Wakefulness|Sleep Quality": [
+        "The overall effectiveness and restorative nature of sleep."
+    ],
+    "Sensorimotor Systems|Motor Actions|Execution of voluntary motor behaviors.": [
+        "nan"
+    ],
+    "Sensorimotor Systems|Motor Actions|Motor Planning": [
+        "The process of preparing and organizing sequences of movements."
+    ],
+    "Sensorimotor Systems|Motor Actions|Motor Execution": [
+        "The implementation of planned movements through muscle activation."
+    ],
+    "Sensorimotor Systems|Agency and Ownership|The sense that one is initiating, executing, and controlling one's own volitional actions in the world.": [
+        "nan"
+    ],
+    "Sensorimotor Systems|Agency and Ownership|Sense of Agency": [
+        "The feeling of being in control of one's own actions and their consequences."
+    ],
+    "Sensorimotor Systems|Agency and Ownership|Body Ownership": [
+        "The perception that one's body belongs to oneself."
+    ],
+    "Sensorimotor Systems|Habit|Sequential, repetitive, motor, or cognitive behaviors elicited by external or internal triggers.": [
+        "nan"
+    ],
+    "Sensorimotor Systems|Habit|Habit Formation": [
+        "The process of developing automatic behaviors through repetition."
+    ],
+    "Sensorimotor Systems|Habit|Habit Execution": [
+        "The performance of learned, automatic behaviors in response to specific cues."
+    ],
+    "Sensorimotor Systems|Sensory Perception|The process by which the brain receives and interprets sensory information from the environment.": [
+        "nan"
+    ],
+    "Sensorimotor Systems|Sensory Perception|Sensory Processing": [
+        "The organization and interpretation of sensory input from various modalities."
+    ],
+    "Sensorimotor Systems|Sensory Perception|Sensory Integration": [
+        "The ability to combine information from multiple sensory modalities into a coherent percept."
+    ]
+}

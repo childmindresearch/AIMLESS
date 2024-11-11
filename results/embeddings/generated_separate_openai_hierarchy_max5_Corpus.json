@@ -1,0 +1,3485 @@
+{
+    "Cognitive Function": [
+        "Adjusting strategies based on changes in memory content or task requirements.",
+        "The process of integrating multiple sensory inputs into a single perception.",
+        "Recall of spatial routes and pathways.",
+        "The ability to identify words that begin or end with the same sound.",
+        "The process of categorizing information based on shared properties.",
+        "The ability to mentally rotate images to different orientations.",
+        "A process that disrupts verbal rehearsal by repeating irrelevant speech sounds.",
+        "The ability to control large muscle movements.",
+        "Simple, efficient rules used to make decisions or problem-solve.",
+        "Changing mental goals or tasks efficiently based on new information.",
+        "The memory of one's own specific life events and experiences.",
+        "The ability to combine information from different sensory modalities.",
+        "nan"
+    ],
+    "Emotion Regulation": [
+        "nan"
+    ],
+    "Social Interaction": [
+        "Training to improve the speed and accuracy of micro-expression recognition.",
+        "The ability to resolve disagreements in a constructive manner.",
+        "Ensuring individual and group objectives are in harmony.",
+        "Synthesizing different viewpoints into a coherent understanding.",
+        "The ability to use hand and body movements to communicate effectively.",
+        "The skill of working effectively and cooperatively with others to achieve common goals.",
+        "Seeking clarification to ensure understanding in communication.",
+        "nan",
+        "The ability to respond with an appropriate emotion to another's mental states.",
+        "Assessing and recognizing the dependability of others.",
+        "Understanding and interpreting non-verbal cues conveyed through body movements and posture.",
+        "The use of verbal and non-verbal communication methods to engage in social contexts effectively and appropriately.",
+        "Focusing discussions on actionable solutions.",
+        "Identifying honesty and adherence to moral principles.",
+        "Gestures used to control and coordinate conversation flow.",
+        "Understanding how desires influence emotions in oneself and others.",
+        "Evaluating situations from an empathic perspective.",
+        "Recognizing that others can hold beliefs that are untrue or different from reality.",
+        "Acting to support and comfort others driven by empathy.",
+        "Understanding gestures specific to different cultural contexts.",
+        "The ability to understand and share the feelings of others.",
+        "Creating a shared sense of connection and attachment with others.",
+        "The skill of speaking in front of an audience in an engaging and coherent manner.",
+        "Making inferences about multiple interacting mental states.",
+        "Assessing and establishing strategic priorities within teams.",
+        "Adjusting one's perspective-taking in dynamic social scenarios.",
+        "Understanding and fulfilling one's role within a team setting.",
+        "The use of eye movements to convey information and regulate interaction.",
+        "The skill of finding a middle ground that satisfies different parties.",
+        "Strategies for constructing narratives within speeches.",
+        "Demonstrating skill and expertise within assigned roles.",
+        "The skill of identifying and interpreting emotions in others based on facial expressions.",
+        "The ability to effectively exchange ideas and information verbally."
+    ],
+    "Communication and Language": [
+        "The ability to accurately reflect the speaker's feelings in conversation.",
+        "Understanding the use and meaning of suffixes in word formation.",
+        "The ability to use and manipulate sounds in words.",
+        "The ability to process and understand information received, including listening and reading comprehension.",
+        "Understanding spoken and written language, including vocabulary and grammar.",
+        "The ability to detect brief, involuntary facial expressions of emotion.",
+        "nan",
+        "Recognizing hierarchical relationships between general and specific words."
+    ],
+    "Behavioral Control": [
+        "nan"
+    ],
+    "Physical Health and Activity": [
+        "nan"
+    ],
+    "Attention and Perception": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills": [
+        "The ability to minimize internal and external distractions to maintain focus on a task.",
+        "The ability to detect and respond to infrequent but critical events in the environment.",
+        "The ability to maintain focus and productivity over extended periods, despite potential fatigue.",
+        "nan",
+        "Methods and skills for accurately checking and adjusting water temperature before bathing."
+    ],
+    "Motivation and Goal-Directed Behavior": [
+        "The belief that abilities and intelligence can be developed through effort and dedication.",
+        "The ability to manage one's emotions, thoughts, and behaviors in pursuit of long-term goals.",
+        "The drive to engage in activities for their own sake, deriving satisfaction from the activity itself rather than from external rewards.",
+        "Behavior driven by internal pressures, where individuals engage in actions driven by self-imposed pressures and internal rewards.",
+        "The drive to develop competence and understanding in areas of interest, reflecting a desire for growth and personal development.",
+        "nan"
+    ],
+    "Self-Concept and Identity": [
+        "nan"
+    ],
+    "Cognitive Function|The overall ability to think, understand, learn, and remember. It includes different cognitive processes that help in acquiring knowledge, making decisions, and solving problems.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory": [
+        "Adjusting strategies based on changes in memory content or task requirements.",
+        "The process of integrating multiple sensory inputs into a single perception.",
+        "Recall of spatial routes and pathways.",
+        "The ability to identify words that begin or end with the same sound.",
+        "The process of categorizing information based on shared properties.",
+        "The ability to mentally rotate images to different orientations.",
+        "A process that disrupts verbal rehearsal by repeating irrelevant speech sounds.",
+        "The ability to control large muscle movements.",
+        "Simple, efficient rules used to make decisions or problem-solve.",
+        "Changing mental goals or tasks efficiently based on new information.",
+        "The memory of one's own specific life events and experiences.",
+        "The ability to combine information from different sensory modalities.",
+        "nan"
+    ],
+    "Cognitive Function|Attention": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning": [
+        "nan"
+    ],
+    "Cognitive Function|Perception": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills": [
+        "nan"
+    ],
+    "Emotion Regulation|The ability to effectively manage and respond to an emotional experience.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity": [
+        "nan"
+    ],
+    "Social Interaction|Social Interaction refers to the ways in which individuals engage and communicate with others in society, including understanding social cues, forming relationships, and collaborating in group settings.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding": [
+        "Adjusting one's perspective-taking in dynamic social scenarios.",
+        "Training to improve the speed and accuracy of micro-expression recognition.",
+        "Understanding and interpreting non-verbal cues conveyed through body movements and posture.",
+        "Understanding gestures specific to different cultural contexts.",
+        "The skill of identifying and interpreting emotions in others based on facial expressions.",
+        "Understanding how desires influence emotions in oneself and others.",
+        "Making inferences about multiple interacting mental states.",
+        "Recognizing that others can hold beliefs that are untrue or different from reality.",
+        "nan"
+    ],
+    "Social Interaction|Relationship Building": [
+        "Assessing and recognizing the dependability of others.",
+        "The ability to understand and share the feelings of others.",
+        "Creating a shared sense of connection and attachment with others.",
+        "Identifying honesty and adherence to moral principles.",
+        "Synthesizing different viewpoints into a coherent understanding.",
+        "Evaluating situations from an empathic perspective.",
+        "Acting to support and comfort others driven by empathy.",
+        "nan",
+        "The ability to respond with an appropriate emotion to another's mental states."
+    ],
+    "Social Interaction|Collaboration": [
+        "Understanding and fulfilling one's role within a team setting.",
+        "The ability to resolve disagreements in a constructive manner.",
+        "nan",
+        "Ensuring individual and group objectives are in harmony.",
+        "The skill of finding a middle ground that satisfies different parties.",
+        "Focusing discussions on actionable solutions.",
+        "Demonstrating skill and expertise within assigned roles.",
+        "The skill of working effectively and cooperatively with others to achieve common goals.",
+        "Assessing and establishing strategic priorities within teams."
+    ],
+    "Social Interaction|Social Communication": [
+        "The use of verbal and non-verbal communication methods to engage in social contexts effectively and appropriately.",
+        "The use of eye movements to convey information and regulate interaction.",
+        "Strategies for constructing narratives within speeches.",
+        "The skill of speaking in front of an audience in an engaging and coherent manner.",
+        "Gestures used to control and coordinate conversation flow.",
+        "The ability to use hand and body movements to communicate effectively.",
+        "nan",
+        "Seeking clarification to ensure understanding in communication.",
+        "The ability to effectively exchange ideas and information verbally."
+    ],
+    "Communication and Language|Matching eye contact timing with conversational flow.": [
+        "nan"
+    ],
+    "Communication and Language|Language Comprehension": [
+        "Recognizing hierarchical relationships between general and specific words.",
+        "nan",
+        "Understanding spoken and written language, including vocabulary and grammar."
+    ],
+    "Communication and Language|Expressive Language": [
+        "Understanding the use and meaning of suffixes in word formation.",
+        "nan",
+        "The ability to use and manipulate sounds in words."
+    ],
+    "Communication and Language|Nonverbal Communication": [
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language": [
+        "The ability to detect brief, involuntary facial expressions of emotion.",
+        "nan"
+    ],
+    "Communication and Language|Receptive Language": [
+        "The ability to process and understand information received, including listening and reading comprehension.",
+        "The ability to accurately reflect the speaker's feelings in conversation.",
+        "nan"
+    ],
+    "Behavioral Control|Understanding spoken language and auditory information.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation": [
+        "nan"
+    ],
+    "Physical Health and Activity|Providing a neutral ground to help others in conflict find common solutions.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest": [
+        "nan"
+    ],
+    "Physical Health and Activity|Exercise and Physical Activity": [
+        "nan"
+    ],
+    "Attention and Perception|Sugars that provide a quick source of energy.": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention": [
+        "nan"
+    ],
+    "Attention and Perception|Concentration": [
+        "nan"
+    ],
+    "Attention and Perception|Mental Stamina": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Relates to the engagement in structured or unstructured physical activities that contribute to overall health and well-being.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care": [
+        "The ability to maintain focus and productivity over extended periods, despite potential fatigue.",
+        "nan",
+        "The ability to minimize internal and external distractions to maintain focus on a task.",
+        "The ability to detect and respond to infrequent but critical events in the environment."
+    ],
+    "Adaptive Functioning and Life Skills|Household Management": [
+        "nan",
+        "Methods and skills for accurately checking and adjusting water temperature before bathing."
+    ],
+    "Motivation and Goal-Directed Behavior|Understanding and selecting clothing that suits different seasons and weather conditions.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Extrinsic Motivation": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation": [
+        "The drive to engage in activities for their own sake, deriving satisfaction from the activity itself rather than from external rewards.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence": [
+        "The belief that abilities and intelligence can be developed through effort and dedication.",
+        "The drive to develop competence and understanding in areas of interest, reflecting a desire for growth and personal development.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting": [
+        "Behavior driven by internal pressures, where individuals engage in actions driven by self-imposed pressures and internal rewards.",
+        "The ability to manage one's emotions, thoughts, and behaviors in pursuit of long-term goals.",
+        "nan"
+    ],
+    "Self-Concept and Identity|The mechanisms involved in managing focus, problem-solving, and learning strategies to support goal attainment.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Relational Exploration": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Friendship Dynamics Exploration": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|The ability to encode, store, and recall information.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory": [
+        "Recall of spatial routes and pathways.",
+        "The ability to identify words that begin or end with the same sound.",
+        "The ability to mentally rotate images to different orientations.",
+        "A process that disrupts verbal rehearsal by repeating irrelevant speech sounds.",
+        "nan"
+    ],
+    "Cognitive Function|Memory|Long-term Memory": [
+        "The process of categorizing information based on shared properties.",
+        "The ability to control large muscle movements.",
+        "Simple, efficient rules used to make decisions or problem-solve.",
+        "The memory of one's own specific life events and experiences.",
+        "nan"
+    ],
+    "Cognitive Function|Memory|Working Memory": [
+        "Adjusting strategies based on changes in memory content or task requirements.",
+        "The process of integrating multiple sensory inputs into a single perception.",
+        "Changing mental goals or tasks efficiently based on new information.",
+        "The ability to combine information from different sensory modalities.",
+        "nan"
+    ],
+    "Cognitive Function|Attention|The ability to focus on specific stimuli or tasks while managing distractions.": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Sustained Attention": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Selective Attention": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Divided Attention": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|High-level cognitive processes that help in planning, decision-making, problem-solving, and regulating thoughts and actions.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Inhibition Control": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Cognitive Flexibility": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Planning": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Problem-Solving": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|The ability to interpret and organize sensory information.": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Visual Perception": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Auditory Perception": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Tactile Perception": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|The ability to comprehend and produce language forms, including speaking, reading, and writing.": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Receptive Language": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Expressive Language": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Phonological Processing": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|The ability to comprehend visual and spatial relationships, such as understanding maps, graphs, and complex shapes.": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|Spatial Orientation": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|Visual-Motor Integration": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Understanding and recognizing one's own emotions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|The ability to express emotions appropriately.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|The ability to empathize and understand emotions in others.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|The ability to regulate intense emotions and impulses.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|The capacity to reflect on one's emotions and emotional reactions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|The ability to perceive, interpret, and predict social cues, norms, and behaviors in various contexts.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind": [
+        "Adjusting one's perspective-taking in dynamic social scenarios.",
+        "Understanding how desires influence emotions in oneself and others.",
+        "Making inferences about multiple interacting mental states.",
+        "Recognizing that others can hold beliefs that are untrue or different from reality.",
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Social Perception": [
+        "Training to improve the speed and accuracy of micro-expression recognition.",
+        "Understanding and interpreting non-verbal cues conveyed through body movements and posture.",
+        "Understanding gestures specific to different cultural contexts.",
+        "The skill of identifying and interpreting emotions in others based on facial expressions.",
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Understanding emotional states and intentions from posture.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Empathy Development": [
+        "The ability to understand and share the feelings of others.",
+        "Synthesizing different viewpoints into a coherent understanding.",
+        "Evaluating situations from an empathic perspective.",
+        "nan",
+        "The ability to respond with an appropriate emotion to another's mental states."
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment": [
+        "Assessing and recognizing the dependability of others.",
+        "Creating a shared sense of connection and attachment with others.",
+        "Identifying honesty and adherence to moral principles.",
+        "Acting to support and comfort others driven by empathy.",
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Feeling secure and confident in close relationships.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Teamwork": [
+        "Understanding and fulfilling one's role within a team setting.",
+        "Ensuring individual and group objectives are in harmony.",
+        "The skill of working effectively and cooperatively with others to achieve common goals.",
+        "Demonstrating skill and expertise within assigned roles.",
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Negotiation": [
+        "The ability to resolve disagreements in a constructive manner.",
+        "The skill of finding a middle ground that satisfies different parties.",
+        "Focusing discussions on actionable solutions.",
+        "nan",
+        "Assessing and establishing strategic priorities within teams."
+    ],
+    "Social Interaction|Social Communication|Seeking beneficial solutions for all parties involved.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Verbal Communication": [
+        "The use of verbal and non-verbal communication methods to engage in social contexts effectively and appropriately.",
+        "The skill of speaking in front of an audience in an engaging and coherent manner.",
+        "nan",
+        "Seeking clarification to ensure understanding in communication.",
+        "The ability to effectively exchange ideas and information verbally."
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication": [
+        "The use of eye movements to convey information and regulate interaction.",
+        "Strategies for constructing narratives within speeches.",
+        "Gestures used to control and coordinate conversation flow.",
+        "The ability to use hand and body movements to communicate effectively.",
+        "nan"
+    ],
+    "Communication and Language|Language Comprehension|Techniques to synchronize gaze with conversation flow.": [
+        "nan"
+    ],
+    "Communication and Language|Language Comprehension|Vocabulary Comprehension": [
+        "nan",
+        "Understanding spoken and written language, including vocabulary and grammar."
+    ],
+    "Communication and Language|Language Comprehension|Grammar Comprehension": [
+        "nan",
+        "Recognizing hierarchical relationships between general and specific words."
+    ],
+    "Communication and Language|Expressive Language|The ability to produce and articulate thoughts verbally or in writing.": [
+        "nan"
+    ],
+    "Communication and Language|Expressive Language|Speech Production": [
+        "Understanding the use and meaning of suffixes in word formation.",
+        "nan"
+    ],
+    "Communication and Language|Expressive Language|Written Expression": [
+        "nan",
+        "The ability to use and manipulate sounds in words."
+    ],
+    "Communication and Language|Nonverbal Communication|The ability to change, move, or add sounds within words for accurate speech production.": [
+        "nan"
+    ],
+    "Communication and Language|Nonverbal Communication|Gestural Communication": [
+        "nan"
+    ],
+    "Communication and Language|Nonverbal Communication|Facial Expressions": [
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|The use of sign language systems to communicate meaning.": [
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|Conversational Skills": [
+        "The ability to detect brief, involuntary facial expressions of emotion.",
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|Understanding Sarcasm and Humor": [
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|The ability to understand and process spoken and written language.": [
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Listening Comprehension": [
+        "The ability to accurately reflect the speaker's feelings in conversation.",
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Reading Comprehension": [
+        "The ability to process and understand information received, including listening and reading comprehension.",
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|The capacity to retain and recall spoken information.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Managing immediate emotional and behavioral reactions.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|The ability to delay immediate rewards in favor of long-term benefits.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Adhering to social norms and rules, including consideration for others and the ability to cooperate.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Employing strategies to reach mutually beneficial agreements.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Strength": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Endurance": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Flexibility": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Cardiovascular Health": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|The force exerted by a muscle or muscle group while the muscle changes length (e.g., in lifting weights).": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Fine Motor Skills": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Gross Motor Skills": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|The range of motion around a joint when the body is in a stationary position.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Macronutrient Balance": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Micronutrient Intake": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Skills involving small muscle movements, particularly in the hands and fingers, such as writing or picking up small objects.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Sleep Quality": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Sleep Quantity": [
+        "nan"
+    ],
+    "Physical Health and Activity|Exercise and Physical Activity|Maintaining equilibrium when stationary, such as when standing still.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Exercise and Physical Activity|Aerobic Activities": [
+        "nan"
+    ],
+    "Physical Health and Activity|Exercise and Physical Activity|Anaerobic Activities": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|The capacity to maintain consistent focus over time.": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Vigilance": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Fatigue Resistance": [
+        "nan"
+    ],
+    "Attention and Perception|Concentration|Forming predictions about text based on hypothetical scenarios.": [
+        "nan"
+    ],
+    "Attention and Perception|Concentration|Distraction Control": [
+        "nan"
+    ],
+    "Attention and Perception|Mental Stamina|The total amount of sleep time and its adequacy for the individual.": [
+        "nan"
+    ],
+    "Attention and Perception|Mental Stamina|Cognitive Load Management": [
+        "nan"
+    ],
+    "Attention and Perception|Mental Stamina|Prolonged Engagement": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Physical activities that increase the heart rate and improve the body's use of oxygen.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Self-feeding Skills": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Personal Hygiene Management": [
+        "The ability to maintain focus and productivity over extended periods, despite potential fatigue.",
+        "nan",
+        "The ability to detect and respond to infrequent but critical events in the environment."
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Dressing Skills": [
+        "nan",
+        "The ability to minimize internal and external distractions to maintain focus on a task."
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Grooming Skills": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Skills related to the ability to feed oneself independently, including using utensils and managing portion sizes.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Cleaning and Organizing": [
+        "nan",
+        "Methods and skills for accurately checking and adjusting water temperature before bathing."
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Budgeting and Financial Management": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Saving Strategies": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Methods for effectively layering clothing for warmth and style.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Autonomy": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Mastery": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Extrinsic Motivation|Skills related to maintaining the cleanliness and organization of living spaces.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Extrinsic Motivation|External Regulation": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Extrinsic Motivation|Introjected Regulation": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|The ability to plan, monitor, and control personal or household financial resources.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Cognitive Regulation": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Emotional Regulation in Goal Pursuit": [
+        "The drive to engage in activities for their own sake, deriving satisfaction from the activity itself rather than from external rewards.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|The ability to make logical conclusions and predictions based on text.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Resilience": [
+        "The drive to develop competence and understanding in areas of interest, reflecting a desire for growth and personal development.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Delayed Gratification": [
+        "The belief that abilities and intelligence can be developed through effort and dedication.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Establishing objectives and determining steps to achieve them.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Short-term Planning": [
+        "Behavior driven by internal pressures, where individuals engage in actions driven by self-imposed pressures and internal rewards.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Long-term Planning": [
+        "The ability to manage one's emotions, thoughts, and behaviors in pursuit of long-term goals.",
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|The awareness and understanding of one's own thought processes, facilitating strategic thinking and learning.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Global Self-Esteem": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|The ability to resist the temptation for an immediate reward and wait for a later reward.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|General Self-Efficacy": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|The identification, assessment, and prioritization of risks, coupled with the coordinated application of resources to minimize, control, and monitor the probability and impact of events.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Moral Values": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Aesthetic Values": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Self-worth assessment based on academic standing relative to peers.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Vocational Exploration": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Career Values Exploration": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Relational Exploration|Confidence in one's ability to use logical reasoning in problem-solving contexts.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Relational Exploration|Family Role Exploration": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Friendship Dynamics Exploration|Belief in one's ability to engage in and maintain regular physical activity.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Friendship Dynamics Exploration|Trust Building in Friendships": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Friendship Dynamics Exploration|Conflict Resolution in Friendships": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory|The capacity to hold a small amount of information in mind for a brief period.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Phonological Loop": [
+        "A process that disrupts verbal rehearsal by repeating irrelevant speech sounds.",
+        "nan",
+        "The ability to identify words that begin or end with the same sound."
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Visuospatial Sketchpad": [
+        "The ability to mentally rotate images to different orientations.",
+        "Recall of spatial routes and pathways.",
+        "nan"
+    ],
+    "Cognitive Function|Memory|Long-term Memory|The ability to store and retrieve information over a longer duration.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Declarative Memory": [
+        "The memory of one's own specific life events and experiences.",
+        "nan",
+        "The process of categorizing information based on shared properties."
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Procedural Memory": [
+        "The ability to control large muscle movements.",
+        "nan",
+        "Simple, efficient rules used to make decisions or problem-solve."
+    ],
+    "Cognitive Function|Memory|Working Memory|The ability to hold and manipulate information temporarily while performing cognitive tasks.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Working Memory|Central Executive Function": [
+        "Changing mental goals or tasks efficiently based on new information.",
+        "Adjusting strategies based on changes in memory content or task requirements.",
+        "nan"
+    ],
+    "Cognitive Function|Memory|Working Memory|Episodic Buffer": [
+        "The process of integrating multiple sensory inputs into a single perception.",
+        "The ability to combine information from different sensory modalities.",
+        "nan"
+    ],
+    "Cognitive Function|Attention|Sustained Attention|The capacity to maintain consistent focus over time.": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Sustained Attention|Cognitive Endurance": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Selective Attention|The ability to focus on relevant stimuli while ignoring irrelevant information.": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Selective Attention|Auditory Selective Attention": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Selective Attention|Visual Selective Attention": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Divided Attention|The capacity to process two or more responses or stimuli simultaneously.": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Divided Attention|Multitasking": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Inhibition Control|The ability to suppress impulsive responses and resist distractions.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Inhibition Control|Response Inhibition": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Cognitive Flexibility|The capacity to switch between thinking about different concepts or to think about multiple concepts simultaneously.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Cognitive Flexibility|Set Shifting": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Planning|The ability to create a roadmap to reach a goal or complete a task efficiently.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Planning|Goal Setting": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Problem-Solving|The ability to find solutions to complex or difficult issues.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Problem-Solving|Strategic Thinking": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Visual Perception|The ability to interpret information from visible light reaching the eye.": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Visual Perception|Depth Perception": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Auditory Perception|The ability to identify, interpret, and attach meaning to sound stimuli.": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Auditory Perception|Sound Localization": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Tactile Perception|The ability to interpret information through touch.": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Tactile Perception|Texture Discrimination": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Receptive Language|The ability to understand and process spoken and written language.": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Receptive Language|Listening Comprehension": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Expressive Language|The ability to produce and articulate thoughts verbally or in writing.": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Expressive Language|Narrative Skills": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Phonological Processing|The ability to recognize and manipulate sounds in speech.": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Phonological Processing|Phonological Awareness": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|Spatial Orientation|The ability to understand and operate in a space in relation to other objects.": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|Spatial Orientation|Directional Sense": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|Visual-Motor Integration|The ability to coordinate visual perceptual skills with motor skills.": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|Visual-Motor Integration|Hand-Eye Coordination": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|The ability to continuously evaluate one's emotional state.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|Real-Time Emotional Tracking": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|Retrospective Emotional Evaluation": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Recognizing and interpreting bodily signals related to emotional states.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Bodily Sensation Identification": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Emotional-Bodily Synchrony": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Articulating emotions through words.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Emotionally Descriptive Language": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Emotionally Expressive Storytelling": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Conveying emotions through body language, facial expressions, and gestures.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Facial Expression Recognition": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Gestural Emotional Communication": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Understanding the perspective and emotions of others.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Perspective Taking": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Theory of Mind": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Sharing and responding to the emotional experiences of others.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Emotional Matching": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Compassionate Response": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Managing immediate emotional and behavioral reactions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Delay of Gratification": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Impulse Delay Techniques": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Enduring emotional discomfort effectively.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Emotional Resilience": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Coping with Emotional Stress": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Understanding the origins and implications of one's emotional responses.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Root Cause Analysis": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Predictive Emotional Understanding": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Strategies to deal with emotional stress and difficulties.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Adaptive Coping Strategies": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Maladaptive Coping Recognition": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|Understanding that others have thoughts and emotions different from one's own.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|First-Order Theory of Mind": [
+        "Understanding how desires influence emotions in oneself and others.",
+        "Recognizing that others can hold beliefs that are untrue or different from reality.",
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|Second-Order Theory of Mind": [
+        "Making inferences about multiple interacting mental states.",
+        "nan",
+        "Adjusting one's perspective-taking in dynamic social scenarios."
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Adapting empathy to changing social roles and relationships.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Facial Expression Recognition": [
+        "Training to improve the speed and accuracy of micro-expression recognition.",
+        "nan",
+        "The skill of identifying and interpreting emotions in others based on facial expressions."
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Body Language Interpretation": [
+        "Understanding gestures specific to different cultural contexts.",
+        "nan",
+        "Understanding and interpreting non-verbal cues conveyed through body movements and posture."
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Calibrating emotional interpretation based on typical posture norms.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Cognitive Empathy": [
+        "Synthesizing different viewpoints into a coherent understanding.",
+        "nan",
+        "The ability to understand and share the feelings of others."
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Affective Empathy": [
+        "Evaluating situations from an empathic perspective.",
+        "nan",
+        "The ability to respond with an appropriate emotion to another's mental states."
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Feeling and sharing emotions in-sync with others.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Reliability Perception": [
+        "Assessing and recognizing the dependability of others.",
+        "Acting to support and comfort others driven by empathy.",
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Emotional Bonding": [
+        "Identifying honesty and adherence to moral principles.",
+        "nan",
+        "Creating a shared sense of connection and attachment with others."
+    ],
+    "Social Interaction|Collaboration|Teamwork|Demonstrating behaviors associated with secure attachments.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Teamwork|Role Identification": [
+        "nan",
+        "The skill of working effectively and cooperatively with others to achieve common goals.",
+        "Understanding and fulfilling one's role within a team setting."
+    ],
+    "Social Interaction|Collaboration|Teamwork|Goal Alignment": [
+        "Demonstrating skill and expertise within assigned roles.",
+        "Ensuring individual and group objectives are in harmony.",
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Negotiation|Articulating and agreeing on shared goals and objectives.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Negotiation|Conflict Resolution": [
+        "The ability to resolve disagreements in a constructive manner.",
+        "nan",
+        "Assessing and establishing strategic priorities within teams."
+    ],
+    "Social Interaction|Collaboration|Negotiation|Compromise Building": [
+        "The skill of finding a middle ground that satisfies different parties.",
+        "nan",
+        "Focusing discussions on actionable solutions."
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Creating strategies that ensure mutual benefit in negotiations.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Conversation Skills": [
+        "The use of verbal and non-verbal communication methods to engage in social contexts effectively and appropriately.",
+        "nan",
+        "The ability to effectively exchange ideas and information verbally."
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Public Speaking": [
+        "The skill of speaking in front of an audience in an engaging and coherent manner.",
+        "nan",
+        "Seeking clarification to ensure understanding in communication."
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Tailoring speech content and style to the audience.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Gesture Use": [
+        "The ability to use hand and body movements to communicate effectively.",
+        "nan",
+        "Strategies for constructing narratives within speeches."
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Eye Contact": [
+        "The use of eye movements to convey information and regulate interaction.",
+        "nan",
+        "Gestures used to control and coordinate conversation flow."
+    ],
+    "Communication and Language|Language Comprehension|Vocabulary Comprehension|Using eye contact or lack thereof to convey discomfort or deception.": [
+        "nan"
+    ],
+    "Communication and Language|Language Comprehension|Vocabulary Comprehension|Semantic Networks": [
+        "nan",
+        "Understanding spoken and written language, including vocabulary and grammar."
+    ],
+    "Communication and Language|Language Comprehension|Grammar Comprehension|Understanding the meaning of a broad range of words and their associations.": [
+        "nan"
+    ],
+    "Communication and Language|Language Comprehension|Grammar Comprehension|Morphological Awareness": [
+        "nan",
+        "Recognizing hierarchical relationships between general and specific words."
+    ],
+    "Communication and Language|Expressive Language|Speech Production|Understanding sentence structure, syntax, and the rules governing them.": [
+        "nan"
+    ],
+    "Communication and Language|Expressive Language|Speech Production|Phonological Skills": [
+        "Understanding the use and meaning of suffixes in word formation.",
+        "nan"
+    ],
+    "Communication and Language|Expressive Language|Written Expression|Recognizing suffixes that modify tense, number, and comparison without changing a word's core meaning.": [
+        "nan"
+    ],
+    "Communication and Language|Expressive Language|Written Expression|Spelling": [
+        "nan",
+        "The ability to use and manipulate sounds in words."
+    ],
+    "Communication and Language|Nonverbal Communication|Gestural Communication|The ability to convey meaning through writing, including spelling and composition.": [
+        "nan"
+    ],
+    "Communication and Language|Nonverbal Communication|Gestural Communication|Sign Language Usage": [
+        "nan"
+    ],
+    "Communication and Language|Nonverbal Communication|Facial Expressions|The ability to identify and understand words by sight.": [
+        "nan"
+    ],
+    "Communication and Language|Nonverbal Communication|Facial Expressions|Microexpressions Recognition": [
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|Conversational Skills|The ability to accurately use finger alphabet for spelling out words.": [
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|Conversational Skills|Active Listening": [
+        "The ability to detect brief, involuntary facial expressions of emotion.",
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|Understanding Sarcasm and Humor|Identifying the positive, negative, or neutral nature of detected emotions.": [
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|Understanding Sarcasm and Humor|Metaphor and Idiom Comprehension": [
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Listening Comprehension|Understanding and interpreting spoken language.": [
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Listening Comprehension|Auditory Memory": [
+        "The ability to accurately reflect the speaker's feelings in conversation.",
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Reading Comprehension|The ability to interpret sarcasm, jokes, and non-literal language.": [
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Reading Comprehension|Inferential Reasoning": [
+        "The ability to process and understand information received, including listening and reading comprehension.",
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|The ability to remember auditory information in specific order.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|Goal Setting": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|Persistence": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Behavioral Control refers to an individual's ability to regulate their actions, emotions, and thoughts in pursuit of long-term goals. It encompasses self-discipline, impulse control, and the ability to act in accordance with social norms and expectations.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Stress Tolerance": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Emotional Resilience": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|The ability to wait in order to obtain something more rewarding later.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|Planning": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|Patience": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Handling immediate and short term stressors effectively to maintain performance.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Selective Attention": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Thought Suppression": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Anticipating future needs, challenges, and opportunities to prepare actions accordingly.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Role Understanding": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Etiquette": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Focusing on relevant sensory information while ignoring distractions.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Team Participation": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Conflict Resolution": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Understanding and recognizing one's own emotions.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Self-Monitoring": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Emotional Insight": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Employing tactics and communication that maintain decorum and respect.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Adaptability": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Mood Adjustment": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Strength|Managing one's emotional state to remain focused and avoid emotional outbursts.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Strength|Muscular Strength": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Endurance|Utilizing immediate feedback mechanisms to better understand emotional triggers and responses.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Endurance|Cardiovascular Endurance": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Endurance|Muscular Endurance": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Flexibility|Choosing appropriate emotional regulation strategies based on context.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Flexibility|Static Flexibility": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Flexibility|Dynamic Flexibility": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Cardiovascular Health|This dimension encompasses the overall physical well-being and movement-related aspects of an individual. It includes aspects that contribute to physical fitness, bodily health, and the ability to engage in various physical activities.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Cardiovascular Health|Heart Health": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Cardiovascular Health|Lung Capacity": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Fine Motor Skills|The ability to sustain physical activity over a period of time.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Fine Motor Skills|Hand-Eye Coordination": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Fine Motor Skills|Dexterity": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Gross Motor Skills|The ability of a muscle, or group of muscles, to sustain repeated contractions or to continue applying force against a fixed resistance.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Gross Motor Skills|Balance": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Macronutrient Balance|Stretching a muscle to the point of slight discomfort and holding the position.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Macronutrient Balance|Carbohydrate Intake": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Micronutrient Intake|Refers to the condition and performance of the heart and its ability to pump blood effectively.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Micronutrient Intake|Vitamin Intake": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Micronutrient Intake|Mineral Intake": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Sleep Quality|The ability to perform activities that require simultaneous use of our hands and eyes.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Sleep Quality|REM Sleep": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Sleep Quantity|The ability to make precisely coordinated movements of the fingers to grasp and manipulate objects.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Sleep Quantity|Sleep Duration": [
+        "nan"
+    ],
+    "Physical Health and Activity|Exercise and Physical Activity|Aerobic Activities|Maintaining equilibrium when in motion, such as when walking or running.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Exercise and Physical Activity|Aerobic Activities|Walking": [
+        "nan"
+    ],
+    "Physical Health and Activity|Exercise and Physical Activity|Anaerobic Activities|The proportion of carbohydrates, proteins, and fats in the diet.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Exercise and Physical Activity|Anaerobic Activities|Weightlifting": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Vigilance|Starches that provide sustained energy and dietary fiber.": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Vigilance|Responsiveness to Rare Events": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Fatigue Resistance|The consumption of inorganic elements that play key roles in body processes.": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Fatigue Resistance|Stress Resiliency": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Fatigue Resistance|Endurance Training Capacity": [
+        "nan"
+    ],
+    "Attention and Perception|Concentration|Distraction Control|The measure of how well one sleeps, including factors like duration, depth, and restfulness.": [
+        "nan"
+    ],
+    "Attention and Perception|Concentration|Distraction Control|Internal Interference Management": [
+        "nan"
+    ],
+    "Attention and Perception|Concentration|Distraction Control|External Noise Filtering": [
+        "nan"
+    ],
+    "Attention and Perception|Mental Stamina|Cognitive Load Management|Total hours of sleep obtained in a sleep period.": [
+        "nan"
+    ],
+    "Attention and Perception|Mental Stamina|Prolonged Engagement|The practice of taking a short sleep during the day.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Self-feeding Skills|A low-impact, moderate aerobic activity involving movement on foot at a regular pace.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Self-feeding Skills|Utensil Usage": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Self-feeding Skills|Portion Control": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Personal Hygiene Management|The capacity to focus, maintain, and appropriately shift attention, and to interpret sensory information accurately.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Personal Hygiene Management|Bathing and Showering Skills": [
+        "nan",
+        "The ability to detect and respond to infrequent but critical events in the environment."
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Personal Hygiene Management|Oral Hygiene": [
+        "The ability to maintain focus and productivity over extended periods, despite potential fatigue.",
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Dressing Skills|The ability to maintain attentional focus and cognitive performance in the face of stressful conditions.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Dressing Skills|Clothing Selection": [
+        "nan",
+        "The ability to minimize internal and external distractions to maintain focus on a task."
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Dressing Skills|Fastener Management": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Grooming Skills|The ability to sustain mental effort and focus over time.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Grooming Skills|Hair Care": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Grooming Skills|Nail Care": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Cleaning and Organizing|The ability to effectively use various eating utensils for different types of food.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Cleaning and Organizing|Task Scheduling": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Cleaning and Organizing|Decluttering Skills": [
+        "nan",
+        "Methods and skills for accurately checking and adjusting water temperature before bathing."
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Budgeting and Financial Management|Skills related to maintaining oral health through regular tooth brushing and flossing.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Budgeting and Financial Management|Expense Tracking": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Saving Strategies|The ability to dress oneself independently, including choosing appropriate clothing and managing fasteners like buttons and zippers.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Saving Strategies|Goal-Based Saving": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Autonomy|The ability to handle various clothing fasteners such as buttons, zippers, and snaps.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Autonomy|Self-Determination": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Autonomy|Volitional Engagement": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Mastery|The ability to wash, dry, and style hair independently.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Mastery|Skill Development": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Mastery|Challenge Seeking": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Extrinsic Motivation|External Regulation|The ability to create and follow a schedule for cleaning tasks to maintain an organized environment.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Extrinsic Motivation|External Regulation|Compliance": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Extrinsic Motivation|Introjected Regulation|Skills related to identifying and removing unnecessary items to maintain an organized space.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Extrinsic Motivation|Introjected Regulation|Ego Involvement": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Cognitive Regulation|The ability to document and review personal or household expenses regularly.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Cognitive Regulation|Metacognition": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Emotional Regulation in Goal Pursuit|Skills related to developing and maintaining strategies for personal or household savings.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Emotional Regulation in Goal Pursuit|Positive Reappraisal": [
+        "The drive to engage in activities for their own sake, deriving satisfaction from the activity itself rather than from external rewards.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Resilience|The ability to make one's own decisions and govern oneself independently, playing a crucial role in intrinsic motivation.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Resilience|Adaptive Coping": [
+        "The drive to develop competence and understanding in areas of interest, reflecting a desire for growth and personal development.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Delayed Gratification|The process of learning and refining skills in a specific domain.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Delayed Gratification|Future Orientation": [
+        "The belief that abilities and intelligence can be developed through effort and dedication.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Short-term Planning|The drive to perform activities due to external rewards or pressures, such as money, grades, or praise.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Short-term Planning|Task Prioritization": [
+        "Behavior driven by internal pressures, where individuals engage in actions driven by self-imposed pressures and internal rewards.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Long-term Planning|Actions are undertaken with the intent to maintain self-esteem or to avoid guilt.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Long-term Planning|Strategic Visioning": [
+        "The ability to manage one's emotions, thoughts, and behaviors in pursuit of long-term goals.",
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Global Self-Esteem|The process of observing and regulating one's own cognitive processes and strategies.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Global Self-Esteem|Stable Self-Esteem": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Global Self-Esteem|Variable Self-Esteem": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Predicting future emotional states and using this information to guide decision-making and goal-setting.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Academic Self-Esteem": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Social Self-Esteem": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|General Self-Efficacy|Placing emphasis on long-term rather than short-term outcomes when pursuing goals.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|General Self-Efficacy|Problem-Solving Self-Efficacy": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|The capacity to set and work towards goals that are achievable in the near future.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|Health-Related Self-Efficacy": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|Communication Self-Efficacy": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Moral Values|Refers to the understanding and perception of oneself, encompassing a range of aspects including self-esteem, self-efficacy, and personal values. It involves the awareness of one's own identity, both in terms of internal self-perception and external recognition by others.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Moral Values|Altruistic Values": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Moral Values|Justice Values": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Aesthetic Values|Instantaneous changes in self-esteem in response to specific events.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Aesthetic Values|Artistic Preferences": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Aesthetic Values|Natural Appreciation Values": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Vocational Exploration|Evaluation of self-worth based on social interactions and acceptance.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Vocational Exploration|Skill Development": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Career Values Exploration|Denotes an individual's belief in their capacity to execute behaviors necessary to produce specific performance attainments.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Career Values Exploration|Work-Life Balance Values": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Career Values Exploration|Career Advancement Values": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Relational Exploration|Family Role Exploration|Belief in one's ability to apply creative thinking processes effectively.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Relational Exploration|Family Role Exploration|Parental Role Understanding": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Relational Exploration|Family Role Exploration|Sibling Role Dynamics": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Friendship Dynamics Exploration|Trust Building in Friendships|Confidence in one's ability to adhere to healthy eating practices.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Friendship Dynamics Exploration|Conflict Resolution in Friendships|Belief in one's ability to communicate effectively in different contexts.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Phonological Loop|A subcomponent of working memory responsible for the temporary storage and manipulation of verbal information.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Phonological Loop|Phonemic Awareness": [
+        "nan",
+        "The ability to identify words that begin or end with the same sound."
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Phonological Loop|Verbal Rehearsal": [
+        "A process that disrupts verbal rehearsal by repeating irrelevant speech sounds.",
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Visuospatial Sketchpad|A subcomponent of working memory that stores and processes information in a visual or spatial form.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Visuospatial Sketchpad|Spatial Recall": [
+        "Recall of spatial routes and pathways.",
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Visuospatial Sketchpad|Imagery Maintenance": [
+        "The ability to mentally rotate images to different orientations.",
+        "nan"
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Declarative Memory|The aspect of long-term memory involving the storage of facts and events.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Declarative Memory|Semantic Memory": [
+        "nan",
+        "The process of categorizing information based on shared properties."
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Declarative Memory|Episodic Memory": [
+        "The memory of one's own specific life events and experiences.",
+        "nan"
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Procedural Memory|Type of long-term memory involved in the acquisition of skills and habits.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Procedural Memory|Motor Skills": [
+        "The ability to control large muscle movements.",
+        "nan"
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Procedural Memory|Cognitive Skills": [
+        "nan",
+        "Simple, efficient rules used to make decisions or problem-solve."
+    ],
+    "Cognitive Function|Memory|Working Memory|Central Executive Function|The component of working memory responsible for directing attention and coordinating cognitive processes.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Working Memory|Central Executive Function|Task Switching": [
+        "Changing mental goals or tasks efficiently based on new information.",
+        "nan"
+    ],
+    "Cognitive Function|Memory|Working Memory|Central Executive Function|Updating and Monitoring": [
+        "Adjusting strategies based on changes in memory content or task requirements.",
+        "nan"
+    ],
+    "Cognitive Function|Memory|Working Memory|Episodic Buffer|A component of working memory where information from different domains is integrated to form a single, coherent episode.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Working Memory|Episodic Buffer|Binding": [
+        "The process of integrating multiple sensory inputs into a single perception.",
+        "nan"
+    ],
+    "Cognitive Function|Memory|Working Memory|Episodic Buffer|Integration": [
+        "The ability to combine information from different sensory modalities.",
+        "nan"
+    ],
+    "Cognitive Function|Attention|Sustained Attention|Cognitive Endurance|The ability to keep attention over long periods without losing focus.": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Sustained Attention|Cognitive Endurance|Auditory Vigilance": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Selective Attention|Auditory Selective Attention|Focusing on specific sounds while ignoring others.": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Selective Attention|Auditory Selective Attention|Speech-In-Noise Differentiation": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Selective Attention|Visual Selective Attention|Focusing on specific visual stimuli while ignoring others.": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Selective Attention|Visual Selective Attention|Color-Cue Attention": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Divided Attention|Multitasking|Performing multiple cognitive tasks at the same time.": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Divided Attention|Multitasking|Simultaneous Processing": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Inhibition Control|Response Inhibition|Suppressing inappropriate or unwanted behaviors.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Inhibition Control|Response Inhibition|Emotional Inhibition": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Cognitive Flexibility|Set Shifting|Alternating between different thoughts or actions according to the demands of the situation.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Cognitive Flexibility|Set Shifting|Task Reconfiguration": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Planning|Goal Setting|Establishing objectives and determining steps to achieve them.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Planning|Goal Setting|Milestone Mapping": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Problem-Solving|Strategic Thinking|Devising a plan to solve problems efficiently.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Problem-Solving|Strategic Thinking|Analytical Reasoning": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Visual Perception|Depth Perception|The ability to perceive the world in three dimensions.": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Visual Perception|Depth Perception|Stereopsis": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Auditory Perception|Sound Localization|The ability to identify the source or location of a sound in space.": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Auditory Perception|Sound Localization|Binaural Perception": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Tactile Perception|Texture Discrimination|Differentiating between the feel of various surfaces.": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Tactile Perception|Texture Discrimination|Surface Roughness Perception": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Receptive Language|Listening Comprehension|Understanding and interpreting spoken language.": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Receptive Language|Listening Comprehension|Inferential Listening": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Expressive Language|Narrative Skills|The ability to tell stories and describe events.": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Expressive Language|Narrative Skills|Story Structuring": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Phonological Processing|Phonological Awareness|Recognizing and working with sounds in spoken language.": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Phonological Processing|Phonological Awareness|Rhyme Generation": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|Spatial Orientation|Directional Sense|Understanding of and ability to navigate using directions.": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|Spatial Orientation|Directional Sense|Cardinal Directions": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|Visual-Motor Integration|Hand-Eye Coordination|The ability to synchronize visual input with motor actions.": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|Visual-Motor Integration|Hand-Eye Coordination|Fine Motor Precision": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|Real-Time Emotional Tracking|Monitoring and identifying emotions as they occur in real-time.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|Real-Time Emotional Tracking|Mindful Emotional Recognition": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|Real-Time Emotional Tracking|Emotion Logging": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|Retrospective Emotional Evaluation|Assessing emotional responses after the fact to understand emotional patterns.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|Retrospective Emotional Evaluation|Narrative Review": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|Retrospective Emotional Evaluation|Comparative Emotional Analysis": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Bodily Sensation Identification|Identifying physical sensations associated with different emotions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Bodily Sensation Identification|Localized Sensation Mapping": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Bodily Sensation Identification|Intensity and Duration Tracking": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Emotional-Bodily Synchrony|Understanding the relationship between bodily sensations and emotional states.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Emotional-Bodily Synchrony|Temporal Synchronization": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Emotional-Bodily Synchrony|Emotional-Corporal Feedback Loops": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Emotionally Descriptive Language|Using detailed and precise language to describe emotions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Emotionally Descriptive Language|Emotion Vocabulary Expansion": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Emotionally Descriptive Language|Contextual Language Usage": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Emotionally Expressive Storytelling|Conveying emotions through narrative and stories.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Emotionally Expressive Storytelling|Emotional Narration Techniques": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Emotionally Expressive Storytelling|Emotional Engagement Strategies": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Facial Expression Recognition|Understanding and using facial expressions to convey emotions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Facial Expression Recognition|Micro-Expressions Analysis": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Facial Expression Recognition|Macro-Expressions Differentiation": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Gestural Emotional Communication|Using gestures to express emotions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Gestural Emotional Communication|Cultural Nuance in Gestures": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Gestural Emotional Communication|Gesture Recognition Training": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Perspective Taking|The ability to adopt the viewpoint of another person.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Perspective Taking|Role-Playing Exercises": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Perspective Taking|Analytical Perspective Shifts": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Theory of Mind|Understanding that others have thoughts and emotions different from one's own.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Theory of Mind|Mind-Reading Exercises": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Theory of Mind|Social Scenario Analysis": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Emotional Matching|Feeling emotions that are similar to those of another person.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Emotional Matching|Emotional Synchrony Development": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Emotional Matching|Sympathetic Engagement": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Compassionate Response|Acting on feelings of care and concern for another's emotional state.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Compassionate Response|Compassion Training Programs": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Compassionate Response|Proactive Emotional Support": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Delay of Gratification|The ability to wait in order to obtain something more rewarding later.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Delay of Gratification|Patience Building Exercises": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Delay of Gratification|Deferred Reward Strategies": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Impulse Delay Techniques|Strategies to delay immediate emotional or behavioral reactions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Impulse Delay Techniques|Breathing Techniques": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Impulse Delay Techniques|Cognitive Reappraisal": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Emotional Resilience|The capacity to recover quickly from emotional difficulties.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Emotional Resilience|Resilience Strengthening Exercises": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Emotional Resilience|Stress Recovery Methods": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Coping with Emotional Stress|Techniques to manage emotional stress and discomfort.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Coping with Emotional Stress|Mindfulness-Based Stress Reduction": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Coping with Emotional Stress|Problem-Solving Therapy": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Root Cause Analysis|Identifying underlying causes of emotional reactions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Root Cause Analysis|Trigger Mapping": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Root Cause Analysis|Pattern Recognition": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Predictive Emotional Understanding|Anticipating emotional reactions based on past experiences.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Predictive Emotional Understanding|Emotional Forecasting": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Predictive Emotional Understanding|Scenario Planning": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Adaptive Coping Strategies|Use of flexible and positive approaches to handle emotional challenges.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Adaptive Coping Strategies|Cognitive Behavioral Adjustments": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Adaptive Coping Strategies|Emotion Regulation Skill Building": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Maladaptive Coping Recognition|Identifying and avoiding unhelpful coping methods.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Maladaptive Coping Recognition|Negative Pattern Identification": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Maladaptive Coping Recognition|Behavioral Modification Techniques": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|First-Order Theory of Mind|The capacity to understand others' thoughts, beliefs, and emotions.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|First-Order Theory of Mind|False-Belief Understanding": [
+        "Recognizing that others can hold beliefs that are untrue or different from reality.",
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|First-Order Theory of Mind|Desire-Emotion Link": [
+        "Understanding how desires influence emotions in oneself and others.",
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|Second-Order Theory of Mind|Managing emotions that arise from personal desires.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|Second-Order Theory of Mind|Complex Social Inference": [
+        "Making inferences about multiple interacting mental states.",
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|Second-Order Theory of Mind|Perspective-Taking Flexibility": [
+        "Adjusting one's perspective-taking in dynamic social scenarios.",
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Facial Expression Recognition|Understanding and using facial expressions to convey emotions.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Facial Expression Recognition|Micro-Expression Analysis": [
+        "nan",
+        "The skill of identifying and interpreting emotions in others based on facial expressions."
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Facial Expression Recognition|Emotion-Context Matching": [
+        "Training to improve the speed and accuracy of micro-expression recognition.",
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Body Language Interpretation|Relating facial expressions to contextual emotional scenarios.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Body Language Interpretation|Gesture-Decoding": [
+        "nan",
+        "Understanding and interpreting non-verbal cues conveyed through body movements and posture."
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Body Language Interpretation|Posture Analysis": [
+        "Understanding gestures specific to different cultural contexts.",
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Cognitive Empathy|Understanding the perspective and emotions of others.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Cognitive Empathy|Perspective Integration": [
+        "nan",
+        "The ability to understand and share the feelings of others."
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Cognitive Empathy|Empathetic Judgement": [
+        "Synthesizing different viewpoints into a coherent understanding.",
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Affective Empathy|Sharing and responding to the emotional experiences of others.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Affective Empathy|Emotional Resonance": [
+        "Evaluating situations from an empathic perspective.",
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Affective Empathy|Empathetic Concern": [
+        "nan",
+        "The ability to respond with an appropriate emotion to another's mental states."
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Reliability Perception|Achieving emotional synchrony with others during interactions.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Reliability Perception|Consistency Evaluation": [
+        "Acting to support and comfort others driven by empathy.",
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Reliability Perception|Integrity Recognition": [
+        "Assessing and recognizing the dependability of others.",
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Emotional Bonding|Judging others based on consistent behavior over time.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Emotional Bonding|Attachment Security": [
+        "Identifying honesty and adherence to moral principles.",
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Emotional Bonding|Interpersonal Warmth": [
+        "nan",
+        "Creating a shared sense of connection and attachment with others."
+    ],
+    "Social Interaction|Collaboration|Teamwork|Role Identification|Exhibiting kindness and warmth in social interactions.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Teamwork|Role Identification|Role Adaptability": [
+        "nan",
+        "The skill of working effectively and cooperatively with others to achieve common goals."
+    ],
+    "Social Interaction|Collaboration|Teamwork|Role Identification|Role Competency": [
+        "nan",
+        "Understanding and fulfilling one's role within a team setting."
+    ],
+    "Social Interaction|Collaboration|Teamwork|Goal Alignment|Adjusting to different roles and responsibilities as needed.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Teamwork|Goal Alignment|Objective Clarification": [
+        "Demonstrating skill and expertise within assigned roles.",
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Teamwork|Goal Alignment|Priority Setting": [
+        "Ensuring individual and group objectives are in harmony.",
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Negotiation|Conflict Resolution|Workshops to promote understanding and clarity of team goals.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Negotiation|Conflict Resolution|Active Listening": [
+        "nan",
+        "Assessing and establishing strategic priorities within teams."
+    ],
+    "Social Interaction|Collaboration|Negotiation|Conflict Resolution|Solution-Oriented Dialogue": [
+        "nan",
+        "The ability to resolve disagreements in a constructive manner."
+    ],
+    "Social Interaction|Collaboration|Negotiation|Compromise Building|Carefully listening to understand others' perspectives during conflict.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Negotiation|Compromise Building|Mutual Gains Approach": [
+        "nan",
+        "Focusing discussions on actionable solutions."
+    ],
+    "Social Interaction|Collaboration|Negotiation|Compromise Building|Boundary Setting": [
+        "The skill of finding a middle ground that satisfies different parties.",
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Conversation Skills|Defining acceptable limits and conditions in negotiations.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Conversation Skills|Turn-Taking": [
+        "The use of verbal and non-verbal communication methods to engage in social contexts effectively and appropriately.",
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Conversation Skills|Clarification Requests": [
+        "nan",
+        "The ability to effectively exchange ideas and information verbally."
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Public Speaking|Managing the flow of conversation by taking turns speaking.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Public Speaking|Audience Adaptation": [
+        "nan",
+        "Seeking clarification to ensure understanding in communication."
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Public Speaking|Speech Structuring": [
+        "The skill of speaking in front of an audience in an engaging and coherent manner.",
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Gesture Use|Methods to engage audience effectively during speeches.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Gesture Use|Expressive Gestures": [
+        "nan",
+        "Strategies for constructing narratives within speeches."
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Gesture Use|Regulatory Gestures": [
+        "The ability to use hand and body movements to communicate effectively.",
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Eye Contact|Using gestures to enhance and emphasize speech.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Eye Contact|Gaze Synchrony": [
+        "nan",
+        "Gestures used to control and coordinate conversation flow."
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Eye Contact|Gaze Aversion": [
+        "The use of eye movements to convey information and regulate interaction.",
+        "nan"
+    ],
+    "Communication and Language|Language Comprehension|Vocabulary Comprehension|Semantic Networks|Skills for indicating emotions or deception through gaze behavior.": [
+        "nan"
+    ],
+    "Communication and Language|Language Comprehension|Vocabulary Comprehension|Semantic Networks|Conceptual Grouping": [
+        "nan",
+        "Understanding spoken and written language, including vocabulary and grammar."
+    ],
+    "Communication and Language|Language Comprehension|Grammar Comprehension|Morphological Awareness|Understanding how words are related and grouped according to meaning.": [
+        "nan"
+    ],
+    "Communication and Language|Language Comprehension|Grammar Comprehension|Morphological Awareness|Suffixation Patterns": [
+        "nan",
+        "Recognizing hierarchical relationships between general and specific words."
+    ],
+    "Communication and Language|Expressive Language|Speech Production|Phonological Skills|Understanding and using the smallest units of meaning in a language, such as root words, prefixes, and suffixes.": [
+        "nan"
+    ],
+    "Communication and Language|Expressive Language|Speech Production|Phonological Skills|Phonemic Awareness": [
+        "Understanding the use and meaning of suffixes in word formation.",
+        "nan"
+    ],
+    "Communication and Language|Expressive Language|Written Expression|Spelling|The ability to express thoughts, needs, and ideas through speech, writing, or other forms of communication.": [
+        "nan"
+    ],
+    "Communication and Language|Expressive Language|Written Expression|Spelling|Orthographic Processing": [
+        "nan",
+        "The ability to use and manipulate sounds in words."
+    ],
+    "Communication and Language|Nonverbal Communication|Gestural Communication|Sign Language Usage|The ability to accurately sequence letters to form words.": [
+        "nan"
+    ],
+    "Communication and Language|Nonverbal Communication|Gestural Communication|Sign Language Usage|Fingerspelling Proficiency": [
+        "nan"
+    ],
+    "Communication and Language|Nonverbal Communication|Facial Expressions|Microexpressions Recognition|Use of gestures, facial expressions, and body language to communicate without words.": [
+        "nan"
+    ],
+    "Communication and Language|Nonverbal Communication|Facial Expressions|Microexpressions Recognition|Emotional Valence Detection": [
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|Conversational Skills|Active Listening|Determining the most important goals for the team.": [
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|Conversational Skills|Active Listening|Empathic Listening": [
+        "The ability to detect brief, involuntary facial expressions of emotion.",
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|Understanding Sarcasm and Humor|Metaphor and Idiom Comprehension|The use of language in social contexts, understanding and following social rules of communication.": [
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|Understanding Sarcasm and Humor|Metaphor and Idiom Comprehension|Proverbial Understanding": [
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Listening Comprehension|Auditory Memory|Engaging attentively with speakers to understand their message fully.": [
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Listening Comprehension|Auditory Memory|Sequential Auditory Memory": [
+        "The ability to accurately reflect the speaker's feelings in conversation.",
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Reading Comprehension|Inferential Reasoning|Understanding figurative expressions and their meanings in context.": [
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Reading Comprehension|Inferential Reasoning|Contextual Inference": [
+        "The ability to process and understand information received, including listening and reading comprehension.",
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|Goal Setting|Establishing objectives and determining steps to achieve them.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|Goal Setting|Strategic Planning": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|Goal Setting|Hierarchy of Goals": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|Persistence|The ability to make logical conclusions and predictions based on text.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|Persistence|Resilience to Setbacks": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|Persistence|Concentration": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Stress Tolerance|The ability to regulate emotions, thoughts, and behaviors in the face of temptations and impulses.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Stress Tolerance|Acute Stress Management": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Stress Tolerance|Chronic Stress Resilience": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Emotional Resilience|The capacity to recover quickly from emotional difficulties.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Emotional Resilience|Emotional Recovery": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Emotional Resilience|Optimism": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|Planning|The ability to create a roadmap to reach a goal or complete a task efficiently.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|Planning|Scenario Analysis": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|Planning|Resource Allocation": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|Patience|Maintaining focused attention on a particular task or goal over time.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|Patience|Long-term Patience": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|Patience|Immediate Patience": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Selective Attention|The ability to focus on relevant stimuli while ignoring irrelevant information.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Selective Attention|Sensory Filtering": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Selective Attention|Focused Listening": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Thought Suppression|The speed and efficiency with which one returns to a stable emotional state after disruption.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Thought Suppression|Rumination Control": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Thought Suppression|Mindfulness Practice": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Role Understanding|Evaluating potential future events to better craft responses within plans.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Role Understanding|Social Role Application": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Role Understanding|Contextual Behavior Adjustment": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Etiquette|Sustaining calm and positivity while waiting for outcomes over extended periods.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Etiquette|Politeness Strategies": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Etiquette|Cultural Etiquette Adaptation": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Team Participation|Tuning out unnecessary sensory stimuli to maintain concentration.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Team Participation|Task Sharing": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Team Participation|Collaborative Ideation": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Conflict Resolution|Workshops to promote understanding and clarity of team goals.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Conflict Resolution|Mediation Skills": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Conflict Resolution|Negotiation Tactics": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Self-Monitoring|Following societal and cultural expectations and rules in various contexts.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Self-Monitoring|Emotional Diary Keeping": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Self-Monitoring|Real-time Emotional Feedback": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Emotional Insight|Understanding the origins and implications of one's emotional responses.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Emotional Insight|Trigger Identification": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Emotional Insight|Causal Analysis": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Adaptability|Adjusting behavior to match the cultural norms in cross-cultural exchanges.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Adaptability|Regulatory Strategy Selection": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Adaptability|Dynamic Behavioral Adjustment": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Mood Adjustment|Distributing responsibilities and roles among group members effectively.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Mood Adjustment|Mood Elevation Techniques": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Mood Adjustment|Situational Mood Alignment": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Strength|Muscular Strength|Recognizing and understanding one\u2019s own emotions.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Strength|Muscular Strength|Isometric Strength": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Strength|Muscular Strength|Isotonic Strength": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Endurance|Cardiovascular Endurance|Understanding the underlying causes and triggers of emotional responses.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Endurance|Cardiovascular Endurance|VO2 Max": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Endurance|Muscular Endurance|Analyzing the underlying reasons for emotional reactions to better anticipate future responses.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Endurance|Muscular Endurance|Static Endurance": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Endurance|Muscular Endurance|Dynamic Endurance": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Flexibility|Static Flexibility|Adjusting actions and emotional outputs as situations evolve.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Flexibility|Static Flexibility|Static Stretching": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Flexibility|Dynamic Flexibility|Utilizing specific techniques to lift mood and enhance emotional state.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Flexibility|Dynamic Flexibility|Ballistic Stretching": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Cardiovascular Health|Heart Health|Refers to the overall state of physical health, including strength, endurance, flexibility, and cardiovascular health.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Cardiovascular Health|Heart Health|Heart Rate Variability": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Cardiovascular Health|Lung Capacity|The maximum amount of force a muscle can produce in a single effort.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Cardiovascular Health|Lung Capacity|Vital Capacity": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Fine Motor Skills|Hand-Eye Coordination|The ability to synchronize visual input with motor actions.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Fine Motor Skills|Hand-Eye Coordination|Visual-Motor Integration": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Fine Motor Skills|Dexterity|The ability of the heart and lungs to work together to provide the needed oxygen and fuel to the body during sustained workloads.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Fine Motor Skills|Dexterity|Finger Dexterity": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Gross Motor Skills|Balance|The ability to hold a position or to keep muscles contracted over time without movement.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Gross Motor Skills|Balance|Static Balance": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Gross Motor Skills|Balance|Dynamic Balance": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Macronutrient Balance|Carbohydrate Intake|The ability to perform dynamic movements within the full range of motion in the joints.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Macronutrient Balance|Carbohydrate Intake|Simple Carbohydrates": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Macronutrient Balance|Carbohydrate Intake|Complex Carbohydrates": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Micronutrient Intake|Vitamin Intake|The variation in time between each heartbeat, indicating autonomic nervous system balance.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Micronutrient Intake|Vitamin Intake|Water-Soluble Vitamins": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Micronutrient Intake|Mineral Intake|The maximum amount of air a person can expel from the lungs after a maximum inhalation.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Micronutrient Intake|Mineral Intake|Trace Minerals": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Sleep Quality|REM Sleep|Coordination of visual perceptual skills with motor skills.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Sleep Quality|REM Sleep|REM Latency": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Sleep Quantity|Sleep Duration|Skills involving large muscle groups for activities such as walking, running, and jumping.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Sleep Quantity|Sleep Duration|Napping": [
+        "nan"
+    ],
+    "Physical Health and Activity|Exercise and Physical Activity|Aerobic Activities|Walking|Focuses on the dietary habits and nutritional intake that influence physical health and function.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Exercise and Physical Activity|Anaerobic Activities|Weightlifting|The consumption of carbohydrates, which provide energy for the body.": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Vigilance|Responsiveness to Rare Events|The consumption of vitamins and minerals necessary for body function.": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Vigilance|Responsiveness to Rare Events|Signal Detection Accuracy": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Vigilance|Responsiveness to Rare Events|Alertness Threshold": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Fatigue Resistance|Stress Resiliency|Minerals required by the body in small amounts, such as iron and zinc.": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Fatigue Resistance|Endurance Training Capacity|Pertains to the quality and quantity of sleep and rest, impacting overall physical health and recovery.": [
+        "nan"
+    ],
+    "Attention and Perception|Concentration|Distraction Control|Internal Interference Management|Rapid Eye Movement sleep, the sleep stage where dreaming occurs and is crucial for cognitive functions and mood regulation.": [
+        "nan"
+    ],
+    "Attention and Perception|Concentration|Distraction Control|External Noise Filtering|The duration of time it takes to reach REM sleep after falling asleep.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Self-feeding Skills|Utensil Usage|Intense, short bursts of activity where the body's demand for oxygen exceeds the oxygen supply available.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Self-feeding Skills|Portion Control|Resistance-based exercise for building strength and muscle mass.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Personal Hygiene Management|Bathing and Showering Skills|The ability to maintain consistent attention to a task or stimulus over a period of time.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Personal Hygiene Management|Bathing and Showering Skills|Water Temperature Safety": [
+        "nan",
+        "The ability to detect and respond to infrequent but critical events in the environment."
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Personal Hygiene Management|Oral Hygiene|The ability to correctly identify important signals or events from a background of noise or distractions.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Personal Hygiene Management|Oral Hygiene|Flossing Technique": [
+        "The ability to maintain focus and productivity over extended periods, despite potential fatigue.",
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Dressing Skills|Clothing Selection|The extent to which cognitive endurance can be improved through training and experience.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Dressing Skills|Clothing Selection|Seasonal Clothing Choices": [
+        "nan",
+        "The ability to minimize internal and external distractions to maintain focus on a task."
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Dressing Skills|Fastener Management|The ability to manage internal thoughts and emotions that could disrupt focus on a task.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Dressing Skills|Fastener Management|Adaptive Fasteners": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Grooming Skills|Hair Care|The capacity to maintain focus and performance under varying degrees of mental workload.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Grooming Skills|Hair Care|Protective Hairstyles": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Grooming Skills|Nail Care|Adaptive Functioning and Life Skills refer to the practical, social, and conceptual skills that individuals use to function in their everyday lives. These skills enable individuals to meet the demands of daily living, including managing personal care, maintaining a household, navigating a community, engaging in employment, and fulfilling social roles.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Grooming Skills|Nail Care|Injury Prevention": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Cleaning and Organizing|Task Scheduling|Skills related to determining appropriate portion sizes for nutritional balance and personal dietary needs.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Cleaning and Organizing|Task Scheduling|Digital Calendar Usage": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Cleaning and Organizing|Decluttering Skills|The ability to independently perform bathing routines, ensuring cleanliness and safety.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Cleaning and Organizing|Decluttering Skills|Sentimental Item Management": [
+        "nan",
+        "Methods and skills for accurately checking and adjusting water temperature before bathing."
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Budgeting and Financial Management|Expense Tracking|The ability to effectively use dental floss for thorough cleaning between teeth.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Budgeting and Financial Management|Expense Tracking|Expense Categorization": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Saving Strategies|Goal-Based Saving|Skills related to choosing appropriate clothing based on weather, occasion, and personal preference.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Autonomy|Self-Determination|Using alternative fasteners for individuals with dexterity or coordination challenges.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Autonomy|Volitional Engagement|Skills related to personal grooming, such as hair care and nail care.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Mastery|Skill Development|Creating hairstyles that minimize damage and promote hair health and growth.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Mastery|Challenge Seeking|Skills related to maintaining clean and trimmed nails.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Mastery|Challenge Seeking|Flow Experience": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Mastery|Challenge Seeking|Growth Mindset": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Extrinsic Motivation|External Regulation|Compliance|Using digital tools to manage cleaning schedules efficiently.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Extrinsic Motivation|Introjected Regulation|Ego Involvement|The skill to decide on keeping or discarding items based on sentimental value.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Extrinsic Motivation|Introjected Regulation|Ego Involvement|Perfectionism": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Cognitive Regulation|Metacognition|Techniques for effectively categorizing expenses to track spending habits.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Cognitive Regulation|Metacognition|Self-Monitoring": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Cognitive Regulation|Metacognition|Cognitive Flexibility": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Emotional Regulation in Goal Pursuit|Positive Reappraisal|Establishing and maintaining savings goals for short- and long-term needs.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Emotional Regulation in Goal Pursuit|Positive Reappraisal|Mood Maintenance": [
+        "The drive to engage in activities for their own sake, deriving satisfaction from the activity itself rather than from external rewards.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Resilience|Adaptive Coping|The drive stemming from a sense of control over one's life and actions.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Resilience|Adaptive Coping|Problem-Focused Coping": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Resilience|Adaptive Coping|Emotion-Focused Coping": [
+        "The drive to develop competence and understanding in areas of interest, reflecting a desire for growth and personal development.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Delayed Gratification|Future Orientation|The preference for engaging in tasks that provide a moderate level of difficulty to stimulate learning and growth.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Delayed Gratification|Future Orientation|Longitudinal Planning": [
+        "The belief that abilities and intelligence can be developed through effort and dedication.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Short-term Planning|Task Prioritization|Behavior motivated by external demands or rewards.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Short-term Planning|Task Prioritization|Time Management": [
+        "Behavior driven by internal pressures, where individuals engage in actions driven by self-imposed pressures and internal rewards.",
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Long-term Planning|Strategic Visioning|The pursuit of flawlessness, often driven by internal standards and pressures.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Long-term Planning|Strategic Visioning|Scenario Planning": [
+        "The ability to manage one's emotions, thoughts, and behaviors in pursuit of long-term goals.",
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Global Self-Esteem|Stable Self-Esteem|The ability to adapt thinking and behavior in response to changing goals and environmental stimuli.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Global Self-Esteem|Variable Self-Esteem|The ability to modulate emotional responses during the pursuit of goals.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Global Self-Esteem|Variable Self-Esteem|Momentary Self-Esteem": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Global Self-Esteem|Variable Self-Esteem|Contextual Self-Esteem": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Academic Self-Esteem|The capacity to maintain action in the face of obstacles, sustaining effort over time to achieve a goal.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Academic Self-Esteem|Subject-Specific Self-Esteem": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Academic Self-Esteem|Peer Comparison Self-Esteem": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Social Self-Esteem|Strategies aimed at tackling the problem directly to mitigate its impact.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Social Self-Esteem|Social Anxiety Influence": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Social Self-Esteem|Peer Acceptance Self-Esteem": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|General Self-Efficacy|Problem-Solving Self-Efficacy|In-depth planning that accounts for long-term timelines and future contingencies.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|General Self-Efficacy|Problem-Solving Self-Efficacy|Logical Reasoning Self-Efficacy": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|General Self-Efficacy|Problem-Solving Self-Efficacy|Creative Thinking Self-Efficacy": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|Health-Related Self-Efficacy|The ability to organize tasks in order of importance to effectively achieve short-term goals.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|Health-Related Self-Efficacy|Physical Activity Self-Efficacy": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|Health-Related Self-Efficacy|Dietary Self-Efficacy": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|Communication Self-Efficacy|The ability to set and pursue goals that require extended effort and time to achieve.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|Communication Self-Efficacy|Public Speaking Self-Efficacy": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|Communication Self-Efficacy|Interpersonal Communication Self-Efficacy": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Moral Values|Altruistic Values|Reflects a person's overall subjective emotional evaluation of their own worth.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Moral Values|Justice Values|The overall value one places on themselves as a person.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Moral Values|Justice Values|Legal Justice Values": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Moral Values|Justice Values|Distributive Justice Values": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Aesthetic Values|Artistic Preferences|Shifts in self-esteem based on different environments or situations.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Aesthetic Values|Natural Appreciation Values|Evaluation of one's worth in specific areas such as academics, athletics, or social skills.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Aesthetic Values|Natural Appreciation Values|Environmental Conservation Values": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Aesthetic Values|Natural Appreciation Values|Wilderness Experience Values": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Vocational Exploration|Skill Development|Creating hairstyles that minimize damage and promote hair health and growth.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Vocational Exploration|Skill Development|Technical Skill Acquisition": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Vocational Exploration|Skill Development|Soft Skill Enhancement": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Career Values Exploration|Work-Life Balance Values|Belief in one's overall ability to succeed in various tasks and challenges.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Career Values Exploration|Career Advancement Values|Confidence in one's ability to solve problems and overcome obstacles.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Relational Exploration|Family Role Exploration|Parental Role Understanding|Belief in one's ability to succeed in a specific task or activity.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Relational Exploration|Family Role Exploration|Sibling Role Dynamics|Confidence in managing one's health-related behaviors and actions.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Phonological Loop|Phonemic Awareness|The ability to recognize and manipulate phonemes in spoken words.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Phonological Loop|Phonemic Awareness|Phoneme Matching": [
+        "The ability to identify words that begin or end with the same sound."
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Phonological Loop|Verbal Rehearsal|The practice of repeating a word or phrase to keep it in working memory.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Phonological Loop|Verbal Rehearsal|Articulatory Suppression": [
+        "A process that disrupts verbal rehearsal by repeating irrelevant speech sounds."
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Visuospatial Sketchpad|Spatial Recall|The ability to remember visual and spatial information.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Visuospatial Sketchpad|Spatial Recall|Path Memory": [
+        "Recall of spatial routes and pathways."
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Visuospatial Sketchpad|Imagery Maintenance|The process of retaining mental images in the mind.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Short-term Memory|Visuospatial Sketchpad|Imagery Maintenance|Image Rotation": [
+        "The ability to mentally rotate images to different orientations."
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Declarative Memory|Semantic Memory|The memory of facts and general knowledge.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Declarative Memory|Semantic Memory|Concept Formation": [
+        "The process of categorizing information based on shared properties."
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Declarative Memory|Episodic Memory|The memory of personal experiences and specific events in time.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Declarative Memory|Episodic Memory|Autobiographical Memory": [
+        "The memory of one's own specific life events and experiences."
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Procedural Memory|Motor Skills|Memories of actions and sequences needed to perform tasks.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Procedural Memory|Motor Skills|Gross Motor Coordination": [
+        "The ability to control large muscle movements."
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Procedural Memory|Cognitive Skills|Memory of strategies and problem-solving methods.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Long-term Memory|Procedural Memory|Cognitive Skills|Heuristics": [
+        "Simple, efficient rules used to make decisions or problem-solve."
+    ],
+    "Cognitive Function|Memory|Working Memory|Central Executive Function|Task Switching|The ability to shift attention between different tasks or mental processes.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Working Memory|Central Executive Function|Task Switching|Cognitive Shifting": [
+        "Changing mental goals or tasks efficiently based on new information."
+    ],
+    "Cognitive Function|Memory|Working Memory|Central Executive Function|Updating and Monitoring|The process of reviewing and revising information in working memory.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Working Memory|Central Executive Function|Updating and Monitoring|Dynamic Memory Adaptation": [
+        "Adjusting strategies based on changes in memory content or task requirements."
+    ],
+    "Cognitive Function|Memory|Working Memory|Episodic Buffer|Binding|The process of combining various pieces of information to form a cohesive memory.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Working Memory|Episodic Buffer|Binding|Feature Integration": [
+        "The process of integrating multiple sensory inputs into a single perception."
+    ],
+    "Cognitive Function|Memory|Working Memory|Episodic Buffer|Integration|The ability to unite disparate pieces of information into a single representation.": [
+        "nan"
+    ],
+    "Cognitive Function|Memory|Working Memory|Episodic Buffer|Integration|Cross-Modal Integration": [
+        "The ability to combine information from different sensory modalities."
+    ],
+    "Cognitive Function|Attention|Sustained Attention|Cognitive Endurance|Auditory Vigilance|Maintaining focus on auditory stimuli over prolonged periods.": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Selective Attention|Auditory Selective Attention|Speech-In-Noise Differentiation|The ability to discern speech from background noise.": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Selective Attention|Visual Selective Attention|Color-Cue Attention|Focusing on specific colors in a visual field.": [
+        "nan"
+    ],
+    "Cognitive Function|Attention|Divided Attention|Multitasking|Simultaneous Processing|The ability to handle different tasks or processes at the same time.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Inhibition Control|Response Inhibition|Emotional Inhibition|The ability to control or modify emotional responses.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Cognitive Flexibility|Set Shifting|Task Reconfiguration|Adjusting mental processes to respond to a new task rapidly.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Planning|Goal Setting|Milestone Mapping|Identifying key stages or checkpoints towards achieving a goal.": [
+        "nan"
+    ],
+    "Cognitive Function|Executive Functioning|Problem-Solving|Strategic Thinking|Analytical Reasoning|Breaking down complex information into components to solve problems.": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Visual Perception|Depth Perception|Stereopsis|Perceiving depth by integrating visual information from both eyes.": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Auditory Perception|Sound Localization|Binaural Perception|Using auditory input from both ears to locate sound sources.": [
+        "nan"
+    ],
+    "Cognitive Function|Perception|Tactile Perception|Texture Discrimination|Surface Roughness Perception|The ability to distinguish between smooth and rough textures.": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Receptive Language|Listening Comprehension|Inferential Listening|Understanding implicit meaning and nuances in spoken content.": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Expressive Language|Narrative Skills|Story Structuring|Organizing words and ideas into coherent and engaging narratives.": [
+        "nan"
+    ],
+    "Cognitive Function|Language Processing|Phonological Processing|Phonological Awareness|Rhyme Generation|Creating words that rhyme in a given context.": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|Spatial Orientation|Directional Sense|Cardinal Directions|Understanding and using the points of a compass for navigation.": [
+        "nan"
+    ],
+    "Cognitive Function|Visual-Spatial Skills|Visual-Motor Integration|Hand-Eye Coordination|Fine Motor Precision|The accuracy and delicacy of manual tasks requiring careful coordination between vision and touch.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|Real-Time Emotional Tracking|Mindful Emotional Recognition|Using mindfulness techniques to remain aware of emotions as they arise.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|Real-Time Emotional Tracking|Emotion Logging|Documenting emotional states and changes over time for better awareness.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|Retrospective Emotional Evaluation|Narrative Review|Reflecting on past emotional experiences to understand emotional trends.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Emotional Self-Monitoring|Retrospective Emotional Evaluation|Comparative Emotional Analysis|Contrasting current and previous emotional experiences to derive insights.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Bodily Sensation Identification|Localized Sensation Mapping|Pinpointing specific physical locations associated with emotional sensations.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Bodily Sensation Identification|Intensity and Duration Tracking|Observing the strength and length of bodily sensations related to emotions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Emotional-Bodily Synchrony|Temporal Synchronization|Timing and predicting bodily responses to emotional stimuli.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Awareness|Interoceptive Awareness|Emotional-Bodily Synchrony|Emotional-Corporal Feedback Loops|Recognizing feedback between emotions and bodily changes.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Emotionally Descriptive Language|Emotion Vocabulary Expansion|Building a broader set of words for emotional expressions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Emotionally Descriptive Language|Contextual Language Usage|Adapting emotional language to suit different social scenarios.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Emotionally Expressive Storytelling|Emotional Narration Techniques|Using storytelling methods to effectively communicate emotions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Verbal Expression|Emotionally Expressive Storytelling|Emotional Engagement Strategies|Techniques to captivate an audience with emotional stories.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Facial Expression Recognition|Micro-Expressions Analysis|Detecting and interpreting brief, involuntary facial expressions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Facial Expression Recognition|Macro-Expressions Differentiation|Distinguishing between overt facial expressions for different emotions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Gestural Emotional Communication|Cultural Nuance in Gestures|Understanding cultural differences in gestural emotion expression.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Expression|Non-Verbal Expression|Gestural Emotional Communication|Gesture Recognition Training|Improving skills in identifying emotional gestures.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Perspective Taking|Role-Playing Exercises|Participating in activities that promote understanding others' perspectives.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Perspective Taking|Analytical Perspective Shifts|Methodically changing viewpoints to enhance empathy.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Theory of Mind|Mind-Reading Exercises|Practice in guessing others' emotions and thoughts.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Cognitive Empathy|Theory of Mind|Social Scenario Analysis|Studying various social situations to predict emotional responses.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Emotional Matching|Emotional Synchrony Development|Practicing aligning one's emotional state with others.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Emotional Matching|Sympathetic Engagement|Engaging in activities that nurture emotional alignment.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Compassionate Response|Compassion Training Programs|Participating in structured programs to enhance compassion.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Understanding of Others|Affective Empathy|Compassionate Response|Proactive Emotional Support|Offering emotional help and support instinctively.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Delay of Gratification|Patience Building Exercises|Activities designed to enhance one's ability to wait.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Delay of Gratification|Deferred Reward Strategies|Techniques to manage desires for immediate rewards.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Impulse Delay Techniques|Breathing Techniques|Using breath control to manage impulses.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Impulse Control|Impulse Delay Techniques|Cognitive Reappraisal|Reframing thoughts to alter emotional responses.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Emotional Resilience|Resilience Strengthening Exercises|Activities aimed at boosting emotional resilience.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Emotional Resilience|Stress Recovery Methods|Techniques to facilitate recovery from stress.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Coping with Emotional Stress|Mindfulness-Based Stress Reduction|Using mindfulness practices to alleviate stress.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Control|Distress Tolerance|Coping with Emotional Stress|Problem-Solving Therapy|Engaging in therapy to address emotional stressors.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Root Cause Analysis|Trigger Mapping|Identifying specific causes that prompt emotional responses.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Root Cause Analysis|Pattern Recognition|Identifying recurring emotional triggers and behaviors.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Predictive Emotional Understanding|Emotional Forecasting|Predicting future emotional states based on historical data.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotional Insight|Predictive Emotional Understanding|Scenario Planning|Preparing for potential emotional reactions in various scenarios.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Adaptive Coping Strategies|Cognitive Behavioral Adjustments|Techniques to change thought patterns influencing emotions.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Adaptive Coping Strategies|Emotion Regulation Skill Building|Developing skills to enhance emotion regulation.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Maladaptive Coping Recognition|Negative Pattern Identification|Spotting detrimental coping behaviors.": [
+        "nan"
+    ],
+    "Emotion Regulation|Emotional Reflectivity|Emotion-Focused Coping|Maladaptive Coping Recognition|Behavioral Modification Techniques|Methods to change counterproductive coping tactics.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|First-Order Theory of Mind|False-Belief Understanding|Understanding that others have beliefs, desires, and intentions that are different from one's own.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|First-Order Theory of Mind|False-Belief Understanding|Advanced False Belief Tasks": [
+        "Recognizing that others can hold beliefs that are untrue or different from reality."
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|First-Order Theory of Mind|Desire-Emotion Link|Understanding complex scenarios involving multiple false beliefs.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|First-Order Theory of Mind|Desire-Emotion Link|Emotion Regulation in Desire Contexts": [
+        "Understanding how desires influence emotions in oneself and others."
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|Second-Order Theory of Mind|Complex Social Inference|The ability to understand what one person thinks about another person's thoughts.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|Second-Order Theory of Mind|Complex Social Inference|Meta-Representation Skills": [
+        "Making inferences about multiple interacting mental states."
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|Second-Order Theory of Mind|Perspective-Taking Flexibility|Representing and reflecting on others' mental representations.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Theory of Mind|Second-Order Theory of Mind|Perspective-Taking Flexibility|Dynamic Role Empathy": [
+        "Adjusting one's perspective-taking in dynamic social scenarios."
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Facial Expression Recognition|Micro-Expression Analysis|The ability to accurately decode and interpret social cues, such as body language and facial expressions.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Facial Expression Recognition|Micro-Expression Analysis|Rapid Recognition Training": [
+        "The skill of identifying and interpreting emotions in others based on facial expressions."
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Facial Expression Recognition|Emotion-Context Matching|Detecting and interpreting subtle facial expressions that occur briefly.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Facial Expression Recognition|Emotion-Context Matching|Contextual Emotion Decoding": [
+        "Training to improve the speed and accuracy of micro-expression recognition."
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Body Language Interpretation|Gesture-Decoding|Decoding emotions based on situational and environmental contexts.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Body Language Interpretation|Gesture-Decoding|Cultural Gesture Awareness": [
+        "Understanding and interpreting non-verbal cues conveyed through body movements and posture."
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Body Language Interpretation|Posture Analysis|Interpreting the meaning of specific gestures within communication.": [
+        "nan"
+    ],
+    "Social Interaction|Social Understanding|Social Perception|Body Language Interpretation|Posture Analysis|Postural Emotion Calibration": [
+        "Understanding gestures specific to different cultural contexts."
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Cognitive Empathy|Perspective Integration|The capacity to form and maintain healthy and meaningful relationships with others.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Cognitive Empathy|Perspective Integration|Interactive Perspective-Taking": [
+        "The ability to understand and share the feelings of others."
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Cognitive Empathy|Empathetic Judgement|The capacity to understand another's perspective or mental state.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Cognitive Empathy|Empathetic Judgement|Judgement Empathy Balance": [
+        "Synthesizing different viewpoints into a coherent understanding."
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Affective Empathy|Emotional Resonance|Engaging in discussions that promote mutual understanding and integration.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Affective Empathy|Emotional Resonance|Synchrony in Emotional Responses": [
+        "Evaluating situations from an empathic perspective."
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Affective Empathy|Empathetic Concern|Balancing objective judgement with empathetic understanding.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Empathy Development|Affective Empathy|Empathetic Concern|Compassionate Action": [
+        "The ability to respond with an appropriate emotion to another's mental states."
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Reliability Perception|Consistency Evaluation|Experiencing and expressing concern for others' well-being.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Reliability Perception|Consistency Evaluation|Temporal Consistency Analysis": [
+        "Acting to support and comfort others driven by empathy."
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Reliability Perception|Integrity Recognition|The process of building and maintaining trust in interpersonal relationships.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Reliability Perception|Integrity Recognition|Values and Integrity Alignment": [
+        "Assessing and recognizing the dependability of others."
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Emotional Bonding|Attachment Security|Analyzing behavior consistency across time periods.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Emotional Bonding|Attachment Security|Secure Attachment Behaviors": [
+        "Identifying honesty and adherence to moral principles."
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Emotional Bonding|Interpersonal Warmth|Aligning personal values with perceptions of integrity in others.": [
+        "nan"
+    ],
+    "Social Interaction|Relationship Building|Trust Establishment|Emotional Bonding|Interpersonal Warmth|Warmth Expression Techniques": [
+        "Creating a shared sense of connection and attachment with others."
+    ],
+    "Social Interaction|Collaboration|Teamwork|Role Identification|Role Adaptability|Techniques for expressing warmth and kindness effectively.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Teamwork|Role Identification|Role Adaptability|Cross-Functional Role Training": [
+        "The skill of working effectively and cooperatively with others to achieve common goals."
+    ],
+    "Social Interaction|Collaboration|Teamwork|Role Identification|Role Competency|The ability to work constructively within a group to achieve shared objectives.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Teamwork|Role Identification|Role Competency|Competency Enhancement": [
+        "Understanding and fulfilling one's role within a team setting."
+    ],
+    "Social Interaction|Collaboration|Teamwork|Goal Alignment|Objective Clarification|Training to perform various roles within a team.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Teamwork|Goal Alignment|Objective Clarification|Goal Clarity Workshops": [
+        "Demonstrating skill and expertise within assigned roles."
+    ],
+    "Social Interaction|Collaboration|Teamwork|Goal Alignment|Priority Setting|Improving skills specific to assigned roles.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Teamwork|Goal Alignment|Priority Setting|Strategic Priority Assessment": [
+        "Ensuring individual and group objectives are in harmony."
+    ],
+    "Social Interaction|Collaboration|Negotiation|Conflict Resolution|Active Listening|Determining the most important goals for the team.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Negotiation|Conflict Resolution|Active Listening|Reflective Listening Techniques": [
+        "Assessing and establishing strategic priorities within teams."
+    ],
+    "Social Interaction|Collaboration|Negotiation|Conflict Resolution|Solution-Oriented Dialogue|The process of reaching agreements through discussion and compromise.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Negotiation|Conflict Resolution|Solution-Oriented Dialogue|Solution Brainstorming Sessions": [
+        "The ability to resolve disagreements in a constructive manner."
+    ],
+    "Social Interaction|Collaboration|Negotiation|Compromise Building|Mutual Gains Approach|Techniques to reflect on and understand spoken information.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Negotiation|Compromise Building|Mutual Gains Approach|Win-Win Strategy Formulation": [
+        "Focusing discussions on actionable solutions."
+    ],
+    "Social Interaction|Collaboration|Negotiation|Compromise Building|Boundary Setting|Sessions dedicated to generating actionable solutions.": [
+        "nan"
+    ],
+    "Social Interaction|Collaboration|Negotiation|Compromise Building|Boundary Setting|Boundary Clarity Techniques": [
+        "The skill of finding a middle ground that satisfies different parties."
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Conversation Skills|Turn-Taking|Techniques for clearly defining and communicating negotiation boundaries.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Conversation Skills|Turn-Taking|Conversational Rhythm Synchronization": [
+        "The use of verbal and non-verbal communication methods to engage in social contexts effectively and appropriately."
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Conversation Skills|Clarification Requests|The use of spoken language to convey messages in social contexts.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Conversation Skills|Clarification Requests|Precision Questioning Skills": [
+        "The ability to effectively exchange ideas and information verbally."
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Public Speaking|Audience Adaptation|Aligning conversational timing with others.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Public Speaking|Audience Adaptation|Engagement Techniques": [
+        "Seeking clarification to ensure understanding in communication."
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Public Speaking|Speech Structuring|Skills for asking precise questions to clarify communication.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Verbal Communication|Public Speaking|Speech Structuring|Narrative Structuring Strategies": [
+        "The skill of speaking in front of an audience in an engaging and coherent manner."
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Gesture Use|Expressive Gestures|Organizing and sequencing information logically during speech.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Gesture Use|Expressive Gestures|Gesture Emphasis Techniques": [
+        "Strategies for constructing narratives within speeches."
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Gesture Use|Regulatory Gestures|The use of gestures, facial expressions, and body language in social interactions.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Gesture Use|Regulatory Gestures|Flow Control Methods": [
+        "The ability to use hand and body movements to communicate effectively."
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Eye Contact|Gaze Synchrony|Techniques for emphasizing points through gestures.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Eye Contact|Gaze Synchrony|Eye Contact Timing Techniques": [
+        "Gestures used to control and coordinate conversation flow."
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Eye Contact|Gaze Aversion|Methods to maintain conversational flow using gestures.": [
+        "nan"
+    ],
+    "Social Interaction|Social Communication|Non-Verbal Communication|Eye Contact|Gaze Aversion|Aversion Indication Skills": [
+        "The use of eye movements to convey information and regulate interaction."
+    ],
+    "Communication and Language|Language Comprehension|Vocabulary Comprehension|Semantic Networks|Conceptual Grouping|Subordinate and Superordinate Categorization": [
+        "Understanding spoken and written language, including vocabulary and grammar."
+    ],
+    "Communication and Language|Language Comprehension|Grammar Comprehension|Morphological Awareness|Suffixation Patterns|The ability to categorize words based on shared attributes or concepts.": [
+        "nan"
+    ],
+    "Communication and Language|Language Comprehension|Grammar Comprehension|Morphological Awareness|Suffixation Patterns|Inflectional Suffixes": [
+        "Recognizing hierarchical relationships between general and specific words."
+    ],
+    "Communication and Language|Expressive Language|Speech Production|Phonological Skills|Phonemic Awareness|The ability to recognize and manipulate phonemes in spoken words.": [
+        "nan"
+    ],
+    "Communication and Language|Expressive Language|Speech Production|Phonological Skills|Phonemic Awareness|Phoneme Manipulation": [
+        "Understanding the use and meaning of suffixes in word formation."
+    ],
+    "Communication and Language|Expressive Language|Written Expression|Spelling|Orthographic Processing|The ability to articulate sounds and words fluently.": [
+        "nan"
+    ],
+    "Communication and Language|Expressive Language|Written Expression|Spelling|Orthographic Processing|Visual Word Recognition": [
+        "The ability to use and manipulate sounds in words."
+    ],
+    "Communication and Language|Nonverbal Communication|Gestural Communication|Sign Language Usage|Fingerspelling Proficiency|The ability to recognize written words and patterns.": [
+        "nan"
+    ],
+    "Communication and Language|Nonverbal Communication|Facial Expressions|Microexpressions Recognition|Emotional Valence Detection|Using hand movements and gestures to convey messages.": [
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|Conversational Skills|Active Listening|Empathic Listening|Using facial movements to display emotions and reactions.": [
+        "nan"
+    ],
+    "Communication and Language|Pragmatic Language|Conversational Skills|Active Listening|Empathic Listening|Emotion Reflecting": [
+        "The ability to detect brief, involuntary facial expressions of emotion."
+    ],
+    "Communication and Language|Pragmatic Language|Understanding Sarcasm and Humor|Metaphor and Idiom Comprehension|Proverbial Understanding|The ability to manage conversations, including turn-taking and topic maintenance.": [
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Listening Comprehension|Auditory Memory|Sequential Auditory Memory|Understanding and responding to the emotions and feelings of a speaker.": [
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Listening Comprehension|Auditory Memory|Sequential Auditory Memory|Auditory Sequential Processing": [
+        "The ability to accurately reflect the speaker's feelings in conversation."
+    ],
+    "Communication and Language|Receptive Language|Reading Comprehension|Inferential Reasoning|Contextual Inference|Grasping the underlying messages in traditional sayings or proverbs.": [
+        "nan"
+    ],
+    "Communication and Language|Receptive Language|Reading Comprehension|Inferential Reasoning|Contextual Inference|Hypothetical Prediction": [
+        "The ability to process and understand information received, including listening and reading comprehension."
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|Goal Setting|Strategic Planning|Processing auditory input in a logical and ordered sequence.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|Goal Setting|Hierarchy of Goals|Understanding and interpreting written texts and materials.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|Persistence|Resilience to Setbacks|Using surrounding text to derive meaning or conclusions.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Goal Management|Persistence|Concentration|Forming predictions about text based on hypothetical scenarios.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Stress Tolerance|Acute Stress Management|The ability to set, maintain, and work towards personal goals in the face of external and internal pressures.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Stress Tolerance|Chronic Stress Resilience|The capacity to define realistic and clear objectives for personal achievement.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Emotional Resilience|Emotional Recovery|Formulating actionable plans to achieve specific long-term objectives.": [
+        "nan"
+    ],
+    "Behavioral Control|Self-Discipline|Emotional Stability|Emotional Resilience|Optimism|Organizing goals in terms of priority and importance to enhance focus and direction.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|Planning|Scenario Analysis|Sustaining effort and maintaining focus on objectives despite obstacles or difficulties.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|Planning|Resource Allocation|The ability to recover and maintain motivation after experiencing failures or delays.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|Patience|Long-term Patience|The capability to remain steady and withstand emotional disturbances while pursuing tasks.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Delay of Gratification|Patience|Immediate Patience|The capacity to endure stressful situations without negatively impacting focus or performance.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Selective Attention|Sensory Filtering|Handling long-term or repeated stress stimuli while maintaining functionality and well-being.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Selective Attention|Focused Listening|Ability to recover quickly from emotional upset or disappointment.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Thought Suppression|Rumination Control|Maintaining a positive outlook, contributing to quicker recovery from setbacks.": [
+        "nan"
+    ],
+    "Behavioral Control|Impulse Control|Cognitive Inhibition|Thought Suppression|Mindfulness Practice|The capacity to resist or delay an impulse, drive, or temptation to act.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Role Understanding|Social Role Application|Effectively distributing time and resources in order to maximize future outcomes.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Role Understanding|Contextual Behavior Adjustment|The ability to remain calm and composed while waiting for a desired outcome.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Etiquette|Politeness Strategies|Maintaining composure and reducing frustration in brief waiting periods.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Norm Adherence|Etiquette|Cultural Etiquette Adaptation|The ability to suppress irrelevant or distracting information when making decisions.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Team Participation|Task Sharing|Concentrating auditory attention solely on pertinent information.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Team Participation|Collaborative Ideation|The conscious effort to avoid specific thoughts or memories.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Conflict Resolution|Mediation Skills|Preventing repetitive dark or distressing thought cycles.": [
+        "nan"
+    ],
+    "Behavioral Control|Social Compliance|Cooperativeness|Conflict Resolution|Negotiation Tactics|Utilizing focused practices to minimize intrusive thoughts.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Self-Monitoring|Emotional Diary Keeping|Comprehending one's place within social or cultural structures and acting accordingly.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Self-Monitoring|Real-time Emotional Feedback|Actively fulfilling the responsibilities associated with one's role in society.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Emotional Insight|Trigger Identification|Adapting behavior to align with different social or situational expectations.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Awareness|Emotional Insight|Causal Analysis|Adhering to conventional manners and behaviors within social contexts.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Adaptability|Regulatory Strategy Selection|The ability to work effectively and harmoniously with others.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Adaptability|Dynamic Behavioral Adjustment|Active and effective engagement in group activities or tasks.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Mood Adjustment|Mood Elevation Techniques|Generating ideas and solutions collectively with team members.": [
+        "nan"
+    ],
+    "Behavioral Control|Emotional Regulation|Emotional Flexibility|Mood Adjustment|Situational Mood Alignment|Effectively identifying and resolving disagreements in social or professional settings.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Strength|Muscular Strength|Isometric Strength|Observing one's thoughts, feelings, and behaviors to remain aware of emotional states.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Strength|Muscular Strength|Isotonic Strength|Using personal logs to track and reflect upon emotional experiences over time.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Endurance|Cardiovascular Endurance|VO2 Max|Recognizing specific events or thoughts that provoke emotional responses.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Endurance|Muscular Endurance|Static Endurance|The ability to adapt emotional responses based on situational demands.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Endurance|Muscular Endurance|Dynamic Endurance|Adjusting emotional and behavioral responses to changing environments or circumstances.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Flexibility|Static Flexibility|Static Stretching|Shifting one's emotional state purposefully to better align with current goals or situations.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Flexibility|Dynamic Flexibility|Ballistic Stretching|Shaping mood to suit the requirements of a specific context or environment.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Cardiovascular Health|Heart Health|Heart Rate Variability|The ability of muscles to exert force during an activity.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Physical Fitness|Cardiovascular Health|Lung Capacity|Vital Capacity|The maximum force exerted by a muscle or muscle group without changing length.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Fine Motor Skills|Hand-Eye Coordination|Visual-Motor Integration|The ability to coordinate visual perceptual skills with motor skills.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Fine Motor Skills|Dexterity|Finger Dexterity|The maximum rate of oxygen consumption measured during incremental exercise.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Gross Motor Skills|Balance|Static Balance|The ability to continue repetitive movements involving muscle contraction over time.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Motor Skills Development|Gross Motor Skills|Balance|Dynamic Balance|The range of motion available at a joint.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Macronutrient Balance|Carbohydrate Intake|Simple Carbohydrates|Dynamic movements involving bouncing to push the flexibility boundaries.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Macronutrient Balance|Carbohydrate Intake|Complex Carbohydrates|The efficiency of the heart, lungs, and vascular system in delivering oxygen to the body during sustained activity.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Micronutrient Intake|Vitamin Intake|Water-Soluble Vitamins|The total amount of air that the lungs can hold.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Nutrition and Diet|Micronutrient Intake|Mineral Intake|Trace Minerals|Involves the development and refinement of fine and gross motor skills which are essential for coordinated movement and activity.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Sleep Quality|REM Sleep|REM Latency|Skill in performing tasks, especially with the hands.": [
+        "nan"
+    ],
+    "Physical Health and Activity|Sleep and Rest|Sleep Quantity|Sleep Duration|Napping|The ability to maintain control of body position while stationary or moving.": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Vigilance|Responsiveness to Rare Events|Signal Detection Accuracy|The consumption of organic compounds required in small amounts for growth and health.": [
+        "nan"
+    ],
+    "Attention and Perception|Sustained Attention|Vigilance|Responsiveness to Rare Events|Alertness Threshold|Vitamins that dissolve in water and are not stored in the body.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Personal Hygiene Management|Bathing and Showering Skills|Water Temperature Safety|The ability to maintain attention over prolonged periods with readiness to detect rarely occurring changes in stimuli.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Personal Hygiene Management|Bathing and Showering Skills|Water Temperature Safety|Temperature Monitoring Techniques": [
+        "The ability to detect and respond to infrequent but critical events in the environment."
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Personal Hygiene Management|Oral Hygiene|Flossing Technique|The level of alertness required to effectively detect and react to rare events.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Personal Hygiene Management|Oral Hygiene|Flossing Technique|Floss Type Selection": [
+        "The ability to maintain focus and productivity over extended periods, despite potential fatigue."
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Dressing Skills|Clothing Selection|Seasonal Clothing Choices|The ability to focus intently on a task, avoiding distractions.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Dressing Skills|Clothing Selection|Seasonal Clothing Choices|Layering Techniques": [
+        "The ability to minimize internal and external distractions to maintain focus on a task."
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Dressing Skills|Fastener Management|Adaptive Fasteners|The capacity to block out distracting environmental stimuli.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Grooming Skills|Hair Care|Protective Hairstyles|The ability to stay engaged and maintain performance in a task over long periods.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Personal Care|Grooming Skills|Nail Care|Injury Prevention|Skills related to self-care and personal hygiene, such as dressing, feeding, and grooming.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Cleaning and Organizing|Task Scheduling|Digital Calendar Usage|Skills associated with maintaining cleanliness and grooming, including bathing, tooth brushing, and hair care.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Cleaning and Organizing|Decluttering Skills|Sentimental Item Management|Skills to recognize and adjust water temperature to prevent burns during bathing.": [
+        "nan"
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Cleaning and Organizing|Decluttering Skills|Sentimental Item Management|Sentimental Value Assessment Techniques": [
+        "Methods and skills for accurately checking and adjusting water temperature before bathing."
+    ],
+    "Adaptive Functioning and Life Skills|Household Management|Budgeting and Financial Management|Expense Tracking|Expense Categorization|Choosing appropriate floss types for different dental needs and situations.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Mastery|Challenge Seeking|Flow Experience|Techniques to avoid nail and finger injuries during care, such as safe clipping methods.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Intrinsic Motivation|Mastery|Challenge Seeking|Growth Mindset|Capabilities involving cleaning, organizing, budgeting, and maintaining a living space.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Extrinsic Motivation|Introjected Regulation|Ego Involvement|Perfectionism|Methods for assessing the true sentimental value of possessions for better decluttering decisions.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Cognitive Regulation|Metacognition|Self-Monitoring|Following societal and cultural expectations and rules in various contexts.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Cognitive Regulation|Metacognition|Cognitive Flexibility|The capacity to switch between thinking about different concepts or to think about multiple concepts simultaneously.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Emotional Regulation in Goal Pursuit|Positive Reappraisal|Mood Maintenance|The capacity and processes by which individuals set goals, maintain the motivation to pursue them, and engage in behaviors aimed at achieving those goals.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Self-Regulation|Emotional Regulation in Goal Pursuit|Positive Reappraisal|Mood Maintenance|Affective Forecasting": [
+        "The drive to engage in activities for their own sake, deriving satisfaction from the activity itself rather than from external rewards."
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Resilience|Adaptive Coping|Problem-Focused Coping|The level of engagement in activities that are freely chosen.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Resilience|Adaptive Coping|Emotion-Focused Coping|Strategies to deal with emotional stress and difficulties.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Resilience|Adaptive Coping|Emotion-Focused Coping|Mindfulness": [
+        "The drive to develop competence and understanding in areas of interest, reflecting a desire for growth and personal development."
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Delayed Gratification|Future Orientation|Longitudinal Planning|The state of being fully immersed and focused in an activity, often leading to enhanced performance and satisfaction.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Persistence|Delayed Gratification|Future Orientation|Longitudinal Planning|Continuous Improvement": [
+        "The belief that abilities and intelligence can be developed through effort and dedication."
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Short-term Planning|Task Prioritization|Time Management|Behavior that conforms to external rules and demands for the sake of receiving rewards or avoiding punishment.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Short-term Planning|Task Prioritization|Time Management|Procrastination Management": [
+        "Behavior driven by internal pressures, where individuals engage in actions driven by self-imposed pressures and internal rewards."
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Long-term Planning|Strategic Visioning|Scenario Planning|Preparing for potential emotional reactions in various scenarios.": [
+        "nan"
+    ],
+    "Motivation and Goal-Directed Behavior|Goal Setting|Long-term Planning|Strategic Visioning|Scenario Planning|Risk Management": [
+        "The ability to manage one's emotions, thoughts, and behaviors in pursuit of long-term goals."
+    ],
+    "Self-Concept and Identity|Self-Esteem|Global Self-Esteem|Variable Self-Esteem|Momentary Self-Esteem|Reframing a situation to focus on positive aspects as a way to regulate emotional responses during goal pursuit.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Global Self-Esteem|Variable Self-Esteem|Contextual Self-Esteem|Strategies aimed at sustaining a positive mood to enhance goal-directed activities.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Academic Self-Esteem|Subject-Specific Self-Esteem|The capacity to recover quickly from difficulties and maintain persistent effort.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Academic Self-Esteem|Peer Comparison Self-Esteem|The use of strategies to adapt to stressors and maintain goal-directed behavior.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Social Self-Esteem|Social Anxiety Influence|Strategies aimed at managing emotional responses rather than changing the problem itself.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Esteem|Domain-Specific Self-Esteem|Social Self-Esteem|Peer Acceptance Self-Esteem|Practice of maintaining a non-judgmental state of heightened awareness of one's thoughts, emotions, or experiences as a way to reduce emotional stress.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|General Self-Efficacy|Problem-Solving Self-Efficacy|Logical Reasoning Self-Efficacy|Ongoing efforts to improve products, services, or processes over time, aligning actions with long-term goals.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|General Self-Efficacy|Problem-Solving Self-Efficacy|Creative Thinking Self-Efficacy|The process of establishing objectives or goals and developing plans to achieve them. It includes the ability to plan and prioritize effectively.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|Health-Related Self-Efficacy|Physical Activity Self-Efficacy|Effective scheduling and management of time to enhance productivity and achieve goals.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|Health-Related Self-Efficacy|Dietary Self-Efficacy|Techniques and strategies used to overcome procrastination and enhance task completion.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|Communication Self-Efficacy|Public Speaking Self-Efficacy|The capacity to envisage future achievements and formulate strategies to realize them.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Self-Efficacy|Task-Specific Self-Efficacy|Communication Self-Efficacy|Interpersonal Communication Self-Efficacy|The process of visualizing potential future scenarios to better prepare strategies.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Moral Values|Justice Values|Legal Justice Values|Consistent self-worth unaffected by situational changes.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Moral Values|Justice Values|Distributive Justice Values|Fluctuating self-worth influenced by circumstances and experiences.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Aesthetic Values|Natural Appreciation Values|Environmental Conservation Values|Evaluation of self-worth based on academic performance.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Personal Values|Aesthetic Values|Natural Appreciation Values|Wilderness Experience Values|Perceived competence and value in specific academic subjects, such as math or literature.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Vocational Exploration|Skill Development|Technical Skill Acquisition|Impact of social anxiety on perception of social worth.": [
+        "nan"
+    ],
+    "Self-Concept and Identity|Identity Exploration|Vocational Exploration|Skill Development|Soft Skill Enhancement|Self-esteem derived from being accepted and valued by peers.": [
+        "nan"
+    ]
+}

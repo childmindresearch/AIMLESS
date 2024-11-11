@@ -1,0 +1,255 @@
+{
+    "Sensation/Perception": [
+        "The ability to identify the feel or appearance of surfaces and substances.",
+        "The ability to detect the presence of a scent or odor.",
+        "The ability to distinguish different frequencies of sound.",
+        "The interpretation of information through the sense of touch.",
+        "The ability to detect and identify odors.",
+        "The ability to distinguish and name specific smells.",
+        "The ability to perceive changes in temperature.",
+        "The ability to perceive more complex combinations of taste and smell.",
+        "The ability to perceive the world in three dimensions and judge distance.",
+        "The process of inferring the speed and direction of elements in a scene.",
+        "The perception of taste and flavor.",
+        "The ability to distinguish different flavors.",
+        "The ability to identify, interpret, and attach meaning to sound.",
+        "The ability to interpret information and surroundings from visible light reaching the eyes.",
+        "The ability to recognize and interpret human speech.",
+        "This domain refers to the processes through which we detect and interpret information from the environment, through the senses, and understand sensory impressions."
+    ],
+    "Behavior": [
+        "Physical actions and movements typically associated with voluntary activity.",
+        "Large movements involving arms, legs, or entire body.",
+        "The ability to function effectively in community settings.",
+        "Interactions and behaviors that occur within a social context.",
+        "The collection of conceptual, social, and practical skills learned and performed by people to function in their everyday lives.",
+        "This domain encompasses actions and reactions of an individual in response to external or internal stimuli.",
+        "Abilities required for personal care and hygiene.",
+        "The practices and behaviors used in engaging with others.",
+        "The ability to convey or share ideas and feelings effectively.",
+        "Precise movements, typically of smaller muscle groups such as those in the fingers."
+    ],
+    "Emotion": [
+        "Observable expression of emotion.",
+        "The ability to change one's emotional response by reinterpreting the meaning of a situation.",
+        "This domain covers the complex psychological state that involves distinct subjective experiences, physiological responses, and behavioral or expressive responses.",
+        "The conscious inhibition of emotional expression.",
+        "Conveying emotion through tone of voice.",
+        "An intense state of happiness or joy.",
+        "The use of facial gestures to convey feelings or emotions.",
+        "A state of unease or generalized dissatisfaction with life.",
+        "The ability to monitor, evaluate, and modulate emotional reactions.",
+        "A temporary state of mind or feeling."
+    ],
+    "Cognition": [
+        "The ability to suppress a dominant or impulsive response.",
+        "The ability to store information indefinitely, allowing it to be retrieved when needed.",
+        "The ability to maintain focus on a task or stimulus over a prolonged period.",
+        "High-level cognitive processes that include working memory, flexible thinking, and self-control.",
+        "Focusing on a specific aspect of experience while ignoring others.",
+        "The processes that are used to encode, store, and retrieve information.",
+        "The process of finding solutions to difficult or complex issues.",
+        "The ability to focus mental resources on specific information to process it further while excluding other information.",
+        "This domain involves all processes by which sensory input is transformed, reduced, elaborated, stored, recovered, and used.",
+        "The capacity to hold a small amount of information in an active, readily-available state for a short period."
+    ],
+    "Physiology": [
+        "The role of hormones and the glands that produce them in influencing behavior and emotions.",
+        "The variation in time between each heartbeat, linked to autonomic nervous system regulation.",
+        "The functions related to the brain and neural pathways.",
+        "The ability to maintain stable blood pressure, affecting and affected by stress and emotional states.",
+        "The process by which signaling molecules called neurotransmitters are released by a neuron to communicate with other cells.",
+        "The function of the heart and blood vessels, and its impact on psychological states.",
+        "Involving hormones like insulin and their influence on metabolism and energy use.",
+        "The ability of the brain to change throughout an individual's life, e.g., brain activity associated with a given function can be transferred to a different location.",
+        "The balance and release of hormones like cortisol, involved in stress responses.",
+        "This domain encompasses the physical and biological systems that influence psychological experience and behavior."
+    ],
+    "Sensation/Perception|Visual Perception": [
+        "The ability to perceive the world in three dimensions and judge distance.",
+        "The ability to interpret information and surroundings from visible light reaching the eyes.",
+        "The process of inferring the speed and direction of elements in a scene."
+    ],
+    "Sensation/Perception|Auditory Perception": [
+        "The ability to distinguish different frequencies of sound.",
+        "The ability to recognize and interpret human speech.",
+        "The ability to identify, interpret, and attach meaning to sound."
+    ],
+    "Sensation/Perception|Tactile Perception": [
+        "The ability to identify the feel or appearance of surfaces and substances.",
+        "The ability to perceive changes in temperature.",
+        "The interpretation of information through the sense of touch."
+    ],
+    "Sensation/Perception|Olfactory Perception": [
+        "The ability to detect and identify odors.",
+        "The ability to detect the presence of a scent or odor.",
+        "The ability to distinguish and name specific smells."
+    ],
+    "Sensation/Perception|Gustatory Perception": [
+        "The perception of taste and flavor.",
+        "The ability to distinguish different flavors.",
+        "The ability to perceive more complex combinations of taste and smell."
+    ],
+    "Behavior|Motor Behavior": [
+        "Physical actions and movements typically associated with voluntary activity.",
+        "Large movements involving arms, legs, or entire body.",
+        "Precise movements, typically of smaller muscle groups such as those in the fingers."
+    ],
+    "Behavior|Social Behavior": [
+        "Interactions and behaviors that occur within a social context.",
+        "The practices and behaviors used in engaging with others.",
+        "The ability to convey or share ideas and feelings effectively."
+    ],
+    "Behavior|Adaptive Behavior": [
+        "Abilities required for personal care and hygiene.",
+        "The collection of conceptual, social, and practical skills learned and performed by people to function in their everyday lives.",
+        "The ability to function effectively in community settings."
+    ],
+    "Emotion|Affect": [
+        "Observable expression of emotion.",
+        "The use of facial gestures to convey feelings or emotions.",
+        "Conveying emotion through tone of voice."
+    ],
+    "Emotion|Mood": [
+        "An intense state of happiness or joy.",
+        "A temporary state of mind or feeling.",
+        "A state of unease or generalized dissatisfaction with life."
+    ],
+    "Emotion|Emotion Regulation": [
+        "The ability to monitor, evaluate, and modulate emotional reactions.",
+        "The conscious inhibition of emotional expression.",
+        "The ability to change one's emotional response by reinterpreting the meaning of a situation."
+    ],
+    "Cognition|Attention": [
+        "The ability to focus mental resources on specific information to process it further while excluding other information.",
+        "Focusing on a specific aspect of experience while ignoring others.",
+        "The ability to maintain focus on a task or stimulus over a prolonged period."
+    ],
+    "Cognition|Memory": [
+        "The processes that are used to encode, store, and retrieve information.",
+        "The ability to store information indefinitely, allowing it to be retrieved when needed.",
+        "The capacity to hold a small amount of information in an active, readily-available state for a short period."
+    ],
+    "Cognition|Executive Function": [
+        "The ability to suppress a dominant or impulsive response.",
+        "High-level cognitive processes that include working memory, flexible thinking, and self-control.",
+        "The process of finding solutions to difficult or complex issues."
+    ],
+    "Physiology|Neurological Functioning": [
+        "The functions related to the brain and neural pathways.",
+        "The ability of the brain to change throughout an individual's life, e.g., brain activity associated with a given function can be transferred to a different location.",
+        "The process by which signaling molecules called neurotransmitters are released by a neuron to communicate with other cells."
+    ],
+    "Physiology|Cardiovascular Functioning": [
+        "The variation in time between each heartbeat, linked to autonomic nervous system regulation.",
+        "The ability to maintain stable blood pressure, affecting and affected by stress and emotional states.",
+        "The function of the heart and blood vessels, and its impact on psychological states."
+    ],
+    "Physiology|Endocrine Functioning": [
+        "The role of hormones and the glands that produce them in influencing behavior and emotions.",
+        "Involving hormones like insulin and their influence on metabolism and energy use.",
+        "The balance and release of hormones like cortisol, involved in stress responses."
+    ],
+    "Sensation/Perception|Visual Perception|Depth Perception": [
+        "The ability to perceive the world in three dimensions and judge distance."
+    ],
+    "Sensation/Perception|Visual Perception|Motion Perception": [
+        "The process of inferring the speed and direction of elements in a scene."
+    ],
+    "Sensation/Perception|Auditory Perception|Pitch Perception": [
+        "The ability to distinguish different frequencies of sound."
+    ],
+    "Sensation/Perception|Auditory Perception|Speech Recognition": [
+        "The ability to recognize and interpret human speech."
+    ],
+    "Sensation/Perception|Tactile Perception|Texture Recognition": [
+        "The ability to identify the feel or appearance of surfaces and substances."
+    ],
+    "Sensation/Perception|Tactile Perception|Temperature Perception": [
+        "The ability to perceive changes in temperature."
+    ],
+    "Sensation/Perception|Olfactory Perception|Odor Detection": [
+        "The ability to detect the presence of a scent or odor."
+    ],
+    "Sensation/Perception|Olfactory Perception|Odor Identification": [
+        "The ability to distinguish and name specific smells."
+    ],
+    "Sensation/Perception|Gustatory Perception|Taste Discrimination": [
+        "The ability to distinguish different flavors."
+    ],
+    "Sensation/Perception|Gustatory Perception|Flavor Perception": [
+        "The ability to perceive more complex combinations of taste and smell."
+    ],
+    "Behavior|Motor Behavior|Gross Motor Skills": [
+        "Large movements involving arms, legs, or entire body."
+    ],
+    "Behavior|Motor Behavior|Fine Motor Skills": [
+        "Precise movements, typically of smaller muscle groups such as those in the fingers."
+    ],
+    "Behavior|Social Behavior|Communication Skills": [
+        "The ability to convey or share ideas and feelings effectively."
+    ],
+    "Behavior|Social Behavior|Social Interaction": [
+        "The practices and behaviors used in engaging with others."
+    ],
+    "Behavior|Adaptive Behavior|Self-Care Skills": [
+        "Abilities required for personal care and hygiene."
+    ],
+    "Behavior|Adaptive Behavior|Community Use Skills": [
+        "The ability to function effectively in community settings."
+    ],
+    "Emotion|Affect|Facial Expression": [
+        "The use of facial gestures to convey feelings or emotions."
+    ],
+    "Emotion|Affect|Vocal Expression": [
+        "Conveying emotion through tone of voice."
+    ],
+    "Emotion|Mood|Euphoria": [
+        "An intense state of happiness or joy."
+    ],
+    "Emotion|Mood|Dysphoria": [
+        "A state of unease or generalized dissatisfaction with life."
+    ],
+    "Emotion|Emotion Regulation|Cognitive Reappraisal": [
+        "The ability to change one's emotional response by reinterpreting the meaning of a situation."
+    ],
+    "Emotion|Emotion Regulation|Emotion Suppression": [
+        "The conscious inhibition of emotional expression."
+    ],
+    "Cognition|Attention|Selective Attention": [
+        "Focusing on a specific aspect of experience while ignoring others."
+    ],
+    "Cognition|Attention|Sustained Attention": [
+        "The ability to maintain focus on a task or stimulus over a prolonged period."
+    ],
+    "Cognition|Memory|Short-Term Memory": [
+        "The capacity to hold a small amount of information in an active, readily-available state for a short period."
+    ],
+    "Cognition|Memory|Long-Term Memory": [
+        "The ability to store information indefinitely, allowing it to be retrieved when needed."
+    ],
+    "Cognition|Executive Function|Problem Solving": [
+        "The process of finding solutions to difficult or complex issues."
+    ],
+    "Cognition|Executive Function|Inhibition": [
+        "The ability to suppress a dominant or impulsive response."
+    ],
+    "Physiology|Neurological Functioning|Neurotransmission": [
+        "The process by which signaling molecules called neurotransmitters are released by a neuron to communicate with other cells."
+    ],
+    "Physiology|Neurological Functioning|Neuroplasticity": [
+        "The ability of the brain to change throughout an individual's life, e.g., brain activity associated with a given function can be transferred to a different location."
+    ],
+    "Physiology|Cardiovascular Functioning|Heart Rate Variability": [
+        "The variation in time between each heartbeat, linked to autonomic nervous system regulation."
+    ],
+    "Physiology|Cardiovascular Functioning|Blood Pressure Regulation": [
+        "The ability to maintain stable blood pressure, affecting and affected by stress and emotional states."
+    ],
+    "Physiology|Endocrine Functioning|Stress Hormone Regulation": [
+        "The balance and release of hormones like cortisol, involved in stress responses."
+    ],
+    "Physiology|Endocrine Functioning|Metabolic Hormone Function": [
+        "Involving hormones like insulin and their influence on metabolism and energy use."
+    ]
+}
